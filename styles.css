@@ -522,6 +522,10 @@ body[data-theme="eye"] .summary-band {
   gap: 14px;
 }
 
+#sentenceSentinel {
+  height: 1px;
+}
+
 .study-card,
 .paper-row,
 .practice-panel,
@@ -853,45 +857,15 @@ textarea {
   line-height: 1.55;
 }
 
-.model-figure-card {
-  display: grid;
-  gap: 10px;
-  margin: 14px 0 0;
-  padding: 12px;
-  border: 1px solid var(--line);
-  border-radius: var(--radius);
-  background: rgba(255, 255, 255, 0.64);
-  box-shadow: var(--shadow-soft);
-}
-
-.model-figure-card a {
-  display: grid;
-  min-height: 230px;
-  place-items: center;
-  overflow: hidden;
-  border: 1px solid var(--line-soft);
-  border-radius: var(--radius);
-  background: #fff;
-}
-
-.model-figure-card img {
-  display: block;
-  width: 100%;
-  max-height: 560px;
-  object-fit: contain;
-}
-
-.model-figure-card figcaption {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  gap: 8px;
+.paper-note {
   color: var(--text-soft);
-  font-size: 12px;
+  line-height: 1.6;
 }
 
-.model-figure-card figcaption strong {
-  color: var(--primary-strong);
+.paper-sections {
+  display: grid;
+  gap: 14px;
+  margin-top: 16px;
 }
 
 .detail-grid {
@@ -1084,9 +1058,6 @@ textarea {
     width: fit-content;
   }
 
-  .model-figure-card a {
-    min-height: 170px;
-  }
 }
 
 @media (prefers-reduced-motion: reduce) {

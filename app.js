@@ -1,15 +1,3 @@
-const ORAL_DATA_PATHS = [
-  "../data/uk_visiting_phd_daily_english_500.json",
-  "/data/uk_visiting_phd_daily_english_500.json",
-  "./data/uk_visiting_phd_daily_english_500.json"
-];
-
-const PAPER_DATA_PATHS = [
-  "../data/paper_learning_expressions.json",
-  "/data/paper_learning_expressions.json",
-  "./data/paper_learning_expressions.json"
-];
-
 const PROGRESS_KEY = "english-study-desk-progress-v1";
 const THEME_KEY = "english-study-desk-theme-v1";
 const THEMES = ["pink", "light", "eye"];
@@ -37,6 +25,8 @@ const state = {
   dialogueFeedback: null,
   shuffledSentences: false,
   voices: [],
+  audio: null,
+  audioPaths: window.TTS_AUDIO_PATHS || {},
   progress: loadProgress()
 };
 
@@ -59,11 +49,11 @@ const nodes = {
   dialogueSelect: document.querySelector("#dialogueSelect"),
   paperSelect: document.querySelector("#paperSelect"),
   shuffleBtn: document.querySelector("#shuffleBtn"),
-  loadMoreBtn: document.querySelector("#loadMoreBtn"),
   oralView: document.querySelector("#oralView"),
   dialogueView: document.querySelector("#dialogueView"),
   paperView: document.querySelector("#paperView"),
   sentenceGrid: document.querySelector("#sentenceGrid"),
+  sentenceSentinel: document.querySelector("#sentenceSentinel"),
   sentenceTemplate: document.querySelector("#sentenceCardTemplate"),
   dialogueTitle: document.querySelector("#dialogueTitle"),
   promptBox: document.querySelector("#promptBox"),
@@ -81,6 +71,13 @@ const nodes = {
   paperList: document.querySelector("#paperList"),
   paperDetail: document.querySelector("#paperDetail")
 };
+
+const sentenceObserver = new IntersectionObserver((entries) => {
+  if (!entries[0].isIntersecting || state.view !== "oral") return;
+  if (state.sentenceLimit >= filteredSentences().length) return;
+  state.sentenceLimit += 24;
+  renderOral();
+}, { rootMargin: "0px 0px 240px 0px" });
 
 init();
 
@@ -115,46 +112,9 @@ async function init() {
 }
 
 async function loadStudyData() {
-  const [oralResult, paperResult] = await Promise.allSettled([
-    fetchJson(ORAL_DATA_PATHS),
-    fetchJson(PAPER_DATA_PATHS)
-  ]);
   const embedded = window.LEARNING_SITE_DATA || {};
-  const oral = oralResult.status === "fulfilled" ? oralResult.value : embedded.oral;
-  const paperBank = paperResult.status === "fulfilled" ? paperResult.value : embedded.paperBank;
-
-  if (oral && paperBank) {
-    const source =
-      oralResult.status === "fulfilled" && paperResult.status === "fulfilled"
-        ? "已读取 data 文件"
-        : "已读取内嵌数据";
-    return { oral, paperBank, source };
-  }
-
-  const failures = [oralResult, paperResult]
-    .filter((result) => result.status === "rejected")
-    .map((result) => result.reason?.message)
-    .filter(Boolean);
-  throw new Error(failures.join(" | ") || "缺少学习数据");
-}
-
-async function fetchJson(paths) {
-  const failures = [];
-
-  for (const path of paths) {
-    try {
-      const response = await fetch(path, { cache: "no-store" });
-      if (!response.ok) {
-        failures.push(`${path}: ${response.status}`);
-        continue;
-      }
-      return await response.json();
-    } catch (error) {
-      failures.push(`${path}: ${error.message}`);
-    }
-  }
-
-  throw new Error(failures.join(" | "));
+  if (!embedded.oral || !embedded.paperBank) throw new Error("缺少学习数据包");
+  return { oral: embedded.oral, paperBank: embedded.paperBank, source: "已读取内嵌数据" };
 }
 
 function bindEvents() {
@@ -226,11 +186,6 @@ function bindEvents() {
     }
   });
 
-  nodes.loadMoreBtn.addEventListener("click", () => {
-    state.sentenceLimit += 24;
-    renderOral();
-  });
-
   nodes.replyInput.addEventListener("input", () => {
     state.dialogueFeedback = null;
     renderDialogueFeedback();
@@ -289,6 +244,7 @@ function bindEvents() {
 
   nodes.rateControl.addEventListener("input", () => {
     nodes.rateValue.textContent = Number(nodes.rateControl.value).toFixed(2);
+    if (state.audio) state.audio.playbackRate = Number(nodes.rateControl.value);
   });
 }
 
@@ -392,7 +348,7 @@ function populatePaperSelect() {
       (paper) =>
         `<option value="${escapeAttr(paper.id)}">${escapeHtml(
           paper.short_title
-        )} · ${escapeHtml(paper.year)}</option>`
+        )} · ${escapeHtml(paper.venue)}</option>`
     )
     .join("");
 }
@@ -401,9 +357,7 @@ function renderOral() {
   const items = filteredSentences();
   const visibleItems = items.slice(0, state.sentenceLimit);
 
-  nodes.loadMoreBtn.disabled = visibleItems.length >= items.length;
-  nodes.loadMoreBtn.textContent =
-    visibleItems.length >= items.length ? "Done" : `More (${items.length - visibleItems.length})`;
+  sentenceObserver.unobserve(nodes.sentenceSentinel);
 
   if (!visibleItems.length) {
     nodes.sentenceGrid.innerHTML = `<div class="empty">没有匹配的口语句子</div>`;
@@ -424,7 +378,7 @@ function renderOral() {
     tag.textContent = item.category_zh;
     english.textContent = item.en;
     chinese.textContent = item.zh;
-    speakBtn.addEventListener("click", () => speakText(item.en));
+    speakBtn.addEventListener("click", () => speakText(item.en, { id: item.id }));
     rememberBtn.classList.toggle("is-saved", Boolean(state.progress.sentences[item.id]));
     rememberBtn.textContent = state.progress.sentences[item.id] ? "Remembered" : "Remember";
     rememberBtn.addEventListener("click", () => {
@@ -436,6 +390,9 @@ function renderOral() {
 
     card.dataset.id = item.id;
     nodes.sentenceGrid.appendChild(fragment);
+  }
+  if (visibleItems.length < items.length) {
+    sentenceObserver.observe(nodes.sentenceSentinel);
   }
 }
 
@@ -773,7 +730,7 @@ function renderPapers() {
             )}">
               <strong>${escapeHtml(paper.short_title)}</strong>
               <span>${escapeHtml(paper.venue)}</span>
-              <span>${escapeHtml(paper.title)}</span>
+              <span>${paper.sections.reduce((sum, section) => sum + section.sentences.length, 0)} 句</span>
             </button>
           `
         )
@@ -792,8 +749,18 @@ function renderPapers() {
     ? paperDetailHtml(activePaper)
     : `<div class="empty">没有匹配的论文表达</div>`;
 
-  for (const button of nodes.paperDetail.querySelectorAll("[data-speak]")) {
-    button.addEventListener("click", () => speakText(button.dataset.speak));
+  for (const button of nodes.paperDetail.querySelectorAll("[data-sentence-id]")) {
+    button.addEventListener("click", () => {
+      const sentence = activePaper.sections.flatMap((section) => section.sentences)
+        .find((item) => item.id === button.dataset.sentenceId);
+      if (sentence) speakText(sentence.en, { id: sentence.id });
+    });
+  }
+  for (const button of nodes.paperDetail.querySelectorAll("[data-section-index]")) {
+    button.addEventListener("click", () => {
+      const section = activePaper.sections[Number(button.dataset.sectionIndex)];
+      if (section) speakLines(section.sentences);
+    });
   }
 }
 
@@ -804,171 +771,39 @@ function filteredPapers() {
 }
 
 function paperDetailHtml(paper) {
-  const flow = paper.meeting_flow || {};
-  const metrics = flow.metrics || [];
-  const general = state.paperBank?.general_academic_expressions || [];
-
   return `
     <div class="paper-title-row">
       <div>
-        <p class="eyebrow">${escapeHtml(paper.short_title)}</p>
+        <p class="eyebrow">${escapeHtml(paper.id)} · ${escapeHtml(paper.venue)}</p>
         <h2>${escapeHtml(paper.title)}</h2>
       </div>
-      <button class="primary-action" type="button" data-speak="${escapeAttr(
-        paper.english_presentation?.[0]?.en || paper.title
-      )}">Listen</button>
     </div>
-
-    <p class="paper-meta">
-      ${escapeHtml(paper.venue)} · ${escapeHtml(paper.authors)} · ${escapeHtml(
-        paper.pdf_file
-      )}
-    </p>
-
-    <div class="chips">
-      ${(paper.topic_tags || [])
-        .map((tag) => `<span class="chip">${escapeHtml(tag)}</span>`)
-        .join("")}
-      <span class="chip alt">${escapeHtml(paper.figure_status)}</span>
-    </div>
-
-    ${paperFigureHtml(paper)}
-
-    <div class="detail-grid">
-      ${presentationExpressionsHtml(paper)}
-      ${qaPracticeHtml(paper)}
-      ${detailBlock("一句话", `<p>${escapeHtml(paper.one_sentence_zh)}</p>`)}
-      ${detailBlock("任务介绍", `<p>${escapeHtml(flow.task_introduction)}</p>`)}
-      ${detailBlock("动机", `<p>${escapeHtml(flow.motivation)}</p>`)}
-      ${detailBlock("前人工作弊端", listHtml(flow.prior_work_limitations))}
-      ${detailBlock("提出的方法", `<p>${escapeHtml(flow.proposed_method)}</p>`, true)}
-      ${detailBlock("实验设计", `<p>${escapeHtml(flow.experiments)}</p>`, true)}
-      ${detailBlock(
-        "评价指标",
-        `<ul>${metrics
-          .map(
-            (metric) =>
-              `<li><strong>${escapeHtml(metric.name)}:</strong> ${escapeHtml(metric.meaning)}</li>`
-          )
-          .join("")}</ul>`,
-        true
-      )}
-      ${detailBlock("主要结论", listHtml(flow.main_findings), true)}
-      ${detailBlock("局限", listHtml(flow.limitations), true)}
-      ${detailBlock(
-        "方法模块",
-        `<ul>${(paper.method_modules || [])
-          .map(
-            (module) =>
-              `<li><strong>${escapeHtml(module.name)}:</strong> ${escapeHtml(module.description)}</li>`
-          )
-          .join("")}</ul>`,
-        true
-      )}
-      ${detailBlock(
-        "通用学术句式",
-        `<div class="expression-list">${general
-          .map(
-            (item) => `
+    <p class="paper-meta"><a href="${escapeAttr(paper.url)}" target="_blank" rel="noopener noreferrer">查看论文来源</a> ·
+      ${paper.sections.length} 个章节 · ${paper.sections.reduce((sum, section) => sum + section.sentences.length, 0)} 句</p>
+    <p class="paper-note">以下英文为依据论文内容改写的口头汇报句，不是论文原文引用；“局限与讨论”包含讨论性分析。</p>
+    <div class="paper-sections">
+      ${paper.sections.map((section, index) => `
+        <section class="detail-block wide">
+          <div class="section-head">
+            <h3>${escapeHtml(section.title_en)} · ${escapeHtml(section.title_zh)}</h3>
+            <button class="secondary-action" type="button" data-section-index="${index}">播放本章</button>
+          </div>
+          <div class="expression-list">
+            ${section.sentences.map((sentence) => `
               <div class="expression-row">
                 <div class="expression-actions">
-                  <span class="chip">${escapeHtml(item.usage)}</span>
-                  <button class="mini-button" type="button" data-speak="${escapeAttr(item.en)}">Listen</button>
+                  <span class="chip purple">${escapeHtml(sentence.id)}</span>
+                  <button class="mini-button" type="button" data-sentence-id="${escapeAttr(sentence.id)}">Listen</button>
                 </div>
-                <p class="english">${escapeHtml(item.en)}</p>
-                <p>${escapeHtml(item.zh)}</p>
+                <p class="english">${escapeHtml(sentence.en)}</p>
+                <p>${escapeHtml(sentence.zh)}</p>
               </div>
-            `
-          )
-          .join("")}</div>`,
-        true
-      )}
+            `).join("")}
+          </div>
+        </section>
+      `).join("")}
     </div>
   `;
-}
-
-function presentationExpressionsHtml(paper) {
-  return detailBlock(
-    "汇报表达",
-    `<div class="expression-list">${(paper.english_presentation || [])
-      .map(
-        (item) => `
-          <div class="expression-row">
-            <div class="expression-actions">
-              <span class="chip purple">${escapeHtml(item.stage)}</span>
-              <button class="mini-button" type="button" data-speak="${escapeAttr(item.en)}">播放表达</button>
-            </div>
-            <p class="english">${escapeHtml(item.en)}</p>
-            <p>${escapeHtml(item.zh)}</p>
-          </div>
-        `
-      )
-      .join("")}</div>`,
-    true
-  );
-}
-
-function qaPracticeHtml(paper) {
-  return detailBlock(
-    "问答练习",
-    `<div class="qa-list">${(paper.qa_practice || [])
-      .map(
-        (item, index) => `
-          <div class="qa-row">
-            <div class="qa-heading">
-              <span class="chip">Q${index + 1}</span>
-              <button class="mini-button" type="button" data-speak="${escapeAttr(item.question)}">播放问题</button>
-              <button class="mini-button" type="button" data-speak="${escapeAttr(item.answer)}">播放回答</button>
-            </div>
-            <div class="qa-pair">
-              <span class="qa-label">Question</span>
-              <h3>${escapeHtml(item.question)}</h3>
-              <p>${escapeHtml(item.question_zh || "")}</p>
-            </div>
-            <div class="qa-pair">
-              <span class="qa-label">Answer</span>
-              <p class="english">${escapeHtml(item.answer)}</p>
-              <p>${escapeHtml(item.answer_zh || "")}</p>
-            </div>
-          </div>
-        `
-      )
-      .join("")}</div>`,
-    true
-  );
-}
-
-function paperFigureHtml(paper) {
-  if (!/extracted/i.test(paper.figure_status || "")) return "";
-  const baseName = String(paper.pdf_file || "").replace(/\.pdf$/i, "");
-  if (!baseName) return "";
-  const src = `../paper-reading-output/${baseName}/model_figure.png`;
-
-  return `
-    <figure class="model-figure-card">
-      <a href="${escapeAttr(src)}" target="_blank" rel="noreferrer">
-        <img src="${escapeAttr(src)}" alt="${escapeAttr(paper.short_title)} 模型框架图" loading="lazy" />
-      </a>
-      <figcaption>
-        <strong>Model Figure</strong>
-        <span>点击图片可查看原始尺寸。</span>
-      </figcaption>
-    </figure>
-  `;
-}
-
-function detailBlock(title, body, wide = false) {
-  return `
-    <section class="detail-block ${wide ? "wide" : ""}">
-      <h3>${escapeHtml(title)}</h3>
-      ${body || "<p>论文中未明确说明。</p>"}
-    </section>
-  `;
-}
-
-function listHtml(items) {
-  if (!items?.length) return "<p>论文中未明确说明。</p>";
-  return `<ul>${items.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}</ul>`;
 }
 
 function updateStats() {
@@ -1072,6 +907,15 @@ function speakText(text, options = {}) {
   const content = String(text || "").trim();
   if (!content) return;
 
+  const path = options.id && state.audioPaths[options.id];
+  if (path) {
+    stopSpeech();
+    state.audio = new Audio(`./audio/${path}`);
+    state.audio.playbackRate = Number(nodes.rateControl.value) || 0.92;
+    state.audio.play().catch(() => setStatus("音频播放失败，请检查音频文件"));
+    return;
+  }
+
   if (!("speechSynthesis" in window)) {
     setStatus("当前浏览器不支持英文朗读");
     return;
@@ -1083,12 +927,34 @@ function speakText(text, options = {}) {
 
 function speakLines(lines) {
   stopSpeech();
+  if (lines.every((line) => typeof line !== "string" && state.audioPaths[line.id])) {
+    let index = 0;
+    const playNext = () => {
+      if (index >= lines.length) {
+        state.audio = null;
+        return;
+      }
+      const line = lines[index++];
+      state.audio = new Audio(`./audio/${state.audioPaths[line.id]}`);
+      state.audio.playbackRate = Number(nodes.rateControl.value) || 0.92;
+      state.audio.onended = playNext;
+      state.audio.play().catch(() => setStatus("章节音频播放失败"));
+    };
+    playNext();
+    return;
+  }
   for (const line of lines.filter(Boolean)) {
-    speakText(line, { queue: true });
+    speakText(typeof line === "string" ? line : line.en, { queue: true });
   }
 }
 
 function stopSpeech() {
+  if (state.audio) {
+    state.audio.pause();
+    state.audio.onended = null;
+    state.audio.currentTime = 0;
+    state.audio = null;
+  }
   if ("speechSynthesis" in window) {
     window.speechSynthesis.cancel();
   }

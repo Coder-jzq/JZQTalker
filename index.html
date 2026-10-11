@@ -9,7 +9,7 @@
       content="JZQ-Talker：口语背诵、对话回答和论文汇报英文表达学习台"
     />
     <title>JZQ-Talker</title>
-    <link rel="stylesheet" href="./styles.css?v=20260912-pastel-v2" />
+    <link rel="stylesheet" href="./styles.css?v=20261011-papers-audio-v1" />
   </head>
   <body data-theme="pink">
     <header class="topbar">
@@ -65,7 +65,7 @@
 
         <div class="voice-bar" aria-label="英文朗读设置">
           <label class="field compact">
-            <span>Voice</span>
+            <span title="预生成音频固定使用 Achernar；这里仅调整浏览器备用朗读">Browser Voice</span>
             <select id="voiceSelect"></select>
           </label>
           <label class="field rate-field">
@@ -148,11 +148,9 @@
             <p class="eyebrow">Daily English</p>
             <h2>基础句子</h2>
           </div>
-          <button id="loadMoreBtn" class="secondary-action" type="button">
-            More
-          </button>
         </div>
         <div id="sentenceGrid" class="card-grid"></div>
+        <div id="sentenceSentinel" aria-hidden="true"></div>
       </section>
 
       <section id="dialogueView" class="workspace hidden" aria-label="对话回答">
@@ -240,7 +238,8 @@
       </article>
     </template>
 
-    <script src="./data.bundle.js?v=20260912-pastel-v2"></script>
-    <script src="./app.js?v=20260912-pastel-v2"></script>
+    <script src="./data.bundle.js?v=20261011-papers-v1"></script>
+    <script src="./audio/available.js?v=20261011161504"></script>
+    <script src="./app.js?v=20261011-papers-audio-v1"></script>
   </body>
 </html>
