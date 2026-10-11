@@ -1,0 +1,6673 @@
+{
+  "model": "gemini-2.5-flash-lite-preview-tts",
+  "voice": "Achernar",
+  "locale_prompt": "English (United Kingdom)",
+  "entries": [
+    {
+      "id": "S001",
+      "kind": "oral",
+      "text": "Morning!",
+      "path": "oral/S001.mp3"
+    },
+    {
+      "id": "S002",
+      "kind": "oral",
+      "text": "Good morning.",
+      "path": "oral/S002.mp3"
+    },
+    {
+      "id": "S003",
+      "kind": "oral",
+      "text": "Hi, how are you?",
+      "path": "oral/S003.mp3"
+    },
+    {
+      "id": "S004",
+      "kind": "oral",
+      "text": "How's it going?",
+      "path": "oral/S004.mp3"
+    },
+    {
+      "id": "S005",
+      "kind": "oral",
+      "text": "You alright?",
+      "path": "oral/S005.mp3"
+    },
+    {
+      "id": "S006",
+      "kind": "oral",
+      "text": "Yeah, not bad. You?",
+      "path": "oral/S006.mp3"
+    },
+    {
+      "id": "S007",
+      "kind": "oral",
+      "text": "I'm good, thanks.",
+      "path": "oral/S007.mp3"
+    },
+    {
+      "id": "S008",
+      "kind": "oral",
+      "text": "Pretty good, thanks.",
+      "path": "oral/S008.mp3"
+    },
+    {
+      "id": "S009",
+      "kind": "oral",
+      "text": "Not too bad.",
+      "path": "oral/S009.mp3"
+    },
+    {
+      "id": "S010",
+      "kind": "oral",
+      "text": "Can't complain.",
+      "path": "oral/S010.mp3"
+    },
+    {
+      "id": "S011",
+      "kind": "oral",
+      "text": "How are things?",
+      "path": "oral/S011.mp3"
+    },
+    {
+      "id": "S012",
+      "kind": "oral",
+      "text": "Everything's good.",
+      "path": "oral/S012.mp3"
+    },
+    {
+      "id": "S013",
+      "kind": "oral",
+      "text": "Nice to see you.",
+      "path": "oral/S013.mp3"
+    },
+    {
+      "id": "S014",
+      "kind": "oral",
+      "text": "Good to see you again.",
+      "path": "oral/S014.mp3"
+    },
+    {
+      "id": "S015",
+      "kind": "oral",
+      "text": "Long time no see.",
+      "path": "oral/S015.mp3"
+    },
+    {
+      "id": "S016",
+      "kind": "oral",
+      "text": "How have you been?",
+      "path": "oral/S016.mp3"
+    },
+    {
+      "id": "S017",
+      "kind": "oral",
+      "text": "I've been good.",
+      "path": "oral/S017.mp3"
+    },
+    {
+      "id": "S018",
+      "kind": "oral",
+      "text": "What have you been up to?",
+      "path": "oral/S018.mp3"
+    },
+    {
+      "id": "S019",
+      "kind": "oral",
+      "text": "Nothing much.",
+      "path": "oral/S019.mp3"
+    },
+    {
+      "id": "S020",
+      "kind": "oral",
+      "text": "Same as usual.",
+      "path": "oral/S020.mp3"
+    },
+    {
+      "id": "S021",
+      "kind": "oral",
+      "text": "Busy as usual.",
+      "path": "oral/S021.mp3"
+    },
+    {
+      "id": "S022",
+      "kind": "oral",
+      "text": "How's your day going?",
+      "path": "oral/S022.mp3"
+    },
+    {
+      "id": "S023",
+      "kind": "oral",
+      "text": "So far, so good.",
+      "path": "oral/S023.mp3"
+    },
+    {
+      "id": "S024",
+      "kind": "oral",
+      "text": "How was your morning?",
+      "path": "oral/S024.mp3"
+    },
+    {
+      "id": "S025",
+      "kind": "oral",
+      "text": "It's been quite busy.",
+      "path": "oral/S025.mp3"
+    },
+    {
+      "id": "S026",
+      "kind": "oral",
+      "text": "Have a good day!",
+      "path": "oral/S026.mp3"
+    },
+    {
+      "id": "S027",
+      "kind": "oral",
+      "text": "You too!",
+      "path": "oral/S027.mp3"
+    },
+    {
+      "id": "S028",
+      "kind": "oral",
+      "text": "See you later.",
+      "path": "oral/S028.mp3"
+    },
+    {
+      "id": "S029",
+      "kind": "oral",
+      "text": "See you tomorrow.",
+      "path": "oral/S029.mp3"
+    },
+    {
+      "id": "S030",
+      "kind": "oral",
+      "text": "Have a good evening.",
+      "path": "oral/S030.mp3"
+    },
+    {
+      "id": "S031",
+      "kind": "oral",
+      "text": "Morning, everyone.",
+      "path": "oral/S031.mp3"
+    },
+    {
+      "id": "S032",
+      "kind": "oral",
+      "text": "Is anyone sitting here?",
+      "path": "oral/S032.mp3"
+    },
+    {
+      "id": "S033",
+      "kind": "oral",
+      "text": "Is this seat free?",
+      "path": "oral/S033.mp3"
+    },
+    {
+      "id": "S034",
+      "kind": "oral",
+      "text": "Do you mind if I sit here?",
+      "path": "oral/S034.mp3"
+    },
+    {
+      "id": "S035",
+      "kind": "oral",
+      "text": "Of course not.",
+      "path": "oral/S035.mp3"
+    },
+    {
+      "id": "S036",
+      "kind": "oral",
+      "text": "Go ahead.",
+      "path": "oral/S036.mp3"
+    },
+    {
+      "id": "S037",
+      "kind": "oral",
+      "text": "Are you in the office today?",
+      "path": "oral/S037.mp3"
+    },
+    {
+      "id": "S038",
+      "kind": "oral",
+      "text": "Yeah, I'm in today.",
+      "path": "oral/S038.mp3"
+    },
+    {
+      "id": "S039",
+      "kind": "oral",
+      "text": "I'm working from home today.",
+      "path": "oral/S039.mp3"
+    },
+    {
+      "id": "S040",
+      "kind": "oral",
+      "text": "I'll be in tomorrow.",
+      "path": "oral/S040.mp3"
+    },
+    {
+      "id": "S041",
+      "kind": "oral",
+      "text": "What time did you get in?",
+      "path": "oral/S041.mp3"
+    },
+    {
+      "id": "S042",
+      "kind": "oral",
+      "text": "I got in around nine.",
+      "path": "oral/S042.mp3"
+    },
+    {
+      "id": "S043",
+      "kind": "oral",
+      "text": "I've just got here.",
+      "path": "oral/S043.mp3"
+    },
+    {
+      "id": "S044",
+      "kind": "oral",
+      "text": "I've been here since eight.",
+      "path": "oral/S044.mp3"
+    },
+    {
+      "id": "S045",
+      "kind": "oral",
+      "text": "Are you staying late today?",
+      "path": "oral/S045.mp3"
+    },
+    {
+      "id": "S046",
+      "kind": "oral",
+      "text": "Probably not.",
+      "path": "oral/S046.mp3"
+    },
+    {
+      "id": "S047",
+      "kind": "oral",
+      "text": "I might leave a bit early today.",
+      "path": "oral/S047.mp3"
+    },
+    {
+      "id": "S048",
+      "kind": "oral",
+      "text": "I'm heading off soon.",
+      "path": "oral/S048.mp3"
+    },
+    {
+      "id": "S049",
+      "kind": "oral",
+      "text": "Are you done for the day?",
+      "path": "oral/S049.mp3"
+    },
+    {
+      "id": "S050",
+      "kind": "oral",
+      "text": "Pretty much.",
+      "path": "oral/S050.mp3"
+    },
+    {
+      "id": "S051",
+      "kind": "oral",
+      "text": "I've still got a few things to do.",
+      "path": "oral/S051.mp3"
+    },
+    {
+      "id": "S052",
+      "kind": "oral",
+      "text": "I'm nearly finished.",
+      "path": "oral/S052.mp3"
+    },
+    {
+      "id": "S053",
+      "kind": "oral",
+      "text": "I'm just finishing something off.",
+      "path": "oral/S053.mp3"
+    },
+    {
+      "id": "S054",
+      "kind": "oral",
+      "text": "I'll be back in a minute.",
+      "path": "oral/S054.mp3"
+    },
+    {
+      "id": "S055",
+      "kind": "oral",
+      "text": "I'm just popping out.",
+      "path": "oral/S055.mp3"
+    },
+    {
+      "id": "S056",
+      "kind": "oral",
+      "text": "Where are you going?",
+      "path": "oral/S056.mp3"
+    },
+    {
+      "id": "S057",
+      "kind": "oral",
+      "text": "Just downstairs.",
+      "path": "oral/S057.mp3"
+    },
+    {
+      "id": "S058",
+      "kind": "oral",
+      "text": "I'll see you in a bit.",
+      "path": "oral/S058.mp3"
+    },
+    {
+      "id": "S059",
+      "kind": "oral",
+      "text": "See you in a bit.",
+      "path": "oral/S059.mp3"
+    },
+    {
+      "id": "S060",
+      "kind": "oral",
+      "text": "Catch you later.",
+      "path": "oral/S060.mp3"
+    },
+    {
+      "id": "S061",
+      "kind": "oral",
+      "text": "Nice weather today.",
+      "path": "oral/S061.mp3"
+    },
+    {
+      "id": "S062",
+      "kind": "oral",
+      "text": "It's lovely outside.",
+      "path": "oral/S062.mp3"
+    },
+    {
+      "id": "S063",
+      "kind": "oral",
+      "text": "It's quite warm today.",
+      "path": "oral/S063.mp3"
+    },
+    {
+      "id": "S064",
+      "kind": "oral",
+      "text": "It's a bit cold today.",
+      "path": "oral/S064.mp3"
+    },
+    {
+      "id": "S065",
+      "kind": "oral",
+      "text": "It's freezing outside.",
+      "path": "oral/S065.mp3"
+    },
+    {
+      "id": "S066",
+      "kind": "oral",
+      "text": "It's a bit chilly.",
+      "path": "oral/S066.mp3"
+    },
+    {
+      "id": "S067",
+      "kind": "oral",
+      "text": "It's really windy today.",
+      "path": "oral/S067.mp3"
+    },
+    {
+      "id": "S068",
+      "kind": "oral",
+      "text": "It's raining again.",
+      "path": "oral/S068.mp3"
+    },
+    {
+      "id": "S069",
+      "kind": "oral",
+      "text": "Typical British weather.",
+      "path": "oral/S069.mp3"
+    },
+    {
+      "id": "S070",
+      "kind": "oral",
+      "text": "It looks like it's going to rain.",
+      "path": "oral/S070.mp3"
+    },
+    {
+      "id": "S071",
+      "kind": "oral",
+      "text": "Looks like rain.",
+      "path": "oral/S071.mp3"
+    },
+    {
+      "id": "S072",
+      "kind": "oral",
+      "text": "Did you bring an umbrella?",
+      "path": "oral/S072.mp3"
+    },
+    {
+      "id": "S073",
+      "kind": "oral",
+      "text": "Luckily, I did.",
+      "path": "oral/S073.mp3"
+    },
+    {
+      "id": "S074",
+      "kind": "oral",
+      "text": "I forgot mine.",
+      "path": "oral/S074.mp3"
+    },
+    {
+      "id": "S075",
+      "kind": "oral",
+      "text": "It's stopped raining.",
+      "path": "oral/S075.mp3"
+    },
+    {
+      "id": "S076",
+      "kind": "oral",
+      "text": "The sun's finally out.",
+      "path": "oral/S076.mp3"
+    },
+    {
+      "id": "S077",
+      "kind": "oral",
+      "text": "It's quite sunny today.",
+      "path": "oral/S077.mp3"
+    },
+    {
+      "id": "S078",
+      "kind": "oral",
+      "text": "The weather changes so quickly here.",
+      "path": "oral/S078.mp3"
+    },
+    {
+      "id": "S079",
+      "kind": "oral",
+      "text": "It was sunny five minutes ago.",
+      "path": "oral/S079.mp3"
+    },
+    {
+      "id": "S080",
+      "kind": "oral",
+      "text": "It's getting colder.",
+      "path": "oral/S080.mp3"
+    },
+    {
+      "id": "S081",
+      "kind": "oral",
+      "text": "It's getting dark early now.",
+      "path": "oral/S081.mp3"
+    },
+    {
+      "id": "S082",
+      "kind": "oral",
+      "text": "It's quite nice for this time of year.",
+      "path": "oral/S082.mp3"
+    },
+    {
+      "id": "S083",
+      "kind": "oral",
+      "text": "Hopefully it'll be nice this weekend.",
+      "path": "oral/S083.mp3"
+    },
+    {
+      "id": "S084",
+      "kind": "oral",
+      "text": "The forecast doesn't look great.",
+      "path": "oral/S084.mp3"
+    },
+    {
+      "id": "S085",
+      "kind": "oral",
+      "text": "Apparently it's going to rain all weekend.",
+      "path": "oral/S085.mp3"
+    },
+    {
+      "id": "S086",
+      "kind": "oral",
+      "text": "That's a shame.",
+      "path": "oral/S086.mp3"
+    },
+    {
+      "id": "S087",
+      "kind": "oral",
+      "text": "Hopefully it'll clear up.",
+      "path": "oral/S087.mp3"
+    },
+    {
+      "id": "S088",
+      "kind": "oral",
+      "text": "It's much nicer than yesterday.",
+      "path": "oral/S088.mp3"
+    },
+    {
+      "id": "S089",
+      "kind": "oral",
+      "text": "At least it's not raining.",
+      "path": "oral/S089.mp3"
+    },
+    {
+      "id": "S090",
+      "kind": "oral",
+      "text": "That's true.",
+      "path": "oral/S090.mp3"
+    },
+    {
+      "id": "S091",
+      "kind": "oral",
+      "text": "Do you want a coffee?",
+      "path": "oral/S091.mp3"
+    },
+    {
+      "id": "S092",
+      "kind": "oral",
+      "text": "Fancy a coffee?",
+      "path": "oral/S092.mp3"
+    },
+    {
+      "id": "S093",
+      "kind": "oral",
+      "text": "Yeah, sure.",
+      "path": "oral/S093.mp3"
+    },
+    {
+      "id": "S094",
+      "kind": "oral",
+      "text": "I'd love one.",
+      "path": "oral/S094.mp3"
+    },
+    {
+      "id": "S095",
+      "kind": "oral",
+      "text": "No, I'm good, thanks.",
+      "path": "oral/S095.mp3"
+    },
+    {
+      "id": "S096",
+      "kind": "oral",
+      "text": "I'm just making some coffee.",
+      "path": "oral/S096.mp3"
+    },
+    {
+      "id": "S097",
+      "kind": "oral",
+      "text": "Do you want anything?",
+      "path": "oral/S097.mp3"
+    },
+    {
+      "id": "S098",
+      "kind": "oral",
+      "text": "A coffee would be great.",
+      "path": "oral/S098.mp3"
+    },
+    {
+      "id": "S099",
+      "kind": "oral",
+      "text": "Tea or coffee?",
+      "path": "oral/S099.mp3"
+    },
+    {
+      "id": "S100",
+      "kind": "oral",
+      "text": "Coffee, please.",
+      "path": "oral/S100.mp3"
+    },
+    {
+      "id": "S101",
+      "kind": "oral",
+      "text": "How do you take your coffee?",
+      "path": "oral/S101.mp3"
+    },
+    {
+      "id": "S102",
+      "kind": "oral",
+      "text": "Just black, thanks.",
+      "path": "oral/S102.mp3"
+    },
+    {
+      "id": "S103",
+      "kind": "oral",
+      "text": "With a bit of milk, please.",
+      "path": "oral/S103.mp3"
+    },
+    {
+      "id": "S104",
+      "kind": "oral",
+      "text": "No sugar, thanks.",
+      "path": "oral/S104.mp3"
+    },
+    {
+      "id": "S105",
+      "kind": "oral",
+      "text": "One sugar, please.",
+      "path": "oral/S105.mp3"
+    },
+    {
+      "id": "S106",
+      "kind": "oral",
+      "text": "Do you take milk?",
+      "path": "oral/S106.mp3"
+    },
+    {
+      "id": "S107",
+      "kind": "oral",
+      "text": "Just a little.",
+      "path": "oral/S107.mp3"
+    },
+    {
+      "id": "S108",
+      "kind": "oral",
+      "text": "The kettle's just boiled.",
+      "path": "oral/S108.mp3"
+    },
+    {
+      "id": "S109",
+      "kind": "oral",
+      "text": "Where are the mugs?",
+      "path": "oral/S109.mp3"
+    },
+    {
+      "id": "S110",
+      "kind": "oral",
+      "text": "They're in that cupboard.",
+      "path": "oral/S110.mp3"
+    },
+    {
+      "id": "S111",
+      "kind": "oral",
+      "text": "Is this your mug?",
+      "path": "oral/S111.mp3"
+    },
+    {
+      "id": "S112",
+      "kind": "oral",
+      "text": "No, it's not mine.",
+      "path": "oral/S112.mp3"
+    },
+    {
+      "id": "S113",
+      "kind": "oral",
+      "text": "Help yourself.",
+      "path": "oral/S113.mp3"
+    },
+    {
+      "id": "S114",
+      "kind": "oral",
+      "text": "Do you want some water?",
+      "path": "oral/S114.mp3"
+    },
+    {
+      "id": "S115",
+      "kind": "oral",
+      "text": "I'm going to fill up my bottle.",
+      "path": "oral/S115.mp3"
+    },
+    {
+      "id": "S116",
+      "kind": "oral",
+      "text": "Where's the water dispenser?",
+      "path": "oral/S116.mp3"
+    },
+    {
+      "id": "S117",
+      "kind": "oral",
+      "text": "Just around the corner.",
+      "path": "oral/S117.mp3"
+    },
+    {
+      "id": "S118",
+      "kind": "oral",
+      "text": "Thanks, cheers.",
+      "path": "oral/S118.mp3"
+    },
+    {
+      "id": "S119",
+      "kind": "oral",
+      "text": "Cheers!",
+      "path": "oral/S119.mp3"
+    },
+    {
+      "id": "S120",
+      "kind": "oral",
+      "text": "No problem.",
+      "path": "oral/S120.mp3"
+    },
+    {
+      "id": "S121",
+      "kind": "oral",
+      "text": "Have you had lunch yet?",
+      "path": "oral/S121.mp3"
+    },
+    {
+      "id": "S122",
+      "kind": "oral",
+      "text": "Not yet.",
+      "path": "oral/S122.mp3"
+    },
+    {
+      "id": "S123",
+      "kind": "oral",
+      "text": "Yeah, I have.",
+      "path": "oral/S123.mp3"
+    },
+    {
+      "id": "S124",
+      "kind": "oral",
+      "text": "What are you having for lunch?",
+      "path": "oral/S124.mp3"
+    },
+    {
+      "id": "S125",
+      "kind": "oral",
+      "text": "I brought something from home.",
+      "path": "oral/S125.mp3"
+    },
+    {
+      "id": "S126",
+      "kind": "oral",
+      "text": "I'm going to grab something downstairs.",
+      "path": "oral/S126.mp3"
+    },
+    {
+      "id": "S127",
+      "kind": "oral",
+      "text": "Do you want to get lunch?",
+      "path": "oral/S127.mp3"
+    },
+    {
+      "id": "S128",
+      "kind": "oral",
+      "text": "Fancy grabbing some lunch?",
+      "path": "oral/S128.mp3"
+    },
+    {
+      "id": "S129",
+      "kind": "oral",
+      "text": "Sure, why not?",
+      "path": "oral/S129.mp3"
+    },
+    {
+      "id": "S130",
+      "kind": "oral",
+      "text": "Where do you want to go?",
+      "path": "oral/S130.mp3"
+    },
+    {
+      "id": "S131",
+      "kind": "oral",
+      "text": "I'm easy.",
+      "path": "oral/S131.mp3"
+    },
+    {
+      "id": "S132",
+      "kind": "oral",
+      "text": "Anywhere's fine with me.",
+      "path": "oral/S132.mp3"
+    },
+    {
+      "id": "S133",
+      "kind": "oral",
+      "text": "What do you fancy?",
+      "path": "oral/S133.mp3"
+    },
+    {
+      "id": "S134",
+      "kind": "oral",
+      "text": "I don't really mind.",
+      "path": "oral/S134.mp3"
+    },
+    {
+      "id": "S135",
+      "kind": "oral",
+      "text": "Shall we go to the canteen?",
+      "path": "oral/S135.mp3"
+    },
+    {
+      "id": "S136",
+      "kind": "oral",
+      "text": "Sounds good.",
+      "path": "oral/S136.mp3"
+    },
+    {
+      "id": "S137",
+      "kind": "oral",
+      "text": "What time are you going?",
+      "path": "oral/S137.mp3"
+    },
+    {
+      "id": "S138",
+      "kind": "oral",
+      "text": "Probably around twelve.",
+      "path": "oral/S138.mp3"
+    },
+    {
+      "id": "S139",
+      "kind": "oral",
+      "text": "Shall we go now?",
+      "path": "oral/S139.mp3"
+    },
+    {
+      "id": "S140",
+      "kind": "oral",
+      "text": "Give me five minutes.",
+      "path": "oral/S140.mp3"
+    },
+    {
+      "id": "S141",
+      "kind": "oral",
+      "text": "I'll meet you downstairs.",
+      "path": "oral/S141.mp3"
+    },
+    {
+      "id": "S142",
+      "kind": "oral",
+      "text": "I'll come with you.",
+      "path": "oral/S142.mp3"
+    },
+    {
+      "id": "S143",
+      "kind": "oral",
+      "text": "This looks good.",
+      "path": "oral/S143.mp3"
+    },
+    {
+      "id": "S144",
+      "kind": "oral",
+      "text": "What did you get?",
+      "path": "oral/S144.mp3"
+    },
+    {
+      "id": "S145",
+      "kind": "oral",
+      "text": "Just a sandwich.",
+      "path": "oral/S145.mp3"
+    },
+    {
+      "id": "S146",
+      "kind": "oral",
+      "text": "Is it any good?",
+      "path": "oral/S146.mp3"
+    },
+    {
+      "id": "S147",
+      "kind": "oral",
+      "text": "Yeah, it's not bad.",
+      "path": "oral/S147.mp3"
+    },
+    {
+      "id": "S148",
+      "kind": "oral",
+      "text": "I'm starving.",
+      "path": "oral/S148.mp3"
+    },
+    {
+      "id": "S149",
+      "kind": "oral",
+      "text": "I'm quite full.",
+      "path": "oral/S149.mp3"
+    },
+    {
+      "id": "S150",
+      "kind": "oral",
+      "text": "That was nice.",
+      "path": "oral/S150.mp3"
+    },
+    {
+      "id": "S151",
+      "kind": "oral",
+      "text": "How was your weekend?",
+      "path": "oral/S151.mp3"
+    },
+    {
+      "id": "S152",
+      "kind": "oral",
+      "text": "It was good, thanks.",
+      "path": "oral/S152.mp3"
+    },
+    {
+      "id": "S153",
+      "kind": "oral",
+      "text": "Did you do anything nice?",
+      "path": "oral/S153.mp3"
+    },
+    {
+      "id": "S154",
+      "kind": "oral",
+      "text": "Nothing special.",
+      "path": "oral/S154.mp3"
+    },
+    {
+      "id": "S155",
+      "kind": "oral",
+      "text": "I just stayed at home.",
+      "path": "oral/S155.mp3"
+    },
+    {
+      "id": "S156",
+      "kind": "oral",
+      "text": "I had a quiet weekend.",
+      "path": "oral/S156.mp3"
+    },
+    {
+      "id": "S157",
+      "kind": "oral",
+      "text": "I went into London.",
+      "path": "oral/S157.mp3"
+    },
+    {
+      "id": "S158",
+      "kind": "oral",
+      "text": "Oh nice, what did you do?",
+      "path": "oral/S158.mp3"
+    },
+    {
+      "id": "S159",
+      "kind": "oral",
+      "text": "Just walked around and had some food.",
+      "path": "oral/S159.mp3"
+    },
+    {
+      "id": "S160",
+      "kind": "oral",
+      "text": "Sounds nice.",
+      "path": "oral/S160.mp3"
+    },
+    {
+      "id": "S161",
+      "kind": "oral",
+      "text": "Have you been there before?",
+      "path": "oral/S161.mp3"
+    },
+    {
+      "id": "S162",
+      "kind": "oral",
+      "text": "No, that was my first time.",
+      "path": "oral/S162.mp3"
+    },
+    {
+      "id": "S163",
+      "kind": "oral",
+      "text": "Did you enjoy it?",
+      "path": "oral/S163.mp3"
+    },
+    {
+      "id": "S164",
+      "kind": "oral",
+      "text": "Yeah, it was really nice.",
+      "path": "oral/S164.mp3"
+    },
+    {
+      "id": "S165",
+      "kind": "oral",
+      "text": "What did you get up to yesterday?",
+      "path": "oral/S165.mp3"
+    },
+    {
+      "id": "S166",
+      "kind": "oral",
+      "text": "I didn't do much.",
+      "path": "oral/S166.mp3"
+    },
+    {
+      "id": "S167",
+      "kind": "oral",
+      "text": "I did some shopping.",
+      "path": "oral/S167.mp3"
+    },
+    {
+      "id": "S168",
+      "kind": "oral",
+      "text": "I went for a walk.",
+      "path": "oral/S168.mp3"
+    },
+    {
+      "id": "S169",
+      "kind": "oral",
+      "text": "I watched a film.",
+      "path": "oral/S169.mp3"
+    },
+    {
+      "id": "S170",
+      "kind": "oral",
+      "text": "I caught up on some sleep.",
+      "path": "oral/S170.mp3"
+    },
+    {
+      "id": "S171",
+      "kind": "oral",
+      "text": "Sounds like a good weekend.",
+      "path": "oral/S171.mp3"
+    },
+    {
+      "id": "S172",
+      "kind": "oral",
+      "text": "What are you doing this weekend?",
+      "path": "oral/S172.mp3"
+    },
+    {
+      "id": "S173",
+      "kind": "oral",
+      "text": "I haven't decided yet.",
+      "path": "oral/S173.mp3"
+    },
+    {
+      "id": "S174",
+      "kind": "oral",
+      "text": "I might go somewhere nearby.",
+      "path": "oral/S174.mp3"
+    },
+    {
+      "id": "S175",
+      "kind": "oral",
+      "text": "Any plans for the weekend?",
+      "path": "oral/S175.mp3"
+    },
+    {
+      "id": "S176",
+      "kind": "oral",
+      "text": "Not really.",
+      "path": "oral/S176.mp3"
+    },
+    {
+      "id": "S177",
+      "kind": "oral",
+      "text": "I'm just going to take it easy.",
+      "path": "oral/S177.mp3"
+    },
+    {
+      "id": "S178",
+      "kind": "oral",
+      "text": "Fair enough.",
+      "path": "oral/S178.mp3"
+    },
+    {
+      "id": "S179",
+      "kind": "oral",
+      "text": "What are you up to tonight?",
+      "path": "oral/S179.mp3"
+    },
+    {
+      "id": "S180",
+      "kind": "oral",
+      "text": "Probably just staying in.",
+      "path": "oral/S180.mp3"
+    },
+    {
+      "id": "S181",
+      "kind": "oral",
+      "text": "Same here.",
+      "path": "oral/S181.mp3"
+    },
+    {
+      "id": "S182",
+      "kind": "oral",
+      "text": "Have you been busy lately?",
+      "path": "oral/S182.mp3"
+    },
+    {
+      "id": "S183",
+      "kind": "oral",
+      "text": "Yeah, quite busy.",
+      "path": "oral/S183.mp3"
+    },
+    {
+      "id": "S184",
+      "kind": "oral",
+      "text": "It's been a busy week.",
+      "path": "oral/S184.mp3"
+    },
+    {
+      "id": "S185",
+      "kind": "oral",
+      "text": "Tell me about it.",
+      "path": "oral/S185.mp3"
+    },
+    {
+      "id": "S186",
+      "kind": "oral",
+      "text": "Hopefully next week will be quieter.",
+      "path": "oral/S186.mp3"
+    },
+    {
+      "id": "S187",
+      "kind": "oral",
+      "text": "Hopefully!",
+      "path": "oral/S187.mp3"
+    },
+    {
+      "id": "S188",
+      "kind": "oral",
+      "text": "Nearly the weekend.",
+      "path": "oral/S188.mp3"
+    },
+    {
+      "id": "S189",
+      "kind": "oral",
+      "text": "Thank goodness.",
+      "path": "oral/S189.mp3"
+    },
+    {
+      "id": "S190",
+      "kind": "oral",
+      "text": "I know, right?",
+      "path": "oral/S190.mp3"
+    },
+    {
+      "id": "S191",
+      "kind": "oral",
+      "text": "Sorry?",
+      "path": "oral/S191.mp3"
+    },
+    {
+      "id": "S192",
+      "kind": "oral",
+      "text": "Pardon?",
+      "path": "oral/S192.mp3"
+    },
+    {
+      "id": "S193",
+      "kind": "oral",
+      "text": "Sorry, I didn't catch that.",
+      "path": "oral/S193.mp3"
+    },
+    {
+      "id": "S194",
+      "kind": "oral",
+      "text": "Sorry, what was that?",
+      "path": "oral/S194.mp3"
+    },
+    {
+      "id": "S195",
+      "kind": "oral",
+      "text": "Could you say that again?",
+      "path": "oral/S195.mp3"
+    },
+    {
+      "id": "S196",
+      "kind": "oral",
+      "text": "Could you repeat that, please?",
+      "path": "oral/S196.mp3"
+    },
+    {
+      "id": "S197",
+      "kind": "oral",
+      "text": "Could you speak a bit more slowly?",
+      "path": "oral/S197.mp3"
+    },
+    {
+      "id": "S198",
+      "kind": "oral",
+      "text": "Sorry, I missed the last bit.",
+      "path": "oral/S198.mp3"
+    },
+    {
+      "id": "S199",
+      "kind": "oral",
+      "text": "What did you say at the end?",
+      "path": "oral/S199.mp3"
+    },
+    {
+      "id": "S200",
+      "kind": "oral",
+      "text": "I didn't quite get that.",
+      "path": "oral/S200.mp3"
+    },
+    {
+      "id": "S201",
+      "kind": "oral",
+      "text": "What do you mean?",
+      "path": "oral/S201.mp3"
+    },
+    {
+      "id": "S202",
+      "kind": "oral",
+      "text": "What do you mean by that?",
+      "path": "oral/S202.mp3"
+    },
+    {
+      "id": "S203",
+      "kind": "oral",
+      "text": "Could you explain that again?",
+      "path": "oral/S203.mp3"
+    },
+    {
+      "id": "S204",
+      "kind": "oral",
+      "text": "Could you give me an example?",
+      "path": "oral/S204.mp3"
+    },
+    {
+      "id": "S205",
+      "kind": "oral",
+      "text": "I'm not sure I understand.",
+      "path": "oral/S205.mp3"
+    },
+    {
+      "id": "S206",
+      "kind": "oral",
+      "text": "Do you mean this one?",
+      "path": "oral/S206.mp3"
+    },
+    {
+      "id": "S207",
+      "kind": "oral",
+      "text": "Do you mean today?",
+      "path": "oral/S207.mp3"
+    },
+    {
+      "id": "S208",
+      "kind": "oral",
+      "text": "Do you mean next week?",
+      "path": "oral/S208.mp3"
+    },
+    {
+      "id": "S209",
+      "kind": "oral",
+      "text": "So you mean...?",
+      "path": "oral/S209.mp3"
+    },
+    {
+      "id": "S210",
+      "kind": "oral",
+      "text": "Right, I see.",
+      "path": "oral/S210.mp3"
+    },
+    {
+      "id": "S211",
+      "kind": "oral",
+      "text": "Oh, I get it now.",
+      "path": "oral/S211.mp3"
+    },
+    {
+      "id": "S212",
+      "kind": "oral",
+      "text": "That makes sense.",
+      "path": "oral/S212.mp3"
+    },
+    {
+      "id": "S213",
+      "kind": "oral",
+      "text": "Got it.",
+      "path": "oral/S213.mp3"
+    },
+    {
+      "id": "S214",
+      "kind": "oral",
+      "text": "Okay, I understand.",
+      "path": "oral/S214.mp3"
+    },
+    {
+      "id": "S215",
+      "kind": "oral",
+      "text": "Let me check I've understood correctly.",
+      "path": "oral/S215.mp3"
+    },
+    {
+      "id": "S216",
+      "kind": "oral",
+      "text": "You mean this, right?",
+      "path": "oral/S216.mp3"
+    },
+    {
+      "id": "S217",
+      "kind": "oral",
+      "text": "Is that right?",
+      "path": "oral/S217.mp3"
+    },
+    {
+      "id": "S218",
+      "kind": "oral",
+      "text": "Have I got that right?",
+      "path": "oral/S218.mp3"
+    },
+    {
+      "id": "S219",
+      "kind": "oral",
+      "text": "Exactly.",
+      "path": "oral/S219.mp3"
+    },
+    {
+      "id": "S220",
+      "kind": "oral",
+      "text": "That's right.",
+      "path": "oral/S220.mp3"
+    },
+    {
+      "id": "S221",
+      "kind": "oral",
+      "text": "Could you help me with this?",
+      "path": "oral/S221.mp3"
+    },
+    {
+      "id": "S222",
+      "kind": "oral",
+      "text": "Can you give me a hand?",
+      "path": "oral/S222.mp3"
+    },
+    {
+      "id": "S223",
+      "kind": "oral",
+      "text": "Do you have a minute?",
+      "path": "oral/S223.mp3"
+    },
+    {
+      "id": "S224",
+      "kind": "oral",
+      "text": "Have you got a second?",
+      "path": "oral/S224.mp3"
+    },
+    {
+      "id": "S225",
+      "kind": "oral",
+      "text": "Can I ask you something?",
+      "path": "oral/S225.mp3"
+    },
+    {
+      "id": "S226",
+      "kind": "oral",
+      "text": "Sure, what's up?",
+      "path": "oral/S226.mp3"
+    },
+    {
+      "id": "S227",
+      "kind": "oral",
+      "text": "Could you show me how this works?",
+      "path": "oral/S227.mp3"
+    },
+    {
+      "id": "S228",
+      "kind": "oral",
+      "text": "How do I do this?",
+      "path": "oral/S228.mp3"
+    },
+    {
+      "id": "S229",
+      "kind": "oral",
+      "text": "Do you know how to do this?",
+      "path": "oral/S229.mp3"
+    },
+    {
+      "id": "S230",
+      "kind": "oral",
+      "text": "Could you have a look?",
+      "path": "oral/S230.mp3"
+    },
+    {
+      "id": "S231",
+      "kind": "oral",
+      "text": "Would you mind checking this?",
+      "path": "oral/S231.mp3"
+    },
+    {
+      "id": "S232",
+      "kind": "oral",
+      "text": "Can you send me the link?",
+      "path": "oral/S232.mp3"
+    },
+    {
+      "id": "S233",
+      "kind": "oral",
+      "text": "Could you send that to me?",
+      "path": "oral/S233.mp3"
+    },
+    {
+      "id": "S234",
+      "kind": "oral",
+      "text": "Could you share it with me?",
+      "path": "oral/S234.mp3"
+    },
+    {
+      "id": "S235",
+      "kind": "oral",
+      "text": "Can you add me to the group?",
+      "path": "oral/S235.mp3"
+    },
+    {
+      "id": "S236",
+      "kind": "oral",
+      "text": "Can you remind me later?",
+      "path": "oral/S236.mp3"
+    },
+    {
+      "id": "S237",
+      "kind": "oral",
+      "text": "Could you wait a second?",
+      "path": "oral/S237.mp3"
+    },
+    {
+      "id": "S238",
+      "kind": "oral",
+      "text": "Give me a second.",
+      "path": "oral/S238.mp3"
+    },
+    {
+      "id": "S239",
+      "kind": "oral",
+      "text": "Give me a minute.",
+      "path": "oral/S239.mp3"
+    },
+    {
+      "id": "S240",
+      "kind": "oral",
+      "text": "One second.",
+      "path": "oral/S240.mp3"
+    },
+    {
+      "id": "S241",
+      "kind": "oral",
+      "text": "Let me check.",
+      "path": "oral/S241.mp3"
+    },
+    {
+      "id": "S242",
+      "kind": "oral",
+      "text": "Let me have a look.",
+      "path": "oral/S242.mp3"
+    },
+    {
+      "id": "S243",
+      "kind": "oral",
+      "text": "I'll check for you.",
+      "path": "oral/S243.mp3"
+    },
+    {
+      "id": "S244",
+      "kind": "oral",
+      "text": "No rush.",
+      "path": "oral/S244.mp3"
+    },
+    {
+      "id": "S245",
+      "kind": "oral",
+      "text": "Take your time.",
+      "path": "oral/S245.mp3"
+    },
+    {
+      "id": "S246",
+      "kind": "oral",
+      "text": "Whenever you're free.",
+      "path": "oral/S246.mp3"
+    },
+    {
+      "id": "S247",
+      "kind": "oral",
+      "text": "Thanks a lot.",
+      "path": "oral/S247.mp3"
+    },
+    {
+      "id": "S248",
+      "kind": "oral",
+      "text": "Thanks, I appreciate it.",
+      "path": "oral/S248.mp3"
+    },
+    {
+      "id": "S249",
+      "kind": "oral",
+      "text": "That's really helpful.",
+      "path": "oral/S249.mp3"
+    },
+    {
+      "id": "S250",
+      "kind": "oral",
+      "text": "You're a lifesaver.",
+      "path": "oral/S250.mp3"
+    },
+    {
+      "id": "S251",
+      "kind": "oral",
+      "text": "Really?",
+      "path": "oral/S251.mp3"
+    },
+    {
+      "id": "S252",
+      "kind": "oral",
+      "text": "Oh really?",
+      "path": "oral/S252.mp3"
+    },
+    {
+      "id": "S253",
+      "kind": "oral",
+      "text": "Right.",
+      "path": "oral/S253.mp3"
+    },
+    {
+      "id": "S254",
+      "kind": "oral",
+      "text": "I see.",
+      "path": "oral/S254.mp3"
+    },
+    {
+      "id": "S255",
+      "kind": "oral",
+      "text": "Exactly.",
+      "path": "oral/S255.mp3"
+    },
+    {
+      "id": "S256",
+      "kind": "oral",
+      "text": "Definitely.",
+      "path": "oral/S256.mp3"
+    },
+    {
+      "id": "S257",
+      "kind": "oral",
+      "text": "Absolutely.",
+      "path": "oral/S257.mp3"
+    },
+    {
+      "id": "S258",
+      "kind": "oral",
+      "text": "Probably.",
+      "path": "oral/S258.mp3"
+    },
+    {
+      "id": "S259",
+      "kind": "oral",
+      "text": "Maybe.",
+      "path": "oral/S259.mp3"
+    },
+    {
+      "id": "S260",
+      "kind": "oral",
+      "text": "I suppose so.",
+      "path": "oral/S260.mp3"
+    },
+    {
+      "id": "S261",
+      "kind": "oral",
+      "text": "I think so.",
+      "path": "oral/S261.mp3"
+    },
+    {
+      "id": "S262",
+      "kind": "oral",
+      "text": "I don't think so.",
+      "path": "oral/S262.mp3"
+    },
+    {
+      "id": "S263",
+      "kind": "oral",
+      "text": "Hopefully.",
+      "path": "oral/S263.mp3"
+    },
+    {
+      "id": "S264",
+      "kind": "oral",
+      "text": "Probably not.",
+      "path": "oral/S264.mp3"
+    },
+    {
+      "id": "S265",
+      "kind": "oral",
+      "text": "That's true.",
+      "path": "oral/S265.mp3"
+    },
+    {
+      "id": "S266",
+      "kind": "oral",
+      "text": "Good point.",
+      "path": "oral/S266.mp3"
+    },
+    {
+      "id": "S267",
+      "kind": "oral",
+      "text": "Fair enough.",
+      "path": "oral/S267.mp3"
+    },
+    {
+      "id": "S268",
+      "kind": "oral",
+      "text": "Makes sense.",
+      "path": "oral/S268.mp3"
+    },
+    {
+      "id": "S269",
+      "kind": "oral",
+      "text": "That sounds good.",
+      "path": "oral/S269.mp3"
+    },
+    {
+      "id": "S270",
+      "kind": "oral",
+      "text": "That sounds great.",
+      "path": "oral/S270.mp3"
+    },
+    {
+      "id": "S271",
+      "kind": "oral",
+      "text": "Sounds interesting.",
+      "path": "oral/S271.mp3"
+    },
+    {
+      "id": "S272",
+      "kind": "oral",
+      "text": "That's nice.",
+      "path": "oral/S272.mp3"
+    },
+    {
+      "id": "S273",
+      "kind": "oral",
+      "text": "That's great.",
+      "path": "oral/S273.mp3"
+    },
+    {
+      "id": "S274",
+      "kind": "oral",
+      "text": "That's a shame.",
+      "path": "oral/S274.mp3"
+    },
+    {
+      "id": "S275",
+      "kind": "oral",
+      "text": "That's annoying.",
+      "path": "oral/S275.mp3"
+    },
+    {
+      "id": "S276",
+      "kind": "oral",
+      "text": "That's weird.",
+      "path": "oral/S276.mp3"
+    },
+    {
+      "id": "S277",
+      "kind": "oral",
+      "text": "That's funny.",
+      "path": "oral/S277.mp3"
+    },
+    {
+      "id": "S278",
+      "kind": "oral",
+      "text": "No way!",
+      "path": "oral/S278.mp3"
+    },
+    {
+      "id": "S279",
+      "kind": "oral",
+      "text": "Seriously?",
+      "path": "oral/S279.mp3"
+    },
+    {
+      "id": "S280",
+      "kind": "oral",
+      "text": "I know!",
+      "path": "oral/S280.mp3"
+    },
+    {
+      "id": "S281",
+      "kind": "oral",
+      "text": "Are you free later?",
+      "path": "oral/S281.mp3"
+    },
+    {
+      "id": "S282",
+      "kind": "oral",
+      "text": "Are you free this afternoon?",
+      "path": "oral/S282.mp3"
+    },
+    {
+      "id": "S283",
+      "kind": "oral",
+      "text": "Are you around tomorrow?",
+      "path": "oral/S283.mp3"
+    },
+    {
+      "id": "S284",
+      "kind": "oral",
+      "text": "What time are you free?",
+      "path": "oral/S284.mp3"
+    },
+    {
+      "id": "S285",
+      "kind": "oral",
+      "text": "When are you free?",
+      "path": "oral/S285.mp3"
+    },
+    {
+      "id": "S286",
+      "kind": "oral",
+      "text": "I'm free after lunch.",
+      "path": "oral/S286.mp3"
+    },
+    {
+      "id": "S287",
+      "kind": "oral",
+      "text": "I'm free after two.",
+      "path": "oral/S287.mp3"
+    },
+    {
+      "id": "S288",
+      "kind": "oral",
+      "text": "Any time is fine for me.",
+      "path": "oral/S288.mp3"
+    },
+    {
+      "id": "S289",
+      "kind": "oral",
+      "text": "I'm flexible.",
+      "path": "oral/S289.mp3"
+    },
+    {
+      "id": "S290",
+      "kind": "oral",
+      "text": "How about two o'clock?",
+      "path": "oral/S290.mp3"
+    },
+    {
+      "id": "S291",
+      "kind": "oral",
+      "text": "Does two work for you?",
+      "path": "oral/S291.mp3"
+    },
+    {
+      "id": "S292",
+      "kind": "oral",
+      "text": "Two works for me.",
+      "path": "oral/S292.mp3"
+    },
+    {
+      "id": "S293",
+      "kind": "oral",
+      "text": "That works for me.",
+      "path": "oral/S293.mp3"
+    },
+    {
+      "id": "S294",
+      "kind": "oral",
+      "text": "That's fine with me.",
+      "path": "oral/S294.mp3"
+    },
+    {
+      "id": "S295",
+      "kind": "oral",
+      "text": "Could we do three instead?",
+      "path": "oral/S295.mp3"
+    },
+    {
+      "id": "S296",
+      "kind": "oral",
+      "text": "Can we make it a bit later?",
+      "path": "oral/S296.mp3"
+    },
+    {
+      "id": "S297",
+      "kind": "oral",
+      "text": "Can we make it a bit earlier?",
+      "path": "oral/S297.mp3"
+    },
+    {
+      "id": "S298",
+      "kind": "oral",
+      "text": "I'm busy at two.",
+      "path": "oral/S298.mp3"
+    },
+    {
+      "id": "S299",
+      "kind": "oral",
+      "text": "I've got a meeting then.",
+      "path": "oral/S299.mp3"
+    },
+    {
+      "id": "S300",
+      "kind": "oral",
+      "text": "How about tomorrow instead?",
+      "path": "oral/S300.mp3"
+    },
+    {
+      "id": "S301",
+      "kind": "oral",
+      "text": "Tomorrow works better for me.",
+      "path": "oral/S301.mp3"
+    },
+    {
+      "id": "S302",
+      "kind": "oral",
+      "text": "Shall we meet here?",
+      "path": "oral/S302.mp3"
+    },
+    {
+      "id": "S303",
+      "kind": "oral",
+      "text": "Where shall we meet?",
+      "path": "oral/S303.mp3"
+    },
+    {
+      "id": "S304",
+      "kind": "oral",
+      "text": "I'll meet you downstairs.",
+      "path": "oral/S304.mp3"
+    },
+    {
+      "id": "S305",
+      "kind": "oral",
+      "text": "I'll come to your office.",
+      "path": "oral/S305.mp3"
+    },
+    {
+      "id": "S306",
+      "kind": "oral",
+      "text": "I'll message you when I'm there.",
+      "path": "oral/S306.mp3"
+    },
+    {
+      "id": "S307",
+      "kind": "oral",
+      "text": "I'm on my way.",
+      "path": "oral/S307.mp3"
+    },
+    {
+      "id": "S308",
+      "kind": "oral",
+      "text": "I'm nearly there.",
+      "path": "oral/S308.mp3"
+    },
+    {
+      "id": "S309",
+      "kind": "oral",
+      "text": "I'll be there in five minutes.",
+      "path": "oral/S309.mp3"
+    },
+    {
+      "id": "S310",
+      "kind": "oral",
+      "text": "Sorry, I'm running a bit late.",
+      "path": "oral/S310.mp3"
+    },
+    {
+      "id": "S311",
+      "kind": "oral",
+      "text": "What are you working on today?",
+      "path": "oral/S311.mp3"
+    },
+    {
+      "id": "S312",
+      "kind": "oral",
+      "text": "I'm working on my experiments.",
+      "path": "oral/S312.mp3"
+    },
+    {
+      "id": "S313",
+      "kind": "oral",
+      "text": "I'm working on the paper.",
+      "path": "oral/S313.mp3"
+    },
+    {
+      "id": "S314",
+      "kind": "oral",
+      "text": "I'm doing some coding.",
+      "path": "oral/S314.mp3"
+    },
+    {
+      "id": "S315",
+      "kind": "oral",
+      "text": "I'm checking the results.",
+      "path": "oral/S315.mp3"
+    },
+    {
+      "id": "S316",
+      "kind": "oral",
+      "text": "I'm reading a paper.",
+      "path": "oral/S316.mp3"
+    },
+    {
+      "id": "S317",
+      "kind": "oral",
+      "text": "How's it going?",
+      "path": "oral/S317.mp3"
+    },
+    {
+      "id": "S318",
+      "kind": "oral",
+      "text": "It's going okay.",
+      "path": "oral/S318.mp3"
+    },
+    {
+      "id": "S319",
+      "kind": "oral",
+      "text": "It's going quite well.",
+      "path": "oral/S319.mp3"
+    },
+    {
+      "id": "S320",
+      "kind": "oral",
+      "text": "Not great, to be honest.",
+      "path": "oral/S320.mp3"
+    },
+    {
+      "id": "S321",
+      "kind": "oral",
+      "text": "I'm having a bit of trouble with it.",
+      "path": "oral/S321.mp3"
+    },
+    {
+      "id": "S322",
+      "kind": "oral",
+      "text": "It's not working.",
+      "path": "oral/S322.mp3"
+    },
+    {
+      "id": "S323",
+      "kind": "oral",
+      "text": "It's working now.",
+      "path": "oral/S323.mp3"
+    },
+    {
+      "id": "S324",
+      "kind": "oral",
+      "text": "I fixed it.",
+      "path": "oral/S324.mp3"
+    },
+    {
+      "id": "S325",
+      "kind": "oral",
+      "text": "I found the problem.",
+      "path": "oral/S325.mp3"
+    },
+    {
+      "id": "S326",
+      "kind": "oral",
+      "text": "It was just a small bug.",
+      "path": "oral/S326.mp3"
+    },
+    {
+      "id": "S327",
+      "kind": "oral",
+      "text": "The code keeps crashing.",
+      "path": "oral/S327.mp3"
+    },
+    {
+      "id": "S328",
+      "kind": "oral",
+      "text": "I'm not sure why.",
+      "path": "oral/S328.mp3"
+    },
+    {
+      "id": "S329",
+      "kind": "oral",
+      "text": "I'm trying to figure it out.",
+      "path": "oral/S329.mp3"
+    },
+    {
+      "id": "S330",
+      "kind": "oral",
+      "text": "I'll try it again.",
+      "path": "oral/S330.mp3"
+    },
+    {
+      "id": "S331",
+      "kind": "oral",
+      "text": "Let's see what happens.",
+      "path": "oral/S331.mp3"
+    },
+    {
+      "id": "S332",
+      "kind": "oral",
+      "text": "It might take a while.",
+      "path": "oral/S332.mp3"
+    },
+    {
+      "id": "S333",
+      "kind": "oral",
+      "text": "It's still running.",
+      "path": "oral/S333.mp3"
+    },
+    {
+      "id": "S334",
+      "kind": "oral",
+      "text": "It's nearly finished.",
+      "path": "oral/S334.mp3"
+    },
+    {
+      "id": "S335",
+      "kind": "oral",
+      "text": "It finished overnight.",
+      "path": "oral/S335.mp3"
+    },
+    {
+      "id": "S336",
+      "kind": "oral",
+      "text": "The results look pretty good.",
+      "path": "oral/S336.mp3"
+    },
+    {
+      "id": "S337",
+      "kind": "oral",
+      "text": "The results aren't great.",
+      "path": "oral/S337.mp3"
+    },
+    {
+      "id": "S338",
+      "kind": "oral",
+      "text": "It's better than before.",
+      "path": "oral/S338.mp3"
+    },
+    {
+      "id": "S339",
+      "kind": "oral",
+      "text": "It's about the same.",
+      "path": "oral/S339.mp3"
+    },
+    {
+      "id": "S340",
+      "kind": "oral",
+      "text": "There's not much difference.",
+      "path": "oral/S340.mp3"
+    },
+    {
+      "id": "S341",
+      "kind": "oral",
+      "text": "I'll have another look.",
+      "path": "oral/S341.mp3"
+    },
+    {
+      "id": "S342",
+      "kind": "oral",
+      "text": "I'll check it later.",
+      "path": "oral/S342.mp3"
+    },
+    {
+      "id": "S343",
+      "kind": "oral",
+      "text": "Have you tried this?",
+      "path": "oral/S343.mp3"
+    },
+    {
+      "id": "S344",
+      "kind": "oral",
+      "text": "Not yet.",
+      "path": "oral/S344.mp3"
+    },
+    {
+      "id": "S345",
+      "kind": "oral",
+      "text": "I'll give it a try.",
+      "path": "oral/S345.mp3"
+    },
+    {
+      "id": "S346",
+      "kind": "oral",
+      "text": "That might work.",
+      "path": "oral/S346.mp3"
+    },
+    {
+      "id": "S347",
+      "kind": "oral",
+      "text": "That's worth trying.",
+      "path": "oral/S347.mp3"
+    },
+    {
+      "id": "S348",
+      "kind": "oral",
+      "text": "Let me know how it goes.",
+      "path": "oral/S348.mp3"
+    },
+    {
+      "id": "S349",
+      "kind": "oral",
+      "text": "Yeah, will do.",
+      "path": "oral/S349.mp3"
+    },
+    {
+      "id": "S350",
+      "kind": "oral",
+      "text": "I'll keep you posted.",
+      "path": "oral/S350.mp3"
+    },
+    {
+      "id": "S351",
+      "kind": "oral",
+      "text": "Excuse me, where's the milk?",
+      "path": "oral/S351.mp3"
+    },
+    {
+      "id": "S352",
+      "kind": "oral",
+      "text": "Where can I find the eggs?",
+      "path": "oral/S352.mp3"
+    },
+    {
+      "id": "S353",
+      "kind": "oral",
+      "text": "Do you have any more of these?",
+      "path": "oral/S353.mp3"
+    },
+    {
+      "id": "S354",
+      "kind": "oral",
+      "text": "Is this the last one?",
+      "path": "oral/S354.mp3"
+    },
+    {
+      "id": "S355",
+      "kind": "oral",
+      "text": "How much is this?",
+      "path": "oral/S355.mp3"
+    },
+    {
+      "id": "S356",
+      "kind": "oral",
+      "text": "Is this on offer?",
+      "path": "oral/S356.mp3"
+    },
+    {
+      "id": "S357",
+      "kind": "oral",
+      "text": "It's two for five pounds.",
+      "path": "oral/S357.mp3"
+    },
+    {
+      "id": "S358",
+      "kind": "oral",
+      "text": "I'll take two, then.",
+      "path": "oral/S358.mp3"
+    },
+    {
+      "id": "S359",
+      "kind": "oral",
+      "text": "Do you need a bag?",
+      "path": "oral/S359.mp3"
+    },
+    {
+      "id": "S360",
+      "kind": "oral",
+      "text": "Yes, please.",
+      "path": "oral/S360.mp3"
+    },
+    {
+      "id": "S361",
+      "kind": "oral",
+      "text": "No, thanks. I've got one.",
+      "path": "oral/S361.mp3"
+    },
+    {
+      "id": "S362",
+      "kind": "oral",
+      "text": "Do you have a Clubcard?",
+      "path": "oral/S362.mp3"
+    },
+    {
+      "id": "S363",
+      "kind": "oral",
+      "text": "No, I don't.",
+      "path": "oral/S363.mp3"
+    },
+    {
+      "id": "S364",
+      "kind": "oral",
+      "text": "Would you like a receipt?",
+      "path": "oral/S364.mp3"
+    },
+    {
+      "id": "S365",
+      "kind": "oral",
+      "text": "Yes, please.",
+      "path": "oral/S365.mp3"
+    },
+    {
+      "id": "S366",
+      "kind": "oral",
+      "text": "No, thanks.",
+      "path": "oral/S366.mp3"
+    },
+    {
+      "id": "S367",
+      "kind": "oral",
+      "text": "Card, please.",
+      "path": "oral/S367.mp3"
+    },
+    {
+      "id": "S368",
+      "kind": "oral",
+      "text": "Can I pay by card?",
+      "path": "oral/S368.mp3"
+    },
+    {
+      "id": "S369",
+      "kind": "oral",
+      "text": "Contactless is fine.",
+      "path": "oral/S369.mp3"
+    },
+    {
+      "id": "S370",
+      "kind": "oral",
+      "text": "It didn't go through.",
+      "path": "oral/S370.mp3"
+    },
+    {
+      "id": "S371",
+      "kind": "oral",
+      "text": "Could I try again?",
+      "path": "oral/S371.mp3"
+    },
+    {
+      "id": "S372",
+      "kind": "oral",
+      "text": "It worked this time.",
+      "path": "oral/S372.mp3"
+    },
+    {
+      "id": "S373",
+      "kind": "oral",
+      "text": "Thanks, have a good day.",
+      "path": "oral/S373.mp3"
+    },
+    {
+      "id": "S374",
+      "kind": "oral",
+      "text": "You too.",
+      "path": "oral/S374.mp3"
+    },
+    {
+      "id": "S375",
+      "kind": "oral",
+      "text": "I'm just popping to Tesco.",
+      "path": "oral/S375.mp3"
+    },
+    {
+      "id": "S376",
+      "kind": "oral",
+      "text": "Do you need anything?",
+      "path": "oral/S376.mp3"
+    },
+    {
+      "id": "S377",
+      "kind": "oral",
+      "text": "Could you grab me some milk?",
+      "path": "oral/S377.mp3"
+    },
+    {
+      "id": "S378",
+      "kind": "oral",
+      "text": "Sure.",
+      "path": "oral/S378.mp3"
+    },
+    {
+      "id": "S379",
+      "kind": "oral",
+      "text": "I'll send you the money.",
+      "path": "oral/S379.mp3"
+    },
+    {
+      "id": "S380",
+      "kind": "oral",
+      "text": "Don't worry about it.",
+      "path": "oral/S380.mp3"
+    },
+    {
+      "id": "S381",
+      "kind": "oral",
+      "text": "Can I get a latte, please?",
+      "path": "oral/S381.mp3"
+    },
+    {
+      "id": "S382",
+      "kind": "oral",
+      "text": "A medium, please.",
+      "path": "oral/S382.mp3"
+    },
+    {
+      "id": "S383",
+      "kind": "oral",
+      "text": "To have in or take away?",
+      "path": "oral/S383.mp3"
+    },
+    {
+      "id": "S384",
+      "kind": "oral",
+      "text": "To take away, please.",
+      "path": "oral/S384.mp3"
+    },
+    {
+      "id": "S385",
+      "kind": "oral",
+      "text": "To have in, please.",
+      "path": "oral/S385.mp3"
+    },
+    {
+      "id": "S386",
+      "kind": "oral",
+      "text": "Anything else?",
+      "path": "oral/S386.mp3"
+    },
+    {
+      "id": "S387",
+      "kind": "oral",
+      "text": "That's everything, thanks.",
+      "path": "oral/S387.mp3"
+    },
+    {
+      "id": "S388",
+      "kind": "oral",
+      "text": "Can I have the same, please?",
+      "path": "oral/S388.mp3"
+    },
+    {
+      "id": "S389",
+      "kind": "oral",
+      "text": "I'll have this one.",
+      "path": "oral/S389.mp3"
+    },
+    {
+      "id": "S390",
+      "kind": "oral",
+      "text": "What are you having?",
+      "path": "oral/S390.mp3"
+    },
+    {
+      "id": "S391",
+      "kind": "oral",
+      "text": "I'm not sure yet.",
+      "path": "oral/S391.mp3"
+    },
+    {
+      "id": "S392",
+      "kind": "oral",
+      "text": "What would you recommend?",
+      "path": "oral/S392.mp3"
+    },
+    {
+      "id": "S393",
+      "kind": "oral",
+      "text": "Is this spicy?",
+      "path": "oral/S393.mp3"
+    },
+    {
+      "id": "S394",
+      "kind": "oral",
+      "text": "Not too spicy, please.",
+      "path": "oral/S394.mp3"
+    },
+    {
+      "id": "S395",
+      "kind": "oral",
+      "text": "Could I have some water?",
+      "path": "oral/S395.mp3"
+    },
+    {
+      "id": "S396",
+      "kind": "oral",
+      "text": "Still or sparkling?",
+      "path": "oral/S396.mp3"
+    },
+    {
+      "id": "S397",
+      "kind": "oral",
+      "text": "Tap water is fine.",
+      "path": "oral/S397.mp3"
+    },
+    {
+      "id": "S398",
+      "kind": "oral",
+      "text": "Are you ready to order?",
+      "path": "oral/S398.mp3"
+    },
+    {
+      "id": "S399",
+      "kind": "oral",
+      "text": "Yeah, I think so.",
+      "path": "oral/S399.mp3"
+    },
+    {
+      "id": "S400",
+      "kind": "oral",
+      "text": "Could we have another minute?",
+      "path": "oral/S400.mp3"
+    },
+    {
+      "id": "S401",
+      "kind": "oral",
+      "text": "Could we get the bill, please?",
+      "path": "oral/S401.mp3"
+    },
+    {
+      "id": "S402",
+      "kind": "oral",
+      "text": "Can we pay separately?",
+      "path": "oral/S402.mp3"
+    },
+    {
+      "id": "S403",
+      "kind": "oral",
+      "text": "Shall we split it?",
+      "path": "oral/S403.mp3"
+    },
+    {
+      "id": "S404",
+      "kind": "oral",
+      "text": "I'll get this.",
+      "path": "oral/S404.mp3"
+    },
+    {
+      "id": "S405",
+      "kind": "oral",
+      "text": "Are you sure?",
+      "path": "oral/S405.mp3"
+    },
+    {
+      "id": "S406",
+      "kind": "oral",
+      "text": "Yeah, don't worry about it.",
+      "path": "oral/S406.mp3"
+    },
+    {
+      "id": "S407",
+      "kind": "oral",
+      "text": "I'll get the next one.",
+      "path": "oral/S407.mp3"
+    },
+    {
+      "id": "S408",
+      "kind": "oral",
+      "text": "Thanks, that's very kind.",
+      "path": "oral/S408.mp3"
+    },
+    {
+      "id": "S409",
+      "kind": "oral",
+      "text": "The food was really good.",
+      "path": "oral/S409.mp3"
+    },
+    {
+      "id": "S410",
+      "kind": "oral",
+      "text": "I'm absolutely stuffed.",
+      "path": "oral/S410.mp3"
+    },
+    {
+      "id": "S411",
+      "kind": "oral",
+      "text": "Does this bus go to the town centre?",
+      "path": "oral/S411.mp3"
+    },
+    {
+      "id": "S412",
+      "kind": "oral",
+      "text": "Is this the right bus for the university?",
+      "path": "oral/S412.mp3"
+    },
+    {
+      "id": "S413",
+      "kind": "oral",
+      "text": "Which bus do I need?",
+      "path": "oral/S413.mp3"
+    },
+    {
+      "id": "S414",
+      "kind": "oral",
+      "text": "Where's the bus stop?",
+      "path": "oral/S414.mp3"
+    },
+    {
+      "id": "S415",
+      "kind": "oral",
+      "text": "It's just over there.",
+      "path": "oral/S415.mp3"
+    },
+    {
+      "id": "S416",
+      "kind": "oral",
+      "text": "When's the next bus?",
+      "path": "oral/S416.mp3"
+    },
+    {
+      "id": "S417",
+      "kind": "oral",
+      "text": "It should be here in five minutes.",
+      "path": "oral/S417.mp3"
+    },
+    {
+      "id": "S418",
+      "kind": "oral",
+      "text": "The bus is late again.",
+      "path": "oral/S418.mp3"
+    },
+    {
+      "id": "S419",
+      "kind": "oral",
+      "text": "Does this train go to London?",
+      "path": "oral/S419.mp3"
+    },
+    {
+      "id": "S420",
+      "kind": "oral",
+      "text": "Which platform is it?",
+      "path": "oral/S420.mp3"
+    },
+    {
+      "id": "S421",
+      "kind": "oral",
+      "text": "Platform three.",
+      "path": "oral/S421.mp3"
+    },
+    {
+      "id": "S422",
+      "kind": "oral",
+      "text": "Do I need to change?",
+      "path": "oral/S422.mp3"
+    },
+    {
+      "id": "S423",
+      "kind": "oral",
+      "text": "Where do I change?",
+      "path": "oral/S423.mp3"
+    },
+    {
+      "id": "S424",
+      "kind": "oral",
+      "text": "How long does it take?",
+      "path": "oral/S424.mp3"
+    },
+    {
+      "id": "S425",
+      "kind": "oral",
+      "text": "About forty minutes.",
+      "path": "oral/S425.mp3"
+    },
+    {
+      "id": "S426",
+      "kind": "oral",
+      "text": "Is this seat free?",
+      "path": "oral/S426.mp3"
+    },
+    {
+      "id": "S427",
+      "kind": "oral",
+      "text": "Yeah, go ahead.",
+      "path": "oral/S427.mp3"
+    },
+    {
+      "id": "S428",
+      "kind": "oral",
+      "text": "Sorry, this is my stop.",
+      "path": "oral/S428.mp3"
+    },
+    {
+      "id": "S429",
+      "kind": "oral",
+      "text": "Could I get past?",
+      "path": "oral/S429.mp3"
+    },
+    {
+      "id": "S430",
+      "kind": "oral",
+      "text": "Of course.",
+      "path": "oral/S430.mp3"
+    },
+    {
+      "id": "S431",
+      "kind": "oral",
+      "text": "The train's been delayed.",
+      "path": "oral/S431.mp3"
+    },
+    {
+      "id": "S432",
+      "kind": "oral",
+      "text": "By how long?",
+      "path": "oral/S432.mp3"
+    },
+    {
+      "id": "S433",
+      "kind": "oral",
+      "text": "About ten minutes.",
+      "path": "oral/S433.mp3"
+    },
+    {
+      "id": "S434",
+      "kind": "oral",
+      "text": "That's not too bad.",
+      "path": "oral/S434.mp3"
+    },
+    {
+      "id": "S435",
+      "kind": "oral",
+      "text": "The train's been cancelled.",
+      "path": "oral/S435.mp3"
+    },
+    {
+      "id": "S436",
+      "kind": "oral",
+      "text": "Again?",
+      "path": "oral/S436.mp3"
+    },
+    {
+      "id": "S437",
+      "kind": "oral",
+      "text": "Unfortunately, yes.",
+      "path": "oral/S437.mp3"
+    },
+    {
+      "id": "S438",
+      "kind": "oral",
+      "text": "I'll get the next one.",
+      "path": "oral/S438.mp3"
+    },
+    {
+      "id": "S439",
+      "kind": "oral",
+      "text": "I'm on the train now.",
+      "path": "oral/S439.mp3"
+    },
+    {
+      "id": "S440",
+      "kind": "oral",
+      "text": "I'll text you when I arrive.",
+      "path": "oral/S440.mp3"
+    },
+    {
+      "id": "S441",
+      "kind": "oral",
+      "text": "Are you using the kitchen?",
+      "path": "oral/S441.mp3"
+    },
+    {
+      "id": "S442",
+      "kind": "oral",
+      "text": "I'm nearly done.",
+      "path": "oral/S442.mp3"
+    },
+    {
+      "id": "S443",
+      "kind": "oral",
+      "text": "Can I use this pan?",
+      "path": "oral/S443.mp3"
+    },
+    {
+      "id": "S444",
+      "kind": "oral",
+      "text": "Yeah, of course.",
+      "path": "oral/S444.mp3"
+    },
+    {
+      "id": "S445",
+      "kind": "oral",
+      "text": "Is this yours?",
+      "path": "oral/S445.mp3"
+    },
+    {
+      "id": "S446",
+      "kind": "oral",
+      "text": "Yeah, that's mine.",
+      "path": "oral/S446.mp3"
+    },
+    {
+      "id": "S447",
+      "kind": "oral",
+      "text": "Sorry, I thought it was mine.",
+      "path": "oral/S447.mp3"
+    },
+    {
+      "id": "S448",
+      "kind": "oral",
+      "text": "No worries.",
+      "path": "oral/S448.mp3"
+    },
+    {
+      "id": "S449",
+      "kind": "oral",
+      "text": "Have you finished with this?",
+      "path": "oral/S449.mp3"
+    },
+    {
+      "id": "S450",
+      "kind": "oral",
+      "text": "Yeah, I'm done with it.",
+      "path": "oral/S450.mp3"
+    },
+    {
+      "id": "S451",
+      "kind": "oral",
+      "text": "Could you turn the heating up?",
+      "path": "oral/S451.mp3"
+    },
+    {
+      "id": "S452",
+      "kind": "oral",
+      "text": "It's a bit cold in here.",
+      "path": "oral/S452.mp3"
+    },
+    {
+      "id": "S453",
+      "kind": "oral",
+      "text": "Is the heating on?",
+      "path": "oral/S453.mp3"
+    },
+    {
+      "id": "S454",
+      "kind": "oral",
+      "text": "I think so.",
+      "path": "oral/S454.mp3"
+    },
+    {
+      "id": "S455",
+      "kind": "oral",
+      "text": "Could you close the window?",
+      "path": "oral/S455.mp3"
+    },
+    {
+      "id": "S456",
+      "kind": "oral",
+      "text": "Sure.",
+      "path": "oral/S456.mp3"
+    },
+    {
+      "id": "S457",
+      "kind": "oral",
+      "text": "Do you mind if I open the window?",
+      "path": "oral/S457.mp3"
+    },
+    {
+      "id": "S458",
+      "kind": "oral",
+      "text": "Go ahead.",
+      "path": "oral/S458.mp3"
+    },
+    {
+      "id": "S459",
+      "kind": "oral",
+      "text": "I'm doing some laundry.",
+      "path": "oral/S459.mp3"
+    },
+    {
+      "id": "S460",
+      "kind": "oral",
+      "text": "Is the washing machine free?",
+      "path": "oral/S460.mp3"
+    },
+    {
+      "id": "S461",
+      "kind": "oral",
+      "text": "I think someone's using it.",
+      "path": "oral/S461.mp3"
+    },
+    {
+      "id": "S462",
+      "kind": "oral",
+      "text": "I'll wait, then.",
+      "path": "oral/S462.mp3"
+    },
+    {
+      "id": "S463",
+      "kind": "oral",
+      "text": "Could you keep it down a bit?",
+      "path": "oral/S463.mp3"
+    },
+    {
+      "id": "S464",
+      "kind": "oral",
+      "text": "Sorry about that.",
+      "path": "oral/S464.mp3"
+    },
+    {
+      "id": "S465",
+      "kind": "oral",
+      "text": "No worries.",
+      "path": "oral/S465.mp3"
+    },
+    {
+      "id": "S466",
+      "kind": "oral",
+      "text": "I'm going to bed.",
+      "path": "oral/S466.mp3"
+    },
+    {
+      "id": "S467",
+      "kind": "oral",
+      "text": "Night!",
+      "path": "oral/S467.mp3"
+    },
+    {
+      "id": "S468",
+      "kind": "oral",
+      "text": "Sleep well.",
+      "path": "oral/S468.mp3"
+    },
+    {
+      "id": "S469",
+      "kind": "oral",
+      "text": "See you in the morning.",
+      "path": "oral/S469.mp3"
+    },
+    {
+      "id": "S470",
+      "kind": "oral",
+      "text": "See you tomorrow.",
+      "path": "oral/S470.mp3"
+    },
+    {
+      "id": "S471",
+      "kind": "oral",
+      "text": "Do you fancy going for a coffee?",
+      "path": "oral/S471.mp3"
+    },
+    {
+      "id": "S472",
+      "kind": "oral",
+      "text": "Do you fancy a drink?",
+      "path": "oral/S472.mp3"
+    },
+    {
+      "id": "S473",
+      "kind": "oral",
+      "text": "Do you want to come with us?",
+      "path": "oral/S473.mp3"
+    },
+    {
+      "id": "S474",
+      "kind": "oral",
+      "text": "Yeah, I'd love to.",
+      "path": "oral/S474.mp3"
+    },
+    {
+      "id": "S475",
+      "kind": "oral",
+      "text": "Sure, why not?",
+      "path": "oral/S475.mp3"
+    },
+    {
+      "id": "S476",
+      "kind": "oral",
+      "text": "Sounds good.",
+      "path": "oral/S476.mp3"
+    },
+    {
+      "id": "S477",
+      "kind": "oral",
+      "text": "What time are you going?",
+      "path": "oral/S477.mp3"
+    },
+    {
+      "id": "S478",
+      "kind": "oral",
+      "text": "Where are you meeting?",
+      "path": "oral/S478.mp3"
+    },
+    {
+      "id": "S479",
+      "kind": "oral",
+      "text": "I'll meet you there.",
+      "path": "oral/S479.mp3"
+    },
+    {
+      "id": "S480",
+      "kind": "oral",
+      "text": "I'll come along.",
+      "path": "oral/S480.mp3"
+    },
+    {
+      "id": "S481",
+      "kind": "oral",
+      "text": "Sorry, I can't make it tonight.",
+      "path": "oral/S481.mp3"
+    },
+    {
+      "id": "S482",
+      "kind": "oral",
+      "text": "Maybe next time.",
+      "path": "oral/S482.mp3"
+    },
+    {
+      "id": "S483",
+      "kind": "oral",
+      "text": "No worries, maybe next time.",
+      "path": "oral/S483.mp3"
+    },
+    {
+      "id": "S484",
+      "kind": "oral",
+      "text": "Are you free this weekend?",
+      "path": "oral/S484.mp3"
+    },
+    {
+      "id": "S485",
+      "kind": "oral",
+      "text": "I think so.",
+      "path": "oral/S485.mp3"
+    },
+    {
+      "id": "S486",
+      "kind": "oral",
+      "text": "Do you have any plans?",
+      "path": "oral/S486.mp3"
+    },
+    {
+      "id": "S487",
+      "kind": "oral",
+      "text": "Not yet.",
+      "path": "oral/S487.mp3"
+    },
+    {
+      "id": "S488",
+      "kind": "oral",
+      "text": "We could go into London.",
+      "path": "oral/S488.mp3"
+    },
+    {
+      "id": "S489",
+      "kind": "oral",
+      "text": "That sounds fun.",
+      "path": "oral/S489.mp3"
+    },
+    {
+      "id": "S490",
+      "kind": "oral",
+      "text": "Let's see what the weather's like.",
+      "path": "oral/S490.mp3"
+    },
+    {
+      "id": "S491",
+      "kind": "oral",
+      "text": "What time shall we meet?",
+      "path": "oral/S491.mp3"
+    },
+    {
+      "id": "S492",
+      "kind": "oral",
+      "text": "How about eleven?",
+      "path": "oral/S492.mp3"
+    },
+    {
+      "id": "S493",
+      "kind": "oral",
+      "text": "Perfect.",
+      "path": "oral/S493.mp3"
+    },
+    {
+      "id": "S494",
+      "kind": "oral",
+      "text": "See you then.",
+      "path": "oral/S494.mp3"
+    },
+    {
+      "id": "S495",
+      "kind": "oral",
+      "text": "Thanks for inviting me.",
+      "path": "oral/S495.mp3"
+    },
+    {
+      "id": "S496",
+      "kind": "oral",
+      "text": "Thanks for coming.",
+      "path": "oral/S496.mp3"
+    },
+    {
+      "id": "S497",
+      "kind": "oral",
+      "text": "I had a really good time.",
+      "path": "oral/S497.mp3"
+    },
+    {
+      "id": "S498",
+      "kind": "oral",
+      "text": "Me too.",
+      "path": "oral/S498.mp3"
+    },
+    {
+      "id": "S499",
+      "kind": "oral",
+      "text": "We should do this again sometime.",
+      "path": "oral/S499.mp3"
+    },
+    {
+      "id": "S500",
+      "kind": "oral",
+      "text": "Definitely.",
+      "path": "oral/S500.mp3"
+    },
+    {
+      "id": "P01-ABS-001",
+      "kind": "paper",
+      "text": "This paper looks at how to generate more authentic emotional speech in conversations.",
+      "path": "papers/P01/ABS/P01-ABS-001.mp3"
+    },
+    {
+      "id": "P01-ABS-002",
+      "kind": "paper",
+      "text": "Conversational speech synthesis aims to make an agent's voice fit the current dialogue.",
+      "path": "papers/P01/ABS/P01-ABS-002.mp3"
+    },
+    {
+      "id": "P01-ABS-003",
+      "kind": "paper",
+      "text": "A key difficulty is that human emotions are much richer than a few fixed categories.",
+      "path": "papers/P01/ABS/P01-ABS-003.mp3"
+    },
+    {
+      "id": "P01-ABS-004",
+      "kind": "paper",
+      "text": "Another difficulty is the growing amount of redundant information in long dialogue histories.",
+      "path": "papers/P01/ABS/P01-ABS-004.mp3"
+    },
+    {
+      "id": "P01-ABS-005",
+      "kind": "paper",
+      "text": "To address both problems, the authors propose a framework called AuEmoChat.",
+      "path": "papers/P01/ABS/P01-ABS-005.mp3"
+    },
+    {
+      "id": "P01-ABS-006",
+      "kind": "paper",
+      "text": "First, AuEmoCodec learns discrete tokens that represent detailed emotional information.",
+      "path": "papers/P01/ABS/P01-ABS-006.mp3"
+    },
+    {
+      "id": "P01-ABS-007",
+      "kind": "paper",
+      "text": "Next, AuEmoToMe reduces redundant dialogue tokens while retaining useful emotion cues.",
+      "path": "papers/P01/ABS/P01-ABS-007.mp3"
+    },
+    {
+      "id": "P01-ABS-008",
+      "kind": "paper",
+      "text": "Finally, an emotion-aware flow-matching model converts these representations into expressive speech.",
+      "path": "papers/P01/ABS/P01-ABS-008.mp3"
+    },
+    {
+      "id": "P01-ABS-009",
+      "kind": "paper",
+      "text": "The experiments report improvements in both emotional expression and overall speech quality.",
+      "path": "papers/P01/ABS/P01-ABS-009.mp3"
+    },
+    {
+      "id": "P01-INT-001",
+      "kind": "paper",
+      "text": "In ordinary text-to-speech, a sentence can often be synthesised without considering previous turns.",
+      "path": "papers/P01/INT/P01-INT-001.mp3"
+    },
+    {
+      "id": "P01-INT-002",
+      "kind": "paper",
+      "text": "In a conversation, however, the same sentence may need very different emotional delivery.",
+      "path": "papers/P01/INT/P01-INT-002.mp3"
+    },
+    {
+      "id": "P01-INT-003",
+      "kind": "paper",
+      "text": "Previous conversational systems have used acoustic features, graphs, and generative language models.",
+      "path": "papers/P01/INT/P01-INT-003.mp3"
+    },
+    {
+      "id": "P01-INT-004",
+      "kind": "paper",
+      "text": "Some approaches also predict emotion labels or emotion descriptions before producing speech.",
+      "path": "papers/P01/INT/P01-INT-004.mp3"
+    },
+    {
+      "id": "P01-INT-005",
+      "kind": "paper",
+      "text": "However, a label such as happiness covers many distinct states, including excitement and gentle pleasure.",
+      "path": "papers/P01/INT/P01-INT-005.mp3"
+    },
+    {
+      "id": "P01-INT-006",
+      "kind": "paper",
+      "text": "A small emotion label space therefore limits how precisely a system can represent affect.",
+      "path": "papers/P01/INT/P01-INT-006.mp3"
+    },
+    {
+      "id": "P01-INT-007",
+      "kind": "paper",
+      "text": "Meanwhile, multimodal dialogue histories become increasingly long as a conversation continues.",
+      "path": "papers/P01/INT/P01-INT-007.mp3"
+    },
+    {
+      "id": "P01-INT-008",
+      "kind": "paper",
+      "text": "Many of these tokens add little useful information and may distract the context model.",
+      "path": "papers/P01/INT/P01-INT-008.mp3"
+    },
+    {
+      "id": "P01-INT-009",
+      "kind": "paper",
+      "text": "The key research question is how to preserve subtle emotion while reducing unnecessary context.",
+      "path": "papers/P01/INT/P01-INT-009.mp3"
+    },
+    {
+      "id": "P01-INT-010",
+      "kind": "paper",
+      "text": "AuEmoChat addresses this question through emotion tokenisation, context compression, and speech rendering.",
+      "path": "papers/P01/INT/P01-INT-010.mp3"
+    },
+    {
+      "id": "P01-REL-001",
+      "kind": "paper",
+      "text": "Neural audio codecs are widely used to convert continuous speech into discrete units.",
+      "path": "papers/P01/REL/P01-REL-001.mp3"
+    },
+    {
+      "id": "P01-REL-002",
+      "kind": "paper",
+      "text": "Most existing codecs focus on linguistic content, acoustic details, or speaker characteristics.",
+      "path": "papers/P01/REL/P01-REL-002.mp3"
+    },
+    {
+      "id": "P01-REL-003",
+      "kind": "paper",
+      "text": "AuEmoCodec differs because its primary goal is to represent perceived emotion.",
+      "path": "papers/P01/REL/P01-REL-003.mp3"
+    },
+    {
+      "id": "P01-REL-004",
+      "kind": "paper",
+      "text": "Traditional emotion systems often use a fixed collection of basic categories.",
+      "path": "papers/P01/REL/P01-REL-004.mp3"
+    },
+    {
+      "id": "P01-REL-005",
+      "kind": "paper",
+      "text": "Fine-grained emotion modelling instead aims to capture mixtures and differences within these categories.",
+      "path": "papers/P01/REL/P01-REL-005.mp3"
+    },
+    {
+      "id": "P01-REL-006",
+      "kind": "paper",
+      "text": "Token merging has also been studied as a way to reduce sequence length.",
+      "path": "papers/P01/REL/P01-REL-006.mp3"
+    },
+    {
+      "id": "P01-REL-007",
+      "kind": "paper",
+      "text": "The distinctive idea here is to use emotion information to guide what should be merged.",
+      "path": "papers/P01/REL/P01-REL-007.mp3"
+    },
+    {
+      "id": "P01-MTH-001",
+      "kind": "paper",
+      "text": "The input contains previous speakers, dialogue text, speech signals, and emotion representations.",
+      "path": "papers/P01/MTH/P01-MTH-001.mp3"
+    },
+    {
+      "id": "P01-MTH-002",
+      "kind": "paper",
+      "text": "For the target turn, the system receives the speaker identity and the text to be spoken.",
+      "path": "papers/P01/MTH/P01-MTH-002.mp3"
+    },
+    {
+      "id": "P01-MTH-003",
+      "kind": "paper",
+      "text": "The first component is an emotion-focused neural codec called AuEmoCodec.",
+      "path": "papers/P01/MTH/P01-MTH-003.mp3"
+    },
+    {
+      "id": "P01-MTH-004",
+      "kind": "paper",
+      "text": "It uses finite scalar quantisation to learn a discrete emotion codebook.",
+      "path": "papers/P01/MTH/P01-MTH-004.mp3"
+    },
+    {
+      "id": "P01-MTH-005",
+      "kind": "paper",
+      "text": "The codebook contains one thousand possible positions, with about seven hundred and fifty used after training.",
+      "path": "papers/P01/MTH/P01-MTH-005.mp3"
+    },
+    {
+      "id": "P01-MTH-006",
+      "kind": "paper",
+      "text": "Unlike an ordinary audio codec, AuEmoCodec is not trained to reconstruct the original waveform.",
+      "path": "papers/P01/MTH/P01-MTH-006.mp3"
+    },
+    {
+      "id": "P01-MTH-007",
+      "kind": "paper",
+      "text": "Instead, it reconstructs perceived scores along seven basic emotion axes.",
+      "path": "papers/P01/MTH/P01-MTH-007.mp3"
+    },
+    {
+      "id": "P01-MTH-008",
+      "kind": "paper",
+      "text": "This encourages the learned tokens to retain subtle combinations of emotional states.",
+      "path": "papers/P01/MTH/P01-MTH-008.mp3"
+    },
+    {
+      "id": "P01-MTH-009",
+      "kind": "paper",
+      "text": "The second component is AuEmoToMe, a method for merging redundant context tokens.",
+      "path": "papers/P01/MTH/P01-MTH-009.mp3"
+    },
+    {
+      "id": "P01-MTH-010",
+      "kind": "paper",
+      "text": "It compares token representations to identify text and speech units that contain similar information.",
+      "path": "papers/P01/MTH/P01-MTH-010.mp3"
+    },
+    {
+      "id": "P01-MTH-011",
+      "kind": "paper",
+      "text": "Each utterance's emotion token acts as an anchor during the merging process.",
+      "path": "papers/P01/MTH/P01-MTH-011.mp3"
+    },
+    {
+      "id": "P01-MTH-012",
+      "kind": "paper",
+      "text": "This anchor helps the model retain context that matters for emotional prediction.",
+      "path": "papers/P01/MTH/P01-MTH-012.mp3"
+    },
+    {
+      "id": "P01-MTH-013",
+      "kind": "paper",
+      "text": "The compressed dialogue history is then passed to an autoregressive prediction model.",
+      "path": "papers/P01/MTH/P01-MTH-013.mp3"
+    },
+    {
+      "id": "P01-MTH-014",
+      "kind": "paper",
+      "text": "The model predicts the target emotion token together with the target speech tokens.",
+      "path": "papers/P01/MTH/P01-MTH-014.mp3"
+    },
+    {
+      "id": "P01-MTH-015",
+      "kind": "paper",
+      "text": "The final component generates a mel-spectrogram using conditional flow matching.",
+      "path": "papers/P01/MTH/P01-MTH-015.mp3"
+    },
+    {
+      "id": "P01-MTH-016",
+      "kind": "paper",
+      "text": "It combines the compressed context, the predicted emotion, and acoustic information.",
+      "path": "papers/P01/MTH/P01-MTH-016.mp3"
+    },
+    {
+      "id": "P01-MTH-017",
+      "kind": "paper",
+      "text": "An additional emotion classifier helps guide the generation towards the desired emotion.",
+      "path": "papers/P01/MTH/P01-MTH-017.mp3"
+    },
+    {
+      "id": "P01-MTH-018",
+      "kind": "paper",
+      "text": "This guidance is activated later in the flow process, when the acoustic representation is more stable.",
+      "path": "papers/P01/MTH/P01-MTH-018.mp3"
+    },
+    {
+      "id": "P01-MTH-019",
+      "kind": "paper",
+      "text": "A vocoder then converts the generated acoustic representation into audible speech.",
+      "path": "papers/P01/MTH/P01-MTH-019.mp3"
+    },
+    {
+      "id": "P01-EXP-001",
+      "kind": "paper",
+      "text": "The experiments use the NCSSD-EmCap conversational speech dataset.",
+      "path": "papers/P01/EXP/P01-EXP-001.mp3"
+    },
+    {
+      "id": "P01-EXP-002",
+      "kind": "paper",
+      "text": "This dataset combines DailyTalk, NCSSD, and MultiDialog.",
+      "path": "papers/P01/EXP/P01-EXP-002.mp3"
+    },
+    {
+      "id": "P01-EXP-003",
+      "kind": "paper",
+      "text": "It contains approximately three hundred and eighty-four hours of speech.",
+      "path": "papers/P01/EXP/P01-EXP-003.mp3"
+    },
+    {
+      "id": "P01-EXP-004",
+      "kind": "paper",
+      "text": "There are eighteen thousand five hundred and eighty dialogues and nearly two hundred and forty-six thousand utterances.",
+      "path": "papers/P01/EXP/P01-EXP-004.mp3"
+    },
+    {
+      "id": "P01-EXP-005",
+      "kind": "paper",
+      "text": "The experiments compare AuEmoChat with BaseCSS, ECSS, GPT-Talker, and Chain-Talker.",
+      "path": "papers/P01/EXP/P01-EXP-005.mp3"
+    },
+    {
+      "id": "P01-EXP-006",
+      "kind": "paper",
+      "text": "The authors also remove or vary individual components to study their contributions.",
+      "path": "papers/P01/EXP/P01-EXP-006.mp3"
+    },
+    {
+      "id": "P01-EVA-001",
+      "kind": "paper",
+      "text": "Naturalness DMOS asks listeners whether the generated speech sounds natural.",
+      "path": "papers/P01/EVA/P01-EVA-001.mp3"
+    },
+    {
+      "id": "P01-EVA-002",
+      "kind": "paper",
+      "text": "Emotion DMOS asks whether the expression fits the conversational context.",
+      "path": "papers/P01/EVA/P01-EVA-002.mp3"
+    },
+    {
+      "id": "P01-EVA-003",
+      "kind": "paper",
+      "text": "Word error rate measures whether the spoken words match the intended text.",
+      "path": "papers/P01/EVA/P01-EVA-003.mp3"
+    },
+    {
+      "id": "P01-EVA-004",
+      "kind": "paper",
+      "text": "Mel-cepstral distortion measures differences between acoustic features.",
+      "path": "papers/P01/EVA/P01-EVA-004.mp3"
+    },
+    {
+      "id": "P01-EVA-005",
+      "kind": "paper",
+      "text": "Speaker similarity evaluates whether the generated voice preserves the target speaker's identity.",
+      "path": "papers/P01/EVA/P01-EVA-005.mp3"
+    },
+    {
+      "id": "P01-EVA-006",
+      "kind": "paper",
+      "text": "The study also reports basic emotion accuracy and authentic emotion accuracy.",
+      "path": "papers/P01/EVA/P01-EVA-006.mp3"
+    },
+    {
+      "id": "P01-RES-001",
+      "kind": "paper",
+      "text": "AuEmoChat achieves a naturalness DMOS of 4.171 in the reported comparison.",
+      "path": "papers/P01/RES/P01-RES-001.mp3"
+    },
+    {
+      "id": "P01-RES-002",
+      "kind": "paper",
+      "text": "Its emotion DMOS reaches 3.979, above the compared baseline systems.",
+      "path": "papers/P01/RES/P01-RES-002.mp3"
+    },
+    {
+      "id": "P01-RES-003",
+      "kind": "paper",
+      "text": "The reported word error rate is 9.14, while authentic emotion accuracy reaches 28.71.",
+      "path": "papers/P01/RES/P01-RES-003.mp3"
+    },
+    {
+      "id": "P01-RES-004",
+      "kind": "paper",
+      "text": "The codec analysis favours finite scalar quantisation with a codebook size of one thousand.",
+      "path": "papers/P01/RES/P01-RES-004.mp3"
+    },
+    {
+      "id": "P01-RES-005",
+      "kind": "paper",
+      "text": "A token merging rate of thirty per cent gives the strongest overall balance in the reported analysis.",
+      "path": "papers/P01/RES/P01-RES-005.mp3"
+    },
+    {
+      "id": "P01-RES-006",
+      "kind": "paper",
+      "text": "Excessive token merging removes useful information and reduces performance.",
+      "path": "papers/P01/RES/P01-RES-006.mp3"
+    },
+    {
+      "id": "P01-RES-007",
+      "kind": "paper",
+      "text": "These findings suggest that richer emotion representations and selective compression work well together.",
+      "path": "papers/P01/RES/P01-RES-007.mp3"
+    },
+    {
+      "id": "P01-LIM-001",
+      "kind": "paper",
+      "text": "The method still depends on the quality of the emotion supervision used to train the codec.",
+      "path": "papers/P01/LIM/P01-LIM-001.mp3"
+    },
+    {
+      "id": "P01-LIM-002",
+      "kind": "paper",
+      "text": "The authors propose extending the system to multilingual settings in future work.",
+      "path": "papers/P01/LIM/P01-LIM-002.mp3"
+    },
+    {
+      "id": "P01-LIM-003",
+      "kind": "paper",
+      "text": "They also aim to improve the interpretability and scale of authentic emotion modelling.",
+      "path": "papers/P01/LIM/P01-LIM-003.mp3"
+    },
+    {
+      "id": "P02-ABS-001",
+      "kind": "paper",
+      "text": "This paper focuses on emotional expressiveness in conversational speech synthesis.",
+      "path": "papers/P02/ABS/P02-ABS-001.mp3"
+    },
+    {
+      "id": "P02-ABS-002",
+      "kind": "paper",
+      "text": "The main goal is to generate speech with suitable prosody and emotional delivery.",
+      "path": "papers/P02/ABS/P02-ABS-002.mp3"
+    },
+    {
+      "id": "P02-ABS-003",
+      "kind": "paper",
+      "text": "Earlier work was limited by scarce emotional data and difficult emotion-state modelling.",
+      "path": "papers/P02/ABS/P02-ABS-003.mp3"
+    },
+    {
+      "id": "P02-ABS-004",
+      "kind": "paper",
+      "text": "The authors propose an emotional conversational speech synthesis system called ECSS.",
+      "path": "papers/P02/ABS/P02-ABS-004.mp3"
+    },
+    {
+      "id": "P02-ABS-005",
+      "kind": "paper",
+      "text": "The first module uses a heterogeneous graph to understand emotional dialogue context.",
+      "path": "papers/P02/ABS/P02-ABS-005.mp3"
+    },
+    {
+      "id": "P02-ABS-006",
+      "kind": "paper",
+      "text": "The second module uses an emotion renderer to infer the target speaking style.",
+      "path": "papers/P02/ABS/P02-ABS-006.mp3"
+    },
+    {
+      "id": "P02-ABS-007",
+      "kind": "paper",
+      "text": "The authors also enrich DailyTalk with emotion categories and emotion intensity labels.",
+      "path": "papers/P02/ABS/P02-ABS-007.mp3"
+    },
+    {
+      "id": "P02-ABS-008",
+      "kind": "paper",
+      "text": "The evaluation suggests that these components improve emotional speech generation.",
+      "path": "papers/P02/ABS/P02-ABS-008.mp3"
+    },
+    {
+      "id": "P02-INT-001",
+      "kind": "paper",
+      "text": "A spoken dialogue system should react to both the meaning and the emotion of a conversation.",
+      "path": "papers/P02/INT/P02-INT-001.mp3"
+    },
+    {
+      "id": "P02-INT-002",
+      "kind": "paper",
+      "text": "Conventional text-to-speech mainly determines speaking style from the target text or a reference.",
+      "path": "papers/P02/INT/P02-INT-002.mp3"
+    },
+    {
+      "id": "P02-INT-003",
+      "kind": "paper",
+      "text": "Conversational speech synthesis also considers the interactions between speakers.",
+      "path": "papers/P02/INT/P02-INT-003.mp3"
+    },
+    {
+      "id": "P02-INT-004",
+      "kind": "paper",
+      "text": "Earlier methods used recurrent models and graph networks to encode dialogue history.",
+      "path": "papers/P02/INT/P02-INT-004.mp3"
+    },
+    {
+      "id": "P02-INT-005",
+      "kind": "paper",
+      "text": "These methods helped model speaker relationships and multimodal context.",
+      "path": "papers/P02/INT/P02-INT-005.mp3"
+    },
+    {
+      "id": "P02-INT-006",
+      "kind": "paper",
+      "text": "However, they did not fully capture how emotion changes between dialogue turns.",
+      "path": "papers/P02/INT/P02-INT-006.mp3"
+    },
+    {
+      "id": "P02-INT-007",
+      "kind": "paper",
+      "text": "The same target sentence can sound surprised, excited, or disappointed depending on the context.",
+      "path": "papers/P02/INT/P02-INT-007.mp3"
+    },
+    {
+      "id": "P02-INT-008",
+      "kind": "paper",
+      "text": "The authors therefore treat emotion understanding as a core part of the synthesis problem.",
+      "path": "papers/P02/INT/P02-INT-008.mp3"
+    },
+    {
+      "id": "P02-INT-009",
+      "kind": "paper",
+      "text": "They also argue that both emotion category and intensity should be represented.",
+      "path": "papers/P02/INT/P02-INT-009.mp3"
+    },
+    {
+      "id": "P02-INT-010",
+      "kind": "paper",
+      "text": "The proposed system connects these sources of information through a heterogeneous graph.",
+      "path": "papers/P02/INT/P02-INT-010.mp3"
+    },
+    {
+      "id": "P02-REL-001",
+      "kind": "paper",
+      "text": "Emotion recognition in dialogue has been studied using attention and graph-based models.",
+      "path": "papers/P02/REL/P02-REL-001.mp3"
+    },
+    {
+      "id": "P02-REL-002",
+      "kind": "paper",
+      "text": "Some text-oriented methods focus mainly on linguistic meaning and emotion words.",
+      "path": "papers/P02/REL/P02-REL-002.mp3"
+    },
+    {
+      "id": "P02-REL-003",
+      "kind": "paper",
+      "text": "Speech synthesis methods increasingly combine textual and acoustic dialogue information.",
+      "path": "papers/P02/REL/P02-REL-003.mp3"
+    },
+    {
+      "id": "P02-REL-004",
+      "kind": "paper",
+      "text": "Earlier dialogue graphs often treated their nodes and relationships as homogeneous.",
+      "path": "papers/P02/REL/P02-REL-004.mp3"
+    },
+    {
+      "id": "P02-REL-005",
+      "kind": "paper",
+      "text": "This is restrictive when text, speakers, acoustics, and emotion labels play different roles.",
+      "path": "papers/P02/REL/P02-REL-005.mp3"
+    },
+    {
+      "id": "P02-REL-006",
+      "kind": "paper",
+      "text": "ECSS explicitly models these different information types within one emotional conversational graph.",
+      "path": "papers/P02/REL/P02-REL-006.mp3"
+    },
+    {
+      "id": "P02-MTH-001",
+      "kind": "paper",
+      "text": "The input history contains text, speaker identity, audio, emotion category, and emotion intensity.",
+      "path": "papers/P02/MTH/P02-MTH-001.mp3"
+    },
+    {
+      "id": "P02-MTH-002",
+      "kind": "paper",
+      "text": "For the target utterance, only the text and speaker are available.",
+      "path": "papers/P02/MTH/P02-MTH-002.mp3"
+    },
+    {
+      "id": "P02-MTH-003",
+      "kind": "paper",
+      "text": "The model must infer suitable emotional expression before producing the final speech.",
+      "path": "papers/P02/MTH/P02-MTH-003.mp3"
+    },
+    {
+      "id": "P02-MTH-004",
+      "kind": "paper",
+      "text": "The first step constructs an emotional conversational graph.",
+      "path": "papers/P02/MTH/P02-MTH-004.mp3"
+    },
+    {
+      "id": "P02-MTH-005",
+      "kind": "paper",
+      "text": "Different types of information become different types of graph nodes.",
+      "path": "papers/P02/MTH/P02-MTH-005.mp3"
+    },
+    {
+      "id": "P02-MTH-006",
+      "kind": "paper",
+      "text": "Graph relationships capture dependencies between the sources of conversational knowledge.",
+      "path": "papers/P02/MTH/P02-MTH-006.mp3"
+    },
+    {
+      "id": "P02-MTH-007",
+      "kind": "paper",
+      "text": "The graph nodes are initialised using modality-specific feature representations.",
+      "path": "papers/P02/MTH/P02-MTH-007.mp3"
+    },
+    {
+      "id": "P02-MTH-008",
+      "kind": "paper",
+      "text": "A heterogeneous graph transformer then exchanges information across node types.",
+      "path": "papers/P02/MTH/P02-MTH-008.mp3"
+    },
+    {
+      "id": "P02-MTH-009",
+      "kind": "paper",
+      "text": "This produces contextual features that reflect emotional developments in the dialogue.",
+      "path": "papers/P02/MTH/P02-MTH-009.mp3"
+    },
+    {
+      "id": "P02-MTH-010",
+      "kind": "paper",
+      "text": "The emotion renderer predicts the emotional state of the target sentence.",
+      "path": "papers/P02/MTH/P02-MTH-010.mp3"
+    },
+    {
+      "id": "P02-MTH-011",
+      "kind": "paper",
+      "text": "It also estimates emotion intensity and prosodic characteristics.",
+      "path": "papers/P02/MTH/P02-MTH-011.mp3"
+    },
+    {
+      "id": "P02-MTH-012",
+      "kind": "paper",
+      "text": "Contrastive learning encourages samples with similar emotional properties to have similar representations.",
+      "path": "papers/P02/MTH/P02-MTH-012.mp3"
+    },
+    {
+      "id": "P02-MTH-013",
+      "kind": "paper",
+      "text": "Samples with different emotional properties are pushed further apart.",
+      "path": "papers/P02/MTH/P02-MTH-013.mp3"
+    },
+    {
+      "id": "P02-MTH-014",
+      "kind": "paper",
+      "text": "The resulting context and prosody features condition the speech synthesiser.",
+      "path": "papers/P02/MTH/P02-MTH-014.mp3"
+    },
+    {
+      "id": "P02-MTH-015",
+      "kind": "paper",
+      "text": "The synthesiser is built around a FastSpeech 2 style acoustic architecture.",
+      "path": "papers/P02/MTH/P02-MTH-015.mp3"
+    },
+    {
+      "id": "P02-EXP-001",
+      "kind": "paper",
+      "text": "The main dataset is DailyTalk, which contains 2,541 dialogues.",
+      "path": "papers/P02/EXP/P02-EXP-001.mp3"
+    },
+    {
+      "id": "P02-EXP-002",
+      "kind": "paper",
+      "text": "It provides 23,773 audio clips and approximately twenty hours of speech.",
+      "path": "papers/P02/EXP/P02-EXP-002.mp3"
+    },
+    {
+      "id": "P02-EXP-003",
+      "kind": "paper",
+      "text": "The study adds seven emotion categories and three intensity levels to this dataset.",
+      "path": "papers/P02/EXP/P02-EXP-003.mp3"
+    },
+    {
+      "id": "P02-EXP-004",
+      "kind": "paper",
+      "text": "The data is divided into training, validation, and test subsets.",
+      "path": "papers/P02/EXP/P02-EXP-004.mp3"
+    },
+    {
+      "id": "P02-EXP-005",
+      "kind": "paper",
+      "text": "The authors compare their model with recurrent and homogeneous graph baselines.",
+      "path": "papers/P02/EXP/P02-EXP-005.mp3"
+    },
+    {
+      "id": "P02-EVA-001",
+      "kind": "paper",
+      "text": "Naturalness DMOS measures the perceived naturalness of the target speech.",
+      "path": "papers/P02/EVA/P02-EVA-001.mp3"
+    },
+    {
+      "id": "P02-EVA-002",
+      "kind": "paper",
+      "text": "Emotion DMOS evaluates emotional richness and consistency with dialogue history.",
+      "path": "papers/P02/EVA/P02-EVA-002.mp3"
+    },
+    {
+      "id": "P02-EVA-003",
+      "kind": "paper",
+      "text": "Mean absolute error is calculated for mel features, pitch, energy, and duration.",
+      "path": "papers/P02/EVA/P02-EVA-003.mp3"
+    },
+    {
+      "id": "P02-EVA-004",
+      "kind": "paper",
+      "text": "Lower acoustic prediction errors indicate more accurate reconstruction of the target features.",
+      "path": "papers/P02/EVA/P02-EVA-004.mp3"
+    },
+    {
+      "id": "P02-RES-001",
+      "kind": "paper",
+      "text": "ECSS achieves a naturalness DMOS of 3.506 in its main comparison.",
+      "path": "papers/P02/RES/P02-RES-001.mp3"
+    },
+    {
+      "id": "P02-RES-002",
+      "kind": "paper",
+      "text": "Its emotion DMOS reaches 3.619, above the recurrent and homogeneous graph baselines.",
+      "path": "papers/P02/RES/P02-RES-002.mp3"
+    },
+    {
+      "id": "P02-RES-003",
+      "kind": "paper",
+      "text": "Removing emotion information reduces emotional speech performance.",
+      "path": "papers/P02/RES/P02-RES-003.mp3"
+    },
+    {
+      "id": "P02-RES-004",
+      "kind": "paper",
+      "text": "Removing speaker or audio information also weakens the final synthesis quality.",
+      "path": "papers/P02/RES/P02-RES-004.mp3"
+    },
+    {
+      "id": "P02-RES-005",
+      "kind": "paper",
+      "text": "Removing the contrastive objective causes a particularly clear reduction in emotion DMOS.",
+      "path": "papers/P02/RES/P02-RES-005.mp3"
+    },
+    {
+      "id": "P02-RES-006",
+      "kind": "paper",
+      "text": "These results support the importance of joint context understanding and emotion rendering.",
+      "path": "papers/P02/RES/P02-RES-006.mp3"
+    },
+    {
+      "id": "P02-LIM-001",
+      "kind": "paper",
+      "text": "The approach requires useful emotion and intensity annotations for the historical dialogue.",
+      "path": "papers/P02/LIM/P02-LIM-001.mp3"
+    },
+    {
+      "id": "P02-LIM-002",
+      "kind": "paper",
+      "text": "The dataset is relatively small and contains only two recorded speakers.",
+      "path": "papers/P02/LIM/P02-LIM-002.mp3"
+    },
+    {
+      "id": "P02-LIM-003",
+      "kind": "paper",
+      "text": "A practical extension would be to model richer emotions with less annotation dependence.",
+      "path": "papers/P02/LIM/P02-LIM-003.mp3"
+    },
+    {
+      "id": "P03-ABS-001",
+      "kind": "paper",
+      "text": "This paper extends conversational speech synthesis to include visual responses.",
+      "path": "papers/P03/ABS/P03-ABS-001.mp3"
+    },
+    {
+      "id": "P03-ABS-002",
+      "kind": "paper",
+      "text": "Human communication uses facial expressions as well as spoken language.",
+      "path": "papers/P03/ABS/P03-ABS-002.mp3"
+    },
+    {
+      "id": "P03-ABS-003",
+      "kind": "paper",
+      "text": "Speech-only systems cannot fully reproduce these multimodal interactions.",
+      "path": "papers/P03/ABS/P03-ABS-003.mp3"
+    },
+    {
+      "id": "P03-ABS-004",
+      "kind": "paper",
+      "text": "The authors introduce conversational speech-visual synthesis as a new task.",
+      "path": "papers/P03/ABS/P03-ABS-004.mp3"
+    },
+    {
+      "id": "P03-ABS-005",
+      "kind": "paper",
+      "text": "They also present UniTalker, a unified model for multimodal understanding and generation.",
+      "path": "papers/P03/ABS/P03-ABS-005.mp3"
+    },
+    {
+      "id": "P03-ABS-006",
+      "kind": "paper",
+      "text": "The model predicts emotion, speech, and talking-face animations from dialogue context.",
+      "path": "papers/P03/ABS/P03-ABS-006.mp3"
+    },
+    {
+      "id": "P03-ABS-007",
+      "kind": "paper",
+      "text": "A landmark codec represents facial motion using compact discrete tokens.",
+      "path": "papers/P03/ABS/P03-ABS-007.mp3"
+    },
+    {
+      "id": "P03-ABS-008",
+      "kind": "paper",
+      "text": "A hard alignment strategy keeps speech and facial motion synchronised.",
+      "path": "papers/P03/ABS/P03-ABS-008.mp3"
+    },
+    {
+      "id": "P03-ABS-009",
+      "kind": "paper",
+      "text": "The reported results show gains in emotional consistency and visual naturalness.",
+      "path": "papers/P03/ABS/P03-ABS-009.mp3"
+    },
+    {
+      "id": "P03-INT-001",
+      "kind": "paper",
+      "text": "Most earlier conversational speech systems respond to users only through audio.",
+      "path": "papers/P03/INT/P03-INT-001.mp3"
+    },
+    {
+      "id": "P03-INT-002",
+      "kind": "paper",
+      "text": "These systems model linguistic content and speaking style from dialogue history.",
+      "path": "papers/P03/INT/P03-INT-002.mp3"
+    },
+    {
+      "id": "P03-INT-003",
+      "kind": "paper",
+      "text": "However, face-to-face interaction also relies on eye contact and facial movement.",
+      "path": "papers/P03/INT/P03-INT-003.mp3"
+    },
+    {
+      "id": "P03-INT-004",
+      "kind": "paper",
+      "text": "A digital human should ideally respond with coordinated speech and facial expressions.",
+      "path": "papers/P03/INT/P03-INT-004.mp3"
+    },
+    {
+      "id": "P03-INT-005",
+      "kind": "paper",
+      "text": "Simply generating a talking face from completed speech can create mismatches.",
+      "path": "papers/P03/INT/P03-INT-005.mp3"
+    },
+    {
+      "id": "P03-INT-006",
+      "kind": "paper",
+      "text": "A weak or ambiguous speech signal may lead to unstable facial animation.",
+      "path": "papers/P03/INT/P03-INT-006.mp3"
+    },
+    {
+      "id": "P03-INT-007",
+      "kind": "paper",
+      "text": "Other methods may generate expressive video without precise control of facial landmarks.",
+      "path": "papers/P03/INT/P03-INT-007.mp3"
+    },
+    {
+      "id": "P03-INT-008",
+      "kind": "paper",
+      "text": "The central challenge is to coordinate dialogue understanding, emotion, speech, and visual motion.",
+      "path": "papers/P03/INT/P03-INT-008.mp3"
+    },
+    {
+      "id": "P03-INT-009",
+      "kind": "paper",
+      "text": "UniTalker therefore treats speech and facial expression as connected outputs of a single system.",
+      "path": "papers/P03/INT/P03-INT-009.mp3"
+    },
+    {
+      "id": "P03-REL-001",
+      "kind": "paper",
+      "text": "Speech dialogue models have improved context understanding and emotional expression.",
+      "path": "papers/P03/REL/P03-REL-001.mp3"
+    },
+    {
+      "id": "P03-REL-002",
+      "kind": "paper",
+      "text": "Talking-face models can animate portraits using acoustic input.",
+      "path": "papers/P03/REL/P03-REL-002.mp3"
+    },
+    {
+      "id": "P03-REL-003",
+      "kind": "paper",
+      "text": "Some visual generation methods also use facial landmarks for greater motion control.",
+      "path": "papers/P03/REL/P03-REL-003.mp3"
+    },
+    {
+      "id": "P03-REL-004",
+      "kind": "paper",
+      "text": "Neural codecs allow complex speech and visual signals to be represented as discrete tokens.",
+      "path": "papers/P03/REL/P03-REL-004.mp3"
+    },
+    {
+      "id": "P03-REL-005",
+      "kind": "paper",
+      "text": "Directly tokenising full video frames can introduce substantial redundant content.",
+      "path": "papers/P03/REL/P03-REL-005.mp3"
+    },
+    {
+      "id": "P03-REL-006",
+      "kind": "paper",
+      "text": "UniTalker instead focuses on compact facial landmark sequences.",
+      "path": "papers/P03/REL/P03-REL-006.mp3"
+    },
+    {
+      "id": "P03-MTH-001",
+      "kind": "paper",
+      "text": "The dialogue history includes speaker identity, text, speech, facial motion, and emotion.",
+      "path": "papers/P03/MTH/P03-MTH-001.mp3"
+    },
+    {
+      "id": "P03-MTH-002",
+      "kind": "paper",
+      "text": "The target turn provides the speaker and the text to be delivered.",
+      "path": "papers/P03/MTH/P03-MTH-002.mp3"
+    },
+    {
+      "id": "P03-MTH-003",
+      "kind": "paper",
+      "text": "The model must generate suitable speech and facial animation for that turn.",
+      "path": "papers/P03/MTH/P03-MTH-003.mp3"
+    },
+    {
+      "id": "P03-MTH-004",
+      "kind": "paper",
+      "text": "The first module converts dialogue information into unified token sequences.",
+      "path": "papers/P03/MTH/P03-MTH-004.mp3"
+    },
+    {
+      "id": "P03-MTH-005",
+      "kind": "paper",
+      "text": "Text and speaker information are represented alongside speech and visual features.",
+      "path": "papers/P03/MTH/P03-MTH-005.mp3"
+    },
+    {
+      "id": "P03-MTH-006",
+      "kind": "paper",
+      "text": "The face tokenizer uses a specialised codec named LmkCodec.",
+      "path": "papers/P03/MTH/P03-MTH-006.mp3"
+    },
+    {
+      "id": "P03-MTH-007",
+      "kind": "paper",
+      "text": "LmkCodec compresses facial landmark sequences into discrete representations.",
+      "path": "papers/P03/MTH/P03-MTH-007.mp3"
+    },
+    {
+      "id": "P03-MTH-008",
+      "kind": "paper",
+      "text": "It is designed to keep reconstruction quality high while controlling token length.",
+      "path": "papers/P03/MTH/P03-MTH-008.mp3"
+    },
+    {
+      "id": "P03-MTH-009",
+      "kind": "paper",
+      "text": "The speech and landmark token streams are organised at compatible frame rates.",
+      "path": "papers/P03/MTH/P03-MTH-009.mp3"
+    },
+    {
+      "id": "P03-MTH-010",
+      "kind": "paper",
+      "text": "This supports direct alignment between spoken content and lip motion.",
+      "path": "papers/P03/MTH/P03-MTH-010.mp3"
+    },
+    {
+      "id": "P03-MTH-011",
+      "kind": "paper",
+      "text": "An LLM-based module called EVSLM then models the complete dialogue context.",
+      "path": "papers/P03/MTH/P03-MTH-011.mp3"
+    },
+    {
+      "id": "P03-MTH-012",
+      "kind": "paper",
+      "text": "EVSLM first predicts the emotion needed for the target response.",
+      "path": "papers/P03/MTH/P03-MTH-012.mp3"
+    },
+    {
+      "id": "P03-MTH-013",
+      "kind": "paper",
+      "text": "It then generates the speech and visual tokens through coordinated sequence prediction.",
+      "path": "papers/P03/MTH/P03-MTH-013.mp3"
+    },
+    {
+      "id": "P03-MTH-014",
+      "kind": "paper",
+      "text": "The bimodal hard alignment strategy helps avoid duration mismatch between the outputs.",
+      "path": "papers/P03/MTH/P03-MTH-014.mp3"
+    },
+    {
+      "id": "P03-MTH-015",
+      "kind": "paper",
+      "text": "Emotion guidance further encourages consistency between the voice and facial expressions.",
+      "path": "papers/P03/MTH/P03-MTH-015.mp3"
+    },
+    {
+      "id": "P03-MTH-016",
+      "kind": "paper",
+      "text": "The speech renderer produces the audio signal from the predicted speech representation.",
+      "path": "papers/P03/MTH/P03-MTH-016.mp3"
+    },
+    {
+      "id": "P03-MTH-017",
+      "kind": "paper",
+      "text": "A talking-face renderer combines speech, facial landmarks, and a reference portrait.",
+      "path": "papers/P03/MTH/P03-MTH-017.mp3"
+    },
+    {
+      "id": "P03-MTH-018",
+      "kind": "paper",
+      "text": "The final output is a coordinated audiovisual response.",
+      "path": "papers/P03/MTH/P03-MTH-018.mp3"
+    },
+    {
+      "id": "P03-EXP-001",
+      "kind": "paper",
+      "text": "The study uses spoken dialogue, audiovisual dialogue, and single-utterance audiovisual datasets.",
+      "path": "papers/P03/EXP/P03-EXP-001.mp3"
+    },
+    {
+      "id": "P03-EXP-002",
+      "kind": "paper",
+      "text": "The spoken dialogue group includes DailyTalk and the English subset of NCSSD.",
+      "path": "papers/P03/EXP/P03-EXP-002.mp3"
+    },
+    {
+      "id": "P03-EXP-003",
+      "kind": "paper",
+      "text": "The audiovisual dialogue group is based on MultiDialog.",
+      "path": "papers/P03/EXP/P03-EXP-003.mp3"
+    },
+    {
+      "id": "P03-EXP-004",
+      "kind": "paper",
+      "text": "The single-utterance visual group includes RAVDESS, MEAD, and CelebV-HQ.",
+      "path": "papers/P03/EXP/P03-EXP-004.mp3"
+    },
+    {
+      "id": "P03-EXP-005",
+      "kind": "paper",
+      "text": "Training proceeds in stages, beginning with landmark codec training.",
+      "path": "papers/P03/EXP/P03-EXP-005.mp3"
+    },
+    {
+      "id": "P03-EXP-006",
+      "kind": "paper",
+      "text": "The system then uses speech pretraining and successive dialogue-based fine-tuning.",
+      "path": "papers/P03/EXP/P03-EXP-006.mp3"
+    },
+    {
+      "id": "P03-EVA-001",
+      "kind": "paper",
+      "text": "Speech naturalness and speech emotion are evaluated through listening tests.",
+      "path": "papers/P03/EVA/P03-EVA-001.mp3"
+    },
+    {
+      "id": "P03-EVA-002",
+      "kind": "paper",
+      "text": "Speaker similarity measures whether the synthesised voice matches the intended speaker.",
+      "path": "papers/P03/EVA/P03-EVA-002.mp3"
+    },
+    {
+      "id": "P03-EVA-003",
+      "kind": "paper",
+      "text": "Visual emotion accuracy checks whether the animation conveys the intended emotion.",
+      "path": "papers/P03/EVA/P03-EVA-003.mp3"
+    },
+    {
+      "id": "P03-EVA-004",
+      "kind": "paper",
+      "text": "Fréchet inception distance is used to assess aspects of visual generation quality.",
+      "path": "papers/P03/EVA/P03-EVA-004.mp3"
+    },
+    {
+      "id": "P03-EVA-005",
+      "kind": "paper",
+      "text": "Lip-sync metrics assess the correspondence between mouth movement and speech.",
+      "path": "papers/P03/EVA/P03-EVA-005.mp3"
+    },
+    {
+      "id": "P03-EVA-006",
+      "kind": "paper",
+      "text": "Subjective visual scores assess content alignment, naturalness, and expressiveness.",
+      "path": "papers/P03/EVA/P03-EVA-006.mp3"
+    },
+    {
+      "id": "P03-RES-001",
+      "kind": "paper",
+      "text": "UniTalker generates speech that fits the dialogue and facial motion that follows the voice.",
+      "path": "papers/P03/RES/P03-RES-001.mp3"
+    },
+    {
+      "id": "P03-RES-002",
+      "kind": "paper",
+      "text": "Its reported audiovisual results are stronger than the main compared conversational baselines.",
+      "path": "papers/P03/RES/P03-RES-002.mp3"
+    },
+    {
+      "id": "P03-RES-003",
+      "kind": "paper",
+      "text": "Removing emotion guidance reduces speech and visual emotion consistency.",
+      "path": "papers/P03/RES/P03-RES-003.mp3"
+    },
+    {
+      "id": "P03-RES-004",
+      "kind": "paper",
+      "text": "Removing the alignment strategy substantially damages lip synchronisation.",
+      "path": "papers/P03/RES/P03-RES-004.mp3"
+    },
+    {
+      "id": "P03-RES-005",
+      "kind": "paper",
+      "text": "Removing dialogue history weakens both emotional understanding and final generation.",
+      "path": "papers/P03/RES/P03-RES-005.mp3"
+    },
+    {
+      "id": "P03-RES-006",
+      "kind": "paper",
+      "text": "The landmark codec is an important factor in efficient and accurate visual modelling.",
+      "path": "papers/P03/RES/P03-RES-006.mp3"
+    },
+    {
+      "id": "P03-LIM-001",
+      "kind": "paper",
+      "text": "Joint audiovisual generation is more complex than conventional speech-only synthesis.",
+      "path": "papers/P03/LIM/P03-LIM-001.mp3"
+    },
+    {
+      "id": "P03-LIM-002",
+      "kind": "paper",
+      "text": "The framework also depends on suitable speech and facial motion training data.",
+      "path": "papers/P03/LIM/P03-LIM-002.mp3"
+    },
+    {
+      "id": "P03-LIM-003",
+      "kind": "paper",
+      "text": "Further work could explore real-time interaction and stronger generalisation to unseen situations.",
+      "path": "papers/P03/LIM/P03-LIM-003.mp3"
+    },
+    {
+      "id": "P04-ABS-001",
+      "kind": "paper",
+      "text": "This paper studies how to produce empathetic conversational speech.",
+      "path": "papers/P04/ABS/P04-ABS-001.mp3"
+    },
+    {
+      "id": "P04-ABS-002",
+      "kind": "paper",
+      "text": "The authors argue that context awareness alone does not guarantee genuine emotional understanding.",
+      "path": "papers/P04/ABS/P04-ABS-002.mp3"
+    },
+    {
+      "id": "P04-ABS-003",
+      "kind": "paper",
+      "text": "Some generative systems predict speech tokens without explaining the emotional decision.",
+      "path": "papers/P04/ABS/P04-ABS-003.mp3"
+    },
+    {
+      "id": "P04-ABS-004",
+      "kind": "paper",
+      "text": "These systems may also rely on speech codes containing redundant acoustic information.",
+      "path": "papers/P04/ABS/P04-ABS-004.mp3"
+    },
+    {
+      "id": "P04-ABS-005",
+      "kind": "paper",
+      "text": "To address these limitations, the paper proposes Chain-Talker.",
+      "path": "papers/P04/ABS/P04-ABS-005.mp3"
+    },
+    {
+      "id": "P04-ABS-006",
+      "kind": "paper",
+      "text": "The framework separates the task into emotion understanding, semantic understanding, and empathetic rendering.",
+      "path": "papers/P04/ABS/P04-ABS-006.mp3"
+    },
+    {
+      "id": "P04-ABS-007",
+      "kind": "paper",
+      "text": "It also introduces CSS-EmCap to create dialogue-aware emotional descriptions automatically.",
+      "path": "papers/P04/ABS/P04-ABS-007.mp3"
+    },
+    {
+      "id": "P04-ABS-008",
+      "kind": "paper",
+      "text": "The experiments suggest that step-by-step generation improves emotional appropriateness.",
+      "path": "papers/P04/ABS/P04-ABS-008.mp3"
+    },
+    {
+      "id": "P04-INT-001",
+      "kind": "paper",
+      "text": "Empathetic conversational speech needs to match the user's feelings and the dialogue situation.",
+      "path": "papers/P04/INT/P04-INT-001.mp3"
+    },
+    {
+      "id": "P04-INT-002",
+      "kind": "paper",
+      "text": "This requires both emotional understanding and expressive acoustic generation.",
+      "path": "papers/P04/INT/P04-INT-002.mp3"
+    },
+    {
+      "id": "P04-INT-003",
+      "kind": "paper",
+      "text": "Earlier systems often focused on predicting speaking style from multimodal history.",
+      "path": "papers/P04/INT/P04-INT-003.mp3"
+    },
+    {
+      "id": "P04-INT-004",
+      "kind": "paper",
+      "text": "Generative systems such as GPT-Talker instead predict discrete speech representations directly.",
+      "path": "papers/P04/INT/P04-INT-004.mp3"
+    },
+    {
+      "id": "P04-INT-005",
+      "kind": "paper",
+      "text": "These methods improve naturalness but provide limited explanations of how emotions are inferred.",
+      "path": "papers/P04/INT/P04-INT-005.mp3"
+    },
+    {
+      "id": "P04-INT-006",
+      "kind": "paper",
+      "text": "A direct speech-token prediction process does not explicitly describe the desired emotional state.",
+      "path": "papers/P04/INT/P04-INT-006.mp3"
+    },
+    {
+      "id": "P04-INT-007",
+      "kind": "paper",
+      "text": "Many existing speech tokens also mix linguistic and acoustic information.",
+      "path": "papers/P04/INT/P04-INT-007.mp3"
+    },
+    {
+      "id": "P04-INT-008",
+      "kind": "paper",
+      "text": "This mixture may make sequence modelling less efficient and harder to interpret.",
+      "path": "papers/P04/INT/P04-INT-008.mp3"
+    },
+    {
+      "id": "P04-INT-009",
+      "kind": "paper",
+      "text": "The authors are inspired by systems that solve complex tasks through several stages.",
+      "path": "papers/P04/INT/P04-INT-009.mp3"
+    },
+    {
+      "id": "P04-INT-010",
+      "kind": "paper",
+      "text": "They propose a chain that first explains the emotion and then models the speech content.",
+      "path": "papers/P04/INT/P04-INT-010.mp3"
+    },
+    {
+      "id": "P04-REL-001",
+      "kind": "paper",
+      "text": "Chain-based reasoning breaks difficult tasks into a sequence of smaller decisions.",
+      "path": "papers/P04/REL/P04-REL-001.mp3"
+    },
+    {
+      "id": "P04-REL-002",
+      "kind": "paper",
+      "text": "This strategy has appeared in dialogue generation and speech-language modelling.",
+      "path": "papers/P04/REL/P04-REL-002.mp3"
+    },
+    {
+      "id": "P04-REL-003",
+      "kind": "paper",
+      "text": "Speech emotion captioning describes vocal emotion through natural language.",
+      "path": "papers/P04/REL/P04-REL-003.mp3"
+    },
+    {
+      "id": "P04-REL-004",
+      "kind": "paper",
+      "text": "Manual emotional caption annotation is costly and difficult to scale.",
+      "path": "papers/P04/REL/P04-REL-004.mp3"
+    },
+    {
+      "id": "P04-REL-005",
+      "kind": "paper",
+      "text": "Automatically generated captions may lack conversational awareness if they only use a few keywords.",
+      "path": "papers/P04/REL/P04-REL-005.mp3"
+    },
+    {
+      "id": "P04-REL-006",
+      "kind": "paper",
+      "text": "Supervised semantic speech tokens can represent spoken content more directly than general acoustic codes.",
+      "path": "papers/P04/REL/P04-REL-006.mp3"
+    },
+    {
+      "id": "P04-REL-007",
+      "kind": "paper",
+      "text": "The paper combines these ideas into a modular generation pipeline.",
+      "path": "papers/P04/REL/P04-REL-007.mp3"
+    },
+    {
+      "id": "P04-MTH-001",
+      "kind": "paper",
+      "text": "Chain-Talker receives previous dialogue turns together with the target text.",
+      "path": "papers/P04/MTH/P04-MTH-001.mp3"
+    },
+    {
+      "id": "P04-MTH-002",
+      "kind": "paper",
+      "text": "The history contains speaker information, speech, text, and emotional descriptions.",
+      "path": "papers/P04/MTH/P04-MTH-002.mp3"
+    },
+    {
+      "id": "P04-MTH-003",
+      "kind": "paper",
+      "text": "Different modalities are organised into a unified sequence for contextual modelling.",
+      "path": "papers/P04/MTH/P04-MTH-003.mp3"
+    },
+    {
+      "id": "P04-MTH-004",
+      "kind": "paper",
+      "text": "The framework uses a language-model component called EmGPT.",
+      "path": "papers/P04/MTH/P04-MTH-004.mp3"
+    },
+    {
+      "id": "P04-MTH-005",
+      "kind": "paper",
+      "text": "In the first stage, EmGPT predicts an empathetic caption for the target utterance.",
+      "path": "papers/P04/MTH/P04-MTH-005.mp3"
+    },
+    {
+      "id": "P04-MTH-006",
+      "kind": "paper",
+      "text": "The caption expresses the emotion and speaking style that fit the dialogue.",
+      "path": "papers/P04/MTH/P04-MTH-006.mp3"
+    },
+    {
+      "id": "P04-MTH-007",
+      "kind": "paper",
+      "text": "The second stage predicts a sequence of semantic speech tokens.",
+      "path": "papers/P04/MTH/P04-MTH-007.mp3"
+    },
+    {
+      "id": "P04-MTH-008",
+      "kind": "paper",
+      "text": "These tokens capture the content of the intended speech response.",
+      "path": "papers/P04/MTH/P04-MTH-008.mp3"
+    },
+    {
+      "id": "P04-MTH-009",
+      "kind": "paper",
+      "text": "The system uses supervised semantic tokenisation to reduce unnecessary acoustic redundancy.",
+      "path": "papers/P04/MTH/P04-MTH-009.mp3"
+    },
+    {
+      "id": "P04-MTH-010",
+      "kind": "paper",
+      "text": "The third stage synthesises the final audio from the predicted semantic tokens.",
+      "path": "papers/P04/MTH/P04-MTH-010.mp3"
+    },
+    {
+      "id": "P04-MTH-011",
+      "kind": "paper",
+      "text": "The predicted caption also guides how the emotional speech should be rendered.",
+      "path": "papers/P04/MTH/P04-MTH-011.mp3"
+    },
+    {
+      "id": "P04-MTH-012",
+      "kind": "paper",
+      "text": "This separation makes the emotional decision more explicit than direct speech-token generation.",
+      "path": "papers/P04/MTH/P04-MTH-012.mp3"
+    },
+    {
+      "id": "P04-MTH-013",
+      "kind": "paper",
+      "text": "The model is trained through a multi-stage learning strategy.",
+      "path": "papers/P04/MTH/P04-MTH-013.mp3"
+    },
+    {
+      "id": "P04-MTH-014",
+      "kind": "paper",
+      "text": "Early training develops speech generation ability before more detailed conversational modelling.",
+      "path": "papers/P04/MTH/P04-MTH-014.mp3"
+    },
+    {
+      "id": "P04-DAT-001",
+      "kind": "paper",
+      "text": "The paper introduces an automatic captioning pipeline called CSS-EmCap.",
+      "path": "papers/P04/DAT/P04-DAT-001.mp3"
+    },
+    {
+      "id": "P04-DAT-002",
+      "kind": "paper",
+      "text": "The pipeline extracts speech-related attributes at different levels.",
+      "path": "papers/P04/DAT/P04-DAT-002.mp3"
+    },
+    {
+      "id": "P04-DAT-003",
+      "kind": "paper",
+      "text": "Sentence-level features describe the style of individual utterances.",
+      "path": "papers/P04/DAT/P04-DAT-003.mp3"
+    },
+    {
+      "id": "P04-DAT-004",
+      "kind": "paper",
+      "text": "Dialogue-level information helps explain emotion in the wider conversational context.",
+      "path": "papers/P04/DAT/P04-DAT-004.mp3"
+    },
+    {
+      "id": "P04-DAT-005",
+      "kind": "paper",
+      "text": "An LLM uses these attributes to produce more detailed empathetic captions.",
+      "path": "papers/P04/DAT/P04-DAT-005.mp3"
+    },
+    {
+      "id": "P04-DAT-006",
+      "kind": "paper",
+      "text": "The process is applied to DailyTalk, NCSSD, and MultiDialog.",
+      "path": "papers/P04/DAT/P04-DAT-006.mp3"
+    },
+    {
+      "id": "P04-DAT-007",
+      "kind": "paper",
+      "text": "Together these datasets provide approximately three hundred and eighty-four hours of annotated speech.",
+      "path": "papers/P04/DAT/P04-DAT-007.mp3"
+    },
+    {
+      "id": "P04-EXP-001",
+      "kind": "paper",
+      "text": "The experiments examine whether chain-style generation can improve emotional speech in dialogue.",
+      "path": "papers/P04/EXP/P04-EXP-001.mp3"
+    },
+    {
+      "id": "P04-EXP-002",
+      "kind": "paper",
+      "text": "The evaluation includes comparisons with previous conversational synthesis systems.",
+      "path": "papers/P04/EXP/P04-EXP-002.mp3"
+    },
+    {
+      "id": "P04-EXP-003",
+      "kind": "paper",
+      "text": "The authors assess both the generated empathetic captions and the final speech.",
+      "path": "papers/P04/EXP/P04-EXP-003.mp3"
+    },
+    {
+      "id": "P04-EXP-004",
+      "kind": "paper",
+      "text": "They also conduct ablation studies to examine the roles of context, captions, and pretraining.",
+      "path": "papers/P04/EXP/P04-EXP-004.mp3"
+    },
+    {
+      "id": "P04-EXP-005",
+      "kind": "paper",
+      "text": "The main question is whether explicit emotional reasoning benefits the final acoustic output.",
+      "path": "papers/P04/EXP/P04-EXP-005.mp3"
+    },
+    {
+      "id": "P04-EVA-001",
+      "kind": "paper",
+      "text": "Caption quality is evaluated through human ratings and semantic similarity.",
+      "path": "papers/P04/EVA/P04-EVA-001.mp3"
+    },
+    {
+      "id": "P04-EVA-002",
+      "kind": "paper",
+      "text": "Caption diversity is also examined to avoid overly repetitive descriptions.",
+      "path": "papers/P04/EVA/P04-EVA-002.mp3"
+    },
+    {
+      "id": "P04-EVA-003",
+      "kind": "paper",
+      "text": "Naturalness DMOS evaluates how natural the generated speech sounds.",
+      "path": "papers/P04/EVA/P04-EVA-003.mp3"
+    },
+    {
+      "id": "P04-EVA-004",
+      "kind": "paper",
+      "text": "Emotion DMOS evaluates whether the response matches the emotional context.",
+      "path": "papers/P04/EVA/P04-EVA-004.mp3"
+    },
+    {
+      "id": "P04-EVA-005",
+      "kind": "paper",
+      "text": "Emotion classification accuracy measures how recognisable the intended emotion is.",
+      "path": "papers/P04/EVA/P04-EVA-005.mp3"
+    },
+    {
+      "id": "P04-EVA-006",
+      "kind": "paper",
+      "text": "Speaker similarity and alignment measures examine other aspects of synthesis quality.",
+      "path": "papers/P04/EVA/P04-EVA-006.mp3"
+    },
+    {
+      "id": "P04-RES-001",
+      "kind": "paper",
+      "text": "Chain-Talker reports a naturalness DMOS of 4.147 on its main comparison.",
+      "path": "papers/P04/RES/P04-RES-001.mp3"
+    },
+    {
+      "id": "P04-RES-002",
+      "kind": "paper",
+      "text": "Its emotion DMOS reaches 4.239, exceeding the compared GPT-Talker variants.",
+      "path": "papers/P04/RES/P04-RES-002.mp3"
+    },
+    {
+      "id": "P04-RES-003",
+      "kind": "paper",
+      "text": "The CSS-EmCap caption evaluation also shows improvements over its comparison methods.",
+      "path": "papers/P04/RES/P04-RES-003.mp3"
+    },
+    {
+      "id": "P04-RES-004",
+      "kind": "paper",
+      "text": "Removing dialogue context reduces both naturalness and emotional appropriateness.",
+      "path": "papers/P04/RES/P04-RES-004.mp3"
+    },
+    {
+      "id": "P04-RES-005",
+      "kind": "paper",
+      "text": "Removing empathetic captions also causes a measurable performance drop.",
+      "path": "papers/P04/RES/P04-RES-005.mp3"
+    },
+    {
+      "id": "P04-RES-006",
+      "kind": "paper",
+      "text": "Removing early pretraining produces an even larger reduction.",
+      "path": "papers/P04/RES/P04-RES-006.mp3"
+    },
+    {
+      "id": "P04-RES-007",
+      "kind": "paper",
+      "text": "The study supports the value of separating emotional reasoning from speech token generation.",
+      "path": "papers/P04/RES/P04-RES-007.mp3"
+    },
+    {
+      "id": "P04-LIM-001",
+      "kind": "paper",
+      "text": "The quality of emotional captions affects the guidance available to the speech model.",
+      "path": "papers/P04/LIM/P04-LIM-001.mp3"
+    },
+    {
+      "id": "P04-LIM-002",
+      "kind": "paper",
+      "text": "The multi-stage pipeline also introduces additional components and training requirements.",
+      "path": "papers/P04/LIM/P04-LIM-002.mp3"
+    },
+    {
+      "id": "P04-LIM-003",
+      "kind": "paper",
+      "text": "An interesting research question is how robust these descriptions are in unfamiliar conversations.",
+      "path": "papers/P04/LIM/P04-LIM-003.mp3"
+    },
+    {
+      "id": "P05-ABS-001",
+      "kind": "paper",
+      "text": "This paper investigates emotion-aware conversational speech synthesis using a large language model.",
+      "path": "papers/P05/ABS/P05-ABS-001.mp3"
+    },
+    {
+      "id": "P05-ABS-002",
+      "kind": "paper",
+      "text": "Its main challenge is understanding emotional context from spoken conversation.",
+      "path": "papers/P05/ABS/P05-ABS-002.mp3"
+    },
+    {
+      "id": "P05-ABS-003",
+      "kind": "paper",
+      "text": "Emotionally appropriate speech depends on both what people say and how they sound.",
+      "path": "papers/P05/ABS/P05-ABS-003.mp3"
+    },
+    {
+      "id": "P05-ABS-004",
+      "kind": "paper",
+      "text": "The authors introduce a framework called JELLY.",
+      "path": "papers/P05/ABS/P05-ABS-004.mp3"
+    },
+    {
+      "id": "P05-ABS-005",
+      "kind": "paper",
+      "text": "JELLY combines speech emotion recognition with conversational context reasoning.",
+      "path": "papers/P05/ABS/P05-ABS-005.mp3"
+    },
+    {
+      "id": "P05-ABS-006",
+      "kind": "paper",
+      "text": "An emotion-aware Q-former connects acoustic emotion features to the language model.",
+      "path": "papers/P05/ABS/P05-ABS-006.mp3"
+    },
+    {
+      "id": "P05-ABS-007",
+      "kind": "paper",
+      "text": "Multiple partial LoRA modules adapt the model to different input modalities.",
+      "path": "papers/P05/ABS/P05-ABS-007.mp3"
+    },
+    {
+      "id": "P05-ABS-008",
+      "kind": "paper",
+      "text": "The system uses a three-stage learning pipeline to reduce the need for large emotional dialogue datasets.",
+      "path": "papers/P05/ABS/P05-ABS-008.mp3"
+    },
+    {
+      "id": "P05-ABS-009",
+      "kind": "paper",
+      "text": "The experiments show improved emotional context understanding and suitable speech generation.",
+      "path": "papers/P05/ABS/P05-ABS-009.mp3"
+    },
+    {
+      "id": "P05-INT-001",
+      "kind": "paper",
+      "text": "Conventional speech synthesis can generate a sentence without modelling the earlier conversation.",
+      "path": "papers/P05/INT/P05-INT-001.mp3"
+    },
+    {
+      "id": "P05-INT-002",
+      "kind": "paper",
+      "text": "Conversational speech synthesis must consider the relationship between current and previous turns.",
+      "path": "papers/P05/INT/P05-INT-002.mp3"
+    },
+    {
+      "id": "P05-INT-003",
+      "kind": "paper",
+      "text": "Earlier methods used recurrent networks, graph encoders, and multimodal context models.",
+      "path": "papers/P05/INT/P05-INT-003.mp3"
+    },
+    {
+      "id": "P05-INT-004",
+      "kind": "paper",
+      "text": "However, the same words can communicate different feelings through different voices.",
+      "path": "papers/P05/INT/P05-INT-004.mp3"
+    },
+    {
+      "id": "P05-INT-005",
+      "kind": "paper",
+      "text": "Therefore, understanding spoken emotion is important for generating appropriate responses.",
+      "path": "papers/P05/INT/P05-INT-005.mp3"
+    },
+    {
+      "id": "P05-INT-006",
+      "kind": "paper",
+      "text": "Existing approaches may rely on transcriptions or emotion labels during inference.",
+      "path": "papers/P05/INT/P05-INT-006.mp3"
+    },
+    {
+      "id": "P05-INT-007",
+      "kind": "paper",
+      "text": "In realistic applications, these annotations may not be available.",
+      "path": "papers/P05/INT/P05-INT-007.mp3"
+    },
+    {
+      "id": "P05-INT-008",
+      "kind": "paper",
+      "text": "Emotional conversational speech data is also relatively scarce.",
+      "path": "papers/P05/INT/P05-INT-008.mp3"
+    },
+    {
+      "id": "P05-INT-009",
+      "kind": "paper",
+      "text": "JELLY aims to infer emotional context from speech using an LLM.",
+      "path": "papers/P05/INT/P05-INT-009.mp3"
+    },
+    {
+      "id": "P05-INT-010",
+      "kind": "paper",
+      "text": "A central design choice is to connect recognised acoustic emotions with language-based reasoning.",
+      "path": "papers/P05/INT/P05-INT-010.mp3"
+    },
+    {
+      "id": "P05-REL-001",
+      "kind": "paper",
+      "text": "GRU-based CSS methods use textual dialogue history to improve speaking style.",
+      "path": "papers/P05/REL/P05-REL-001.mp3"
+    },
+    {
+      "id": "P05-REL-002",
+      "kind": "paper",
+      "text": "Multimodal graph models add information from earlier speech signals.",
+      "path": "papers/P05/REL/P05-REL-002.mp3"
+    },
+    {
+      "id": "P05-REL-003",
+      "kind": "paper",
+      "text": "Contrastive CSS models improve the discriminability of context representations.",
+      "path": "papers/P05/REL/P05-REL-003.mp3"
+    },
+    {
+      "id": "P05-REL-004",
+      "kind": "paper",
+      "text": "Emotion-aware CSS also explores predicting the emotion of a target utterance.",
+      "path": "papers/P05/REL/P05-REL-004.mp3"
+    },
+    {
+      "id": "P05-REL-005",
+      "kind": "paper",
+      "text": "JELLY differs by using speech emotion perception and LLM reasoning within one pipeline.",
+      "path": "papers/P05/REL/P05-REL-005.mp3"
+    },
+    {
+      "id": "P05-MTH-001",
+      "kind": "paper",
+      "text": "The model first extracts speech representations through a Whisper encoder.",
+      "path": "papers/P05/MTH/P05-MTH-001.mp3"
+    },
+    {
+      "id": "P05-MTH-002",
+      "kind": "paper",
+      "text": "A time-and-layer-wise transformer selects features that are useful for recognising emotion.",
+      "path": "papers/P05/MTH/P05-MTH-002.mp3"
+    },
+    {
+      "id": "P05-MTH-003",
+      "kind": "paper",
+      "text": "The emotion-aware Q-former then uses learnable queries to collect emotion information.",
+      "path": "papers/P05/MTH/P05-MTH-003.mp3"
+    },
+    {
+      "id": "P05-MTH-004",
+      "kind": "paper",
+      "text": "A projection layer maps these features into the language model's representation space.",
+      "path": "papers/P05/MTH/P05-MTH-004.mp3"
+    },
+    {
+      "id": "P05-MTH-005",
+      "kind": "paper",
+      "text": "This makes it possible for the LLM to work with both emotion and text representations.",
+      "path": "papers/P05/MTH/P05-MTH-005.mp3"
+    },
+    {
+      "id": "P05-MTH-006",
+      "kind": "paper",
+      "text": "The model uses separate partial LoRA modules for emotional and textual inputs.",
+      "path": "papers/P05/MTH/P05-MTH-006.mp3"
+    },
+    {
+      "id": "P05-MTH-007",
+      "kind": "paper",
+      "text": "These adapters reduce the need to fine-tune every parameter of the language model.",
+      "path": "papers/P05/MTH/P05-MTH-007.mp3"
+    },
+    {
+      "id": "P05-MTH-008",
+      "kind": "paper",
+      "text": "In the first training stage, the model aligns speech emotions with textual descriptions.",
+      "path": "papers/P05/MTH/P05-MTH-008.mp3"
+    },
+    {
+      "id": "P05-MTH-009",
+      "kind": "paper",
+      "text": "This stage can use emotional speech datasets rather than full dialogue recordings.",
+      "path": "papers/P05/MTH/P05-MTH-009.mp3"
+    },
+    {
+      "id": "P05-MTH-010",
+      "kind": "paper",
+      "text": "In the second stage, the LLM learns to reason about emotion across dialogue turns.",
+      "path": "papers/P05/MTH/P05-MTH-010.mp3"
+    },
+    {
+      "id": "P05-MTH-011",
+      "kind": "paper",
+      "text": "Text-only dialogue data is used during pretraining to address data scarcity.",
+      "path": "papers/P05/MTH/P05-MTH-011.mp3"
+    },
+    {
+      "id": "P05-MTH-012",
+      "kind": "paper",
+      "text": "The framework then fine-tunes its emotion reasoning components on conversational speech.",
+      "path": "papers/P05/MTH/P05-MTH-012.mp3"
+    },
+    {
+      "id": "P05-MTH-013",
+      "kind": "paper",
+      "text": "The final learning stage connects the predicted emotion with the speech synthesis system.",
+      "path": "papers/P05/MTH/P05-MTH-013.mp3"
+    },
+    {
+      "id": "P05-MTH-014",
+      "kind": "paper",
+      "text": "At inference time, the system can derive emotional cues from speech rather than supplied emotion labels.",
+      "path": "papers/P05/MTH/P05-MTH-014.mp3"
+    },
+    {
+      "id": "P05-EXP-001",
+      "kind": "paper",
+      "text": "The study evaluates JELLY against standard and dialogue-aware speech synthesis systems.",
+      "path": "papers/P05/EXP/P05-EXP-001.mp3"
+    },
+    {
+      "id": "P05-EXP-002",
+      "kind": "paper",
+      "text": "The main comparison includes FastSpeech 2, a GRU-based model, and ECSS.",
+      "path": "papers/P05/EXP/P05-EXP-002.mp3"
+    },
+    {
+      "id": "P05-EXP-003",
+      "kind": "paper",
+      "text": "The authors also evaluate a speech-only configuration of JELLY.",
+      "path": "papers/P05/EXP/P05-EXP-003.mp3"
+    },
+    {
+      "id": "P05-EXP-004",
+      "kind": "paper",
+      "text": "This setting tests whether the framework can operate without externally supplied transcripts.",
+      "path": "papers/P05/EXP/P05-EXP-004.mp3"
+    },
+    {
+      "id": "P05-EVA-001",
+      "kind": "paper",
+      "text": "Naturalness DMOS and emotion DMOS are used for human listening evaluation.",
+      "path": "papers/P05/EVA/P05-EVA-001.mp3"
+    },
+    {
+      "id": "P05-EVA-002",
+      "kind": "paper",
+      "text": "Emotion classification accuracy measures agreement with the target emotion.",
+      "path": "papers/P05/EVA/P05-EVA-002.mp3"
+    },
+    {
+      "id": "P05-EVA-003",
+      "kind": "paper",
+      "text": "Word error rate and phoneme error rate measure intelligibility and content accuracy.",
+      "path": "papers/P05/EVA/P05-EVA-003.mp3"
+    },
+    {
+      "id": "P05-EVA-004",
+      "kind": "paper",
+      "text": "Pitch error and mel-cepstral distortion assess acoustic fidelity.",
+      "path": "papers/P05/EVA/P05-EVA-004.mp3"
+    },
+    {
+      "id": "P05-EVA-005",
+      "kind": "paper",
+      "text": "Duration and voiced-unvoiced metrics examine temporal and phonation properties.",
+      "path": "papers/P05/EVA/P05-EVA-005.mp3"
+    },
+    {
+      "id": "P05-RES-001",
+      "kind": "paper",
+      "text": "JELLY achieves an emotion classification accuracy of 58.60 in its main comparison.",
+      "path": "papers/P05/RES/P05-RES-001.mp3"
+    },
+    {
+      "id": "P05-RES-002",
+      "kind": "paper",
+      "text": "Its naturalness DMOS is 3.847, and its emotion DMOS is 3.987.",
+      "path": "papers/P05/RES/P05-RES-002.mp3"
+    },
+    {
+      "id": "P05-RES-003",
+      "kind": "paper",
+      "text": "The reported results are stronger than the main comparison models on several emotional measures.",
+      "path": "papers/P05/RES/P05-RES-003.mp3"
+    },
+    {
+      "id": "P05-RES-004",
+      "kind": "paper",
+      "text": "The speech-only variant also maintains useful emotion modelling ability.",
+      "path": "papers/P05/RES/P05-RES-004.mp3"
+    },
+    {
+      "id": "P05-RES-005",
+      "kind": "paper",
+      "text": "These findings suggest that emotion recognition and language-based context reasoning can complement each other.",
+      "path": "papers/P05/RES/P05-RES-005.mp3"
+    },
+    {
+      "id": "P05-LIM-001",
+      "kind": "paper",
+      "text": "The three-stage system introduces additional training and integration complexity.",
+      "path": "papers/P05/LIM/P05-LIM-001.mp3"
+    },
+    {
+      "id": "P05-LIM-002",
+      "kind": "paper",
+      "text": "The approach relies on the quality of the speech emotion features extracted by its encoder.",
+      "path": "papers/P05/LIM/P05-LIM-002.mp3"
+    },
+    {
+      "id": "P05-LIM-003",
+      "kind": "paper",
+      "text": "A useful next question is how well its reasoning generalises to unfamiliar speakers and conversations.",
+      "path": "papers/P05/LIM/P05-LIM-003.mp3"
+    },
+    {
+      "id": "P06-ABS-001",
+      "kind": "paper",
+      "text": "This paper introduces a generative approach to expressive conversational speech synthesis.",
+      "path": "papers/P06/ABS/P06-ABS-001.mp3"
+    },
+    {
+      "id": "P06-ABS-002",
+      "kind": "paper",
+      "text": "The task is to synthesise a target response with a speaking style suited to the dialogue.",
+      "path": "papers/P06/ABS/P06-ABS-002.mp3"
+    },
+    {
+      "id": "P06-ABS-003",
+      "kind": "paper",
+      "text": "Earlier systems often used elaborate context encoders and small dialogue datasets.",
+      "path": "papers/P06/ABS/P06-ABS-003.mp3"
+    },
+    {
+      "id": "P06-ABS-004",
+      "kind": "paper",
+      "text": "The authors propose a model called GPT-Talker to simplify context modelling.",
+      "path": "papers/P06/ABS/P06-ABS-004.mp3"
+    },
+    {
+      "id": "P06-ABS-005",
+      "kind": "paper",
+      "text": "It converts multimodal dialogue history into a unified discrete token sequence.",
+      "path": "papers/P06/ABS/P06-ABS-005.mp3"
+    },
+    {
+      "id": "P06-ABS-006",
+      "kind": "paper",
+      "text": "A conversational GPT predicts the semantic and style tokens of the target response.",
+      "path": "papers/P06/ABS/P06-ABS-006.mp3"
+    },
+    {
+      "id": "P06-ABS-007",
+      "kind": "paper",
+      "text": "A conversational VITS model converts these predictions into expressive speech.",
+      "path": "papers/P06/ABS/P06-ABS-007.mp3"
+    },
+    {
+      "id": "P06-ABS-008",
+      "kind": "paper",
+      "text": "The paper also introduces NCSSD, a large natural conversational speech dataset.",
+      "path": "papers/P06/ABS/P06-ABS-008.mp3"
+    },
+    {
+      "id": "P06-ABS-009",
+      "kind": "paper",
+      "text": "The dataset contains English and Chinese recordings with a total duration of 236 hours.",
+      "path": "papers/P06/ABS/P06-ABS-009.mp3"
+    },
+    {
+      "id": "P06-ABS-010",
+      "kind": "paper",
+      "text": "The reported evaluation shows improvements in naturalness and expressiveness.",
+      "path": "papers/P06/ABS/P06-ABS-010.mp3"
+    },
+    {
+      "id": "P06-INT-001",
+      "kind": "paper",
+      "text": "A conversational voice assistant must speak in a way that suits the interaction.",
+      "path": "papers/P06/INT/P06-INT-001.mp3"
+    },
+    {
+      "id": "P06-INT-002",
+      "kind": "paper",
+      "text": "Earlier research improved speech style using recurrent context encoders and multimodal graphs.",
+      "path": "papers/P06/INT/P06-INT-002.mp3"
+    },
+    {
+      "id": "P06-INT-003",
+      "kind": "paper",
+      "text": "Some methods use separate modules to model local and global contextual information.",
+      "path": "papers/P06/INT/P06-INT-003.mp3"
+    },
+    {
+      "id": "P06-INT-004",
+      "kind": "paper",
+      "text": "These complex designs can require careful optimisation and additional engineering.",
+      "path": "papers/P06/INT/P06-INT-004.mp3"
+    },
+    {
+      "id": "P06-INT-005",
+      "kind": "paper",
+      "text": "The authors argue that a language model may provide a more unified approach.",
+      "path": "papers/P06/INT/P06-INT-005.mp3"
+    },
+    {
+      "id": "P06-INT-006",
+      "kind": "paper",
+      "text": "An autoregressive model can learn dependencies within a sequence of dialogue tokens.",
+      "path": "papers/P06/INT/P06-INT-006.mp3"
+    },
+    {
+      "id": "P06-INT-007",
+      "kind": "paper",
+      "text": "However, ordinary conversational language models do not automatically produce expressive speech.",
+      "path": "papers/P06/INT/P06-INT-007.mp3"
+    },
+    {
+      "id": "P06-INT-008",
+      "kind": "paper",
+      "text": "A speech-specific token representation and renderer are therefore needed.",
+      "path": "papers/P06/INT/P06-INT-008.mp3"
+    },
+    {
+      "id": "P06-INT-009",
+      "kind": "paper",
+      "text": "Training data is another important challenge for generative conversational speech synthesis.",
+      "path": "papers/P06/INT/P06-INT-009.mp3"
+    },
+    {
+      "id": "P06-INT-010",
+      "kind": "paper",
+      "text": "DailyTalk contains around twenty hours of recorded conversation and uses a relatively scripted style.",
+      "path": "papers/P06/INT/P06-INT-010.mp3"
+    },
+    {
+      "id": "P06-INT-011",
+      "kind": "paper",
+      "text": "The authors therefore collect a larger dataset with more natural conversational expression.",
+      "path": "papers/P06/INT/P06-INT-011.mp3"
+    },
+    {
+      "id": "P06-REL-001",
+      "kind": "paper",
+      "text": "Conversational language models increasingly process both speech and text.",
+      "path": "papers/P06/REL/P06-REL-001.mp3"
+    },
+    {
+      "id": "P06-REL-002",
+      "kind": "paper",
+      "text": "Several spoken language models map acoustic signals into discrete units.",
+      "path": "papers/P06/REL/P06-REL-002.mp3"
+    },
+    {
+      "id": "P06-REL-003",
+      "kind": "paper",
+      "text": "Other systems generate response text or predict emotion-related features.",
+      "path": "papers/P06/REL/P06-REL-003.mp3"
+    },
+    {
+      "id": "P06-REL-004",
+      "kind": "paper",
+      "text": "GPT-Talker differs by predicting speech representations from a multimodal dialogue history.",
+      "path": "papers/P06/REL/P06-REL-004.mp3"
+    },
+    {
+      "id": "P06-REL-005",
+      "kind": "paper",
+      "text": "Prior conversational synthesis systems also use recurrent networks and graph-based context models.",
+      "path": "papers/P06/REL/P06-REL-005.mp3"
+    },
+    {
+      "id": "P06-REL-006",
+      "kind": "paper",
+      "text": "The paper aims to avoid the need for highly specialised context interaction modules.",
+      "path": "papers/P06/REL/P06-REL-006.mp3"
+    },
+    {
+      "id": "P06-MTH-001",
+      "kind": "paper",
+      "text": "GPT-Talker consists of two main components called ConGPT and ConVITS.",
+      "path": "papers/P06/MTH/P06-MTH-001.mp3"
+    },
+    {
+      "id": "P06-MTH-002",
+      "kind": "paper",
+      "text": "The first step tokenises both the text and the speech in dialogue history.",
+      "path": "papers/P06/MTH/P06-MTH-002.mp3"
+    },
+    {
+      "id": "P06-MTH-003",
+      "kind": "paper",
+      "text": "A phoneme encoder represents the text content.",
+      "path": "papers/P06/MTH/P06-MTH-003.mp3"
+    },
+    {
+      "id": "P06-MTH-004",
+      "kind": "paper",
+      "text": "An acoustic tokenizer converts speech into a sequence of discrete units.",
+      "path": "papers/P06/MTH/P06-MTH-004.mp3"
+    },
+    {
+      "id": "P06-MTH-005",
+      "kind": "paper",
+      "text": "The token stream is organised in the order of the conversation.",
+      "path": "papers/P06/MTH/P06-MTH-005.mp3"
+    },
+    {
+      "id": "P06-MTH-006",
+      "kind": "paper",
+      "text": "Text tokens and speech tokens are interleaved rather than grouped separately.",
+      "path": "papers/P06/MTH/P06-MTH-006.mp3"
+    },
+    {
+      "id": "P06-MTH-007",
+      "kind": "paper",
+      "text": "The resulting sequence gives ConGPT a unified description of the previous turns.",
+      "path": "papers/P06/MTH/P06-MTH-007.mp3"
+    },
+    {
+      "id": "P06-MTH-008",
+      "kind": "paper",
+      "text": "ConGPT predicts the target acoustic token sequence in an autoregressive manner.",
+      "path": "papers/P06/MTH/P06-MTH-008.mp3"
+    },
+    {
+      "id": "P06-MTH-009",
+      "kind": "paper",
+      "text": "These predicted units contain information about both meaning and speaking style.",
+      "path": "papers/P06/MTH/P06-MTH-009.mp3"
+    },
+    {
+      "id": "P06-MTH-010",
+      "kind": "paper",
+      "text": "ConVITS takes the target text and the predicted token representation as conditioning inputs.",
+      "path": "papers/P06/MTH/P06-MTH-010.mp3"
+    },
+    {
+      "id": "P06-MTH-011",
+      "kind": "paper",
+      "text": "Its content and token encoders combine linguistic content with context-dependent style.",
+      "path": "papers/P06/MTH/P06-MTH-011.mp3"
+    },
+    {
+      "id": "P06-MTH-012",
+      "kind": "paper",
+      "text": "A cross-attention mechanism integrates these representations for speech synthesis.",
+      "path": "papers/P06/MTH/P06-MTH-012.mp3"
+    },
+    {
+      "id": "P06-MTH-013",
+      "kind": "paper",
+      "text": "A separate timbre encoder allows the system to use a reference speaker's voice characteristics.",
+      "path": "papers/P06/MTH/P06-MTH-013.mp3"
+    },
+    {
+      "id": "P06-MTH-014",
+      "kind": "paper",
+      "text": "The final VITS synthesiser generates the waveform of the agent's response.",
+      "path": "papers/P06/MTH/P06-MTH-014.mp3"
+    },
+    {
+      "id": "P06-MTH-015",
+      "kind": "paper",
+      "text": "The model adopts staged training rather than learning all components from scratch at once.",
+      "path": "papers/P06/MTH/P06-MTH-015.mp3"
+    },
+    {
+      "id": "P06-MTH-016",
+      "kind": "paper",
+      "text": "This helps transfer basic speech generation ability before modelling expressive dialogue.",
+      "path": "papers/P06/MTH/P06-MTH-016.mp3"
+    },
+    {
+      "id": "P06-DAT-001",
+      "kind": "paper",
+      "text": "NCSSD stands for Natural Conversational Speech Synthesis Dataset.",
+      "path": "papers/P06/DAT/P06-DAT-001.mp3"
+    },
+    {
+      "id": "P06-DAT-002",
+      "kind": "paper",
+      "text": "It includes both naturally performed recordings and dialogue audio collected from television programmes.",
+      "path": "papers/P06/DAT/P06-DAT-002.mp3"
+    },
+    {
+      "id": "P06-DAT-003",
+      "kind": "paper",
+      "text": "The dataset covers English and Chinese speech.",
+      "path": "papers/P06/DAT/P06-DAT-003.mp3"
+    },
+    {
+      "id": "P06-DAT-004",
+      "kind": "paper",
+      "text": "Its total duration is approximately 236 hours.",
+      "path": "papers/P06/DAT/P06-DAT-004.mp3"
+    },
+    {
+      "id": "P06-DAT-005",
+      "kind": "paper",
+      "text": "The data supports training and evaluation of generative dialogue-aware speech systems.",
+      "path": "papers/P06/DAT/P06-DAT-005.mp3"
+    },
+    {
+      "id": "P06-EXP-001",
+      "kind": "paper",
+      "text": "The authors evaluate GPT-Talker on DailyTalk and their newly collected NCSSD.",
+      "path": "papers/P06/EXP/P06-EXP-001.mp3"
+    },
+    {
+      "id": "P06-EXP-002",
+      "kind": "paper",
+      "text": "The comparisons include conversational speech synthesis methods with alternative context models.",
+      "path": "papers/P06/EXP/P06-EXP-002.mp3"
+    },
+    {
+      "id": "P06-EXP-003",
+      "kind": "paper",
+      "text": "The study examines perceived naturalness, emotional delivery, and speaker consistency.",
+      "path": "papers/P06/EXP/P06-EXP-003.mp3"
+    },
+    {
+      "id": "P06-EXP-004",
+      "kind": "paper",
+      "text": "It also analyses the contribution of the staged training strategy.",
+      "path": "papers/P06/EXP/P06-EXP-004.mp3"
+    },
+    {
+      "id": "P06-EXP-005",
+      "kind": "paper",
+      "text": "Further experiments investigate how the amount of dialogue context affects synthesis.",
+      "path": "papers/P06/EXP/P06-EXP-005.mp3"
+    },
+    {
+      "id": "P06-EVA-001",
+      "kind": "paper",
+      "text": "Naturalness DMOS evaluates the overall perceived quality of generated speech.",
+      "path": "papers/P06/EVA/P06-EVA-001.mp3"
+    },
+    {
+      "id": "P06-EVA-002",
+      "kind": "paper",
+      "text": "Emotion DMOS evaluates whether speech expression suits its dialogue context.",
+      "path": "papers/P06/EVA/P06-EVA-002.mp3"
+    },
+    {
+      "id": "P06-EVA-003",
+      "kind": "paper",
+      "text": "Speaker similarity evaluates how closely the synthesised voice matches the reference speaker.",
+      "path": "papers/P06/EVA/P06-EVA-003.mp3"
+    },
+    {
+      "id": "P06-EVA-004",
+      "kind": "paper",
+      "text": "Dynamic time warping distance is used to compare pitch-related expressive patterns.",
+      "path": "papers/P06/EVA/P06-EVA-004.mp3"
+    },
+    {
+      "id": "P06-EVA-005",
+      "kind": "paper",
+      "text": "The study also uses preference tests to assess the quality of NCSSD-based synthesis.",
+      "path": "papers/P06/EVA/P06-EVA-005.mp3"
+    },
+    {
+      "id": "P06-RES-001",
+      "kind": "paper",
+      "text": "On DailyTalk, GPT-Talker reports a naturalness DMOS of 3.890.",
+      "path": "papers/P06/RES/P06-RES-001.mp3"
+    },
+    {
+      "id": "P06-RES-002",
+      "kind": "paper",
+      "text": "Its emotion DMOS reaches 3.908 in the same comparison.",
+      "path": "papers/P06/RES/P06-RES-002.mp3"
+    },
+    {
+      "id": "P06-RES-003",
+      "kind": "paper",
+      "text": "These scores exceed those of the compared context modelling baselines.",
+      "path": "papers/P06/RES/P06-RES-003.mp3"
+    },
+    {
+      "id": "P06-RES-004",
+      "kind": "paper",
+      "text": "The results on the English NCSSD subset show a similar overall pattern.",
+      "path": "papers/P06/RES/P06-RES-004.mp3"
+    },
+    {
+      "id": "P06-RES-005",
+      "kind": "paper",
+      "text": "The staged training analysis supports gradual adaptation to conversational expression.",
+      "path": "papers/P06/RES/P06-RES-005.mp3"
+    },
+    {
+      "id": "P06-RES-006",
+      "kind": "paper",
+      "text": "The study also shows that changing dialogue length beyond the trained setting can hurt performance.",
+      "path": "papers/P06/RES/P06-RES-006.mp3"
+    },
+    {
+      "id": "P06-RES-007",
+      "kind": "paper",
+      "text": "This observation highlights a challenge in modelling longer dialogue histories.",
+      "path": "papers/P06/RES/P06-RES-007.mp3"
+    },
+    {
+      "id": "P06-LIM-001",
+      "kind": "paper",
+      "text": "The pretrained model has difficulty when the inference context becomes longer than expected.",
+      "path": "papers/P06/LIM/P06-LIM-001.mp3"
+    },
+    {
+      "id": "P06-LIM-002",
+      "kind": "paper",
+      "text": "The speech tokens may still contain redundant information unrelated to the target emotion.",
+      "path": "papers/P06/LIM/P06-LIM-002.mp3"
+    },
+    {
+      "id": "P06-LIM-003",
+      "kind": "paper",
+      "text": "A natural future direction is to improve long-context modelling and control over speaking style.",
+      "path": "papers/P06/LIM/P06-LIM-003.mp3"
+    },
+    {
+      "id": "P07-ABS-001",
+      "kind": "paper",
+      "text": "This paper explores retrieval-augmented generation for conversational speech synthesis.",
+      "path": "papers/P07/ABS/P07-ABS-001.mp3"
+    },
+    {
+      "id": "P07-ABS-002",
+      "kind": "paper",
+      "text": "Conventional systems mainly use the current dialogue history to predict speaking style.",
+      "path": "papers/P07/ABS/P07-ABS-002.mp3"
+    },
+    {
+      "id": "P07-ABS-003",
+      "kind": "paper",
+      "text": "However, earlier stored dialogues may contain useful examples of similar conversational situations.",
+      "path": "papers/P07/ABS/P07-ABS-003.mp3"
+    },
+    {
+      "id": "P07-ABS-004",
+      "kind": "paper",
+      "text": "The authors propose a framework called RADKA-CSS.",
+      "path": "papers/P07/ABS/P07-ABS-004.mp3"
+    },
+    {
+      "id": "P07-ABS-005",
+      "kind": "paper",
+      "text": "It first retrieves stored dialogues that are similar in both meaning and style.",
+      "path": "papers/P07/ABS/P07-ABS-005.mp3"
+    },
+    {
+      "id": "P07-ABS-006",
+      "kind": "paper",
+      "text": "It then models current and retrieved dialogues using multi-granularity heterogeneous graphs.",
+      "path": "papers/P07/ABS/P07-ABS-006.mp3"
+    },
+    {
+      "id": "P07-ABS-007",
+      "kind": "paper",
+      "text": "A knowledge aggregation module combines the retrieved style information with the current context.",
+      "path": "papers/P07/ABS/P07-ABS-007.mp3"
+    },
+    {
+      "id": "P07-ABS-008",
+      "kind": "paper",
+      "text": "The aggregated representation is used to generate expressive speech.",
+      "path": "papers/P07/ABS/P07-ABS-008.mp3"
+    },
+    {
+      "id": "P07-ABS-009",
+      "kind": "paper",
+      "text": "The reported experiments show improvements in naturalness and style consistency.",
+      "path": "papers/P07/ABS/P07-ABS-009.mp3"
+    },
+    {
+      "id": "P07-INT-001",
+      "kind": "paper",
+      "text": "A dialogue contains useful information about how the next sentence should sound.",
+      "path": "papers/P07/INT/P07-INT-001.mp3"
+    },
+    {
+      "id": "P07-INT-002",
+      "kind": "paper",
+      "text": "Most conversational speech synthesis systems focus on the immediately available history.",
+      "path": "papers/P07/INT/P07-INT-002.mp3"
+    },
+    {
+      "id": "P07-INT-003",
+      "kind": "paper",
+      "text": "However, previous interactions can preserve examples of similar topics, situations, and speaking styles.",
+      "path": "papers/P07/INT/P07-INT-003.mp3"
+    },
+    {
+      "id": "P07-INT-004",
+      "kind": "paper",
+      "text": "This stored dialogue knowledge can support more appropriate speech generation.",
+      "path": "papers/P07/INT/P07-INT-004.mp3"
+    },
+    {
+      "id": "P07-INT-005",
+      "kind": "paper",
+      "text": "Retrieval-augmented generation already uses external information to improve other generation tasks.",
+      "path": "papers/P07/INT/P07-INT-005.mp3"
+    },
+    {
+      "id": "P07-INT-006",
+      "kind": "paper",
+      "text": "The paper asks whether similar ideas can improve spoken expression.",
+      "path": "papers/P07/INT/P07-INT-006.mp3"
+    },
+    {
+      "id": "P07-INT-007",
+      "kind": "paper",
+      "text": "A suitable retriever must consider not only the topic but also the style of a dialogue.",
+      "path": "papers/P07/INT/P07-INT-007.mp3"
+    },
+    {
+      "id": "P07-INT-008",
+      "kind": "paper",
+      "text": "Retrieved examples must then be represented in a form that supports synthesis.",
+      "path": "papers/P07/INT/P07-INT-008.mp3"
+    },
+    {
+      "id": "P07-INT-009",
+      "kind": "paper",
+      "text": "The authors address these challenges with semantic-style retrieval and graph-based fusion.",
+      "path": "papers/P07/INT/P07-INT-009.mp3"
+    },
+    {
+      "id": "P07-REL-001",
+      "kind": "paper",
+      "text": "Retrieval-augmented generation is widely used to connect a generative model with stored knowledge.",
+      "path": "papers/P07/REL/P07-REL-001.mp3"
+    },
+    {
+      "id": "P07-REL-002",
+      "kind": "paper",
+      "text": "Most dialogue RAG applications focus on retrieving text to improve textual answers.",
+      "path": "papers/P07/REL/P07-REL-002.mp3"
+    },
+    {
+      "id": "P07-REL-003",
+      "kind": "paper",
+      "text": "RADKA-CSS instead retrieves dialogue examples to improve speech style.",
+      "path": "papers/P07/REL/P07-REL-003.mp3"
+    },
+    {
+      "id": "P07-REL-004",
+      "kind": "paper",
+      "text": "Contrastive learning can improve the separation of relevant and irrelevant representations.",
+      "path": "papers/P07/REL/P07-REL-004.mp3"
+    },
+    {
+      "id": "P07-REL-005",
+      "kind": "paper",
+      "text": "Graph models can represent relations among utterances, words, and dialogue-level features.",
+      "path": "papers/P07/REL/P07-REL-005.mp3"
+    },
+    {
+      "id": "P07-REL-006",
+      "kind": "paper",
+      "text": "The paper combines retrieval, contrastive learning, and multi-granularity graph modelling.",
+      "path": "papers/P07/REL/P07-REL-006.mp3"
+    },
+    {
+      "id": "P07-MTH-001",
+      "kind": "paper",
+      "text": "The framework distinguishes the current dialogue from stored dialogue history.",
+      "path": "papers/P07/MTH/P07-MTH-001.mp3"
+    },
+    {
+      "id": "P07-MTH-002",
+      "kind": "paper",
+      "text": "The first step builds a semantic-style database of stored dialogues.",
+      "path": "papers/P07/MTH/P07-MTH-002.mp3"
+    },
+    {
+      "id": "P07-MTH-003",
+      "kind": "paper",
+      "text": "Each entry contains dialogue text and audio together with their learned representations.",
+      "path": "papers/P07/MTH/P07-MTH-003.mp3"
+    },
+    {
+      "id": "P07-MTH-004",
+      "kind": "paper",
+      "text": "A multi-attribute retriever compares the current dialogue with the stored examples.",
+      "path": "papers/P07/MTH/P07-MTH-004.mp3"
+    },
+    {
+      "id": "P07-MTH-005",
+      "kind": "paper",
+      "text": "It considers semantic similarity and speaking-style similarity at the dialogue level.",
+      "path": "papers/P07/MTH/P07-MTH-005.mp3"
+    },
+    {
+      "id": "P07-MTH-006",
+      "kind": "paper",
+      "text": "The retriever selects the top-ranked dialogue examples for further processing.",
+      "path": "papers/P07/MTH/P07-MTH-006.mp3"
+    },
+    {
+      "id": "P07-MTH-007",
+      "kind": "paper",
+      "text": "The next step represents the dialogues using heterogeneous graphs.",
+      "path": "papers/P07/MTH/P07-MTH-007.mp3"
+    },
+    {
+      "id": "P07-MTH-008",
+      "kind": "paper",
+      "text": "The graphs contain word-level, sentence-level, and dialogue-level nodes.",
+      "path": "papers/P07/MTH/P07-MTH-008.mp3"
+    },
+    {
+      "id": "P07-MTH-009",
+      "kind": "paper",
+      "text": "Relationships connect information at different scales and across neighbouring turns.",
+      "path": "papers/P07/MTH/P07-MTH-009.mp3"
+    },
+    {
+      "id": "P07-MTH-010",
+      "kind": "paper",
+      "text": "Separate text and acoustic graphs capture semantic and style characteristics.",
+      "path": "papers/P07/MTH/P07-MTH-010.mp3"
+    },
+    {
+      "id": "P07-MTH-011",
+      "kind": "paper",
+      "text": "Graph encoders aggregate neighbouring information into richer dialogue representations.",
+      "path": "papers/P07/MTH/P07-MTH-011.mp3"
+    },
+    {
+      "id": "P07-MTH-012",
+      "kind": "paper",
+      "text": "The current dialogue is encoded using the same multi-granularity modelling approach.",
+      "path": "papers/P07/MTH/P07-MTH-012.mp3"
+    },
+    {
+      "id": "P07-MTH-013",
+      "kind": "paper",
+      "text": "A retrieval-based contrastive objective improves semantic and style discrimination.",
+      "path": "papers/P07/MTH/P07-MTH-013.mp3"
+    },
+    {
+      "id": "P07-MTH-014",
+      "kind": "paper",
+      "text": "Positive dialogue pairs are encouraged to have similar representations.",
+      "path": "papers/P07/MTH/P07-MTH-014.mp3"
+    },
+    {
+      "id": "P07-MTH-015",
+      "kind": "paper",
+      "text": "Irrelevant dialogues are pushed away in the learned representation space.",
+      "path": "papers/P07/MTH/P07-MTH-015.mp3"
+    },
+    {
+      "id": "P07-MTH-016",
+      "kind": "paper",
+      "text": "The knowledge aggregation module weights retrieved styles according to semantic relevance.",
+      "path": "papers/P07/MTH/P07-MTH-016.mp3"
+    },
+    {
+      "id": "P07-MTH-017",
+      "kind": "paper",
+      "text": "It combines retrieved style features with the current dialogue and predicted target style.",
+      "path": "papers/P07/MTH/P07-MTH-017.mp3"
+    },
+    {
+      "id": "P07-MTH-018",
+      "kind": "paper",
+      "text": "The fused information is finally supplied to the speech synthesiser.",
+      "path": "papers/P07/MTH/P07-MTH-018.mp3"
+    },
+    {
+      "id": "P07-EXP-001",
+      "kind": "paper",
+      "text": "The main experiments are conducted on the DailyTalk benchmark dataset.",
+      "path": "papers/P07/EXP/P07-EXP-001.mp3"
+    },
+    {
+      "id": "P07-EXP-002",
+      "kind": "paper",
+      "text": "The authors construct a stored dialogue database for semantic and style retrieval.",
+      "path": "papers/P07/EXP/P07-EXP-002.mp3"
+    },
+    {
+      "id": "P07-EXP-003",
+      "kind": "paper",
+      "text": "Comparison systems include DailyTalk, M2-CTTS, CONCSS, and ECSS.",
+      "path": "papers/P07/EXP/P07-EXP-003.mp3"
+    },
+    {
+      "id": "P07-EXP-004",
+      "kind": "paper",
+      "text": "The ablation study removes retrieval knowledge, graph structures, and aggregation components.",
+      "path": "papers/P07/EXP/P07-EXP-004.mp3"
+    },
+    {
+      "id": "P07-EXP-005",
+      "kind": "paper",
+      "text": "The authors also examine the effect of providing better retrieved examples.",
+      "path": "papers/P07/EXP/P07-EXP-005.mp3"
+    },
+    {
+      "id": "P07-EVA-001",
+      "kind": "paper",
+      "text": "Naturalness DMOS asks whether the generated voice sounds natural in conversation.",
+      "path": "papers/P07/EVA/P07-EVA-001.mp3"
+    },
+    {
+      "id": "P07-EVA-002",
+      "kind": "paper",
+      "text": "Style DMOS asks whether the voice matches the style of the current dialogue.",
+      "path": "papers/P07/EVA/P07-EVA-002.mp3"
+    },
+    {
+      "id": "P07-EVA-003",
+      "kind": "paper",
+      "text": "Comparative MOS evaluates preferences between two systems.",
+      "path": "papers/P07/EVA/P07-EVA-003.mp3"
+    },
+    {
+      "id": "P07-EVA-004",
+      "kind": "paper",
+      "text": "Pitch, energy, and duration errors are measured using mean absolute error.",
+      "path": "papers/P07/EVA/P07-EVA-004.mp3"
+    },
+    {
+      "id": "P07-EVA-005",
+      "kind": "paper",
+      "text": "Retrieval quality is also examined using a recall-based evaluation.",
+      "path": "papers/P07/EVA/P07-EVA-005.mp3"
+    },
+    {
+      "id": "P07-RES-001",
+      "kind": "paper",
+      "text": "RADKA-CSS reports a naturalness DMOS of 3.904 in its main study.",
+      "path": "papers/P07/RES/P07-RES-001.mp3"
+    },
+    {
+      "id": "P07-RES-002",
+      "kind": "paper",
+      "text": "Its style DMOS reaches 3.879, above the main comparison models.",
+      "path": "papers/P07/RES/P07-RES-002.mp3"
+    },
+    {
+      "id": "P07-RES-003",
+      "kind": "paper",
+      "text": "The model also reduces the reported pitch, energy, and duration prediction errors.",
+      "path": "papers/P07/RES/P07-RES-003.mp3"
+    },
+    {
+      "id": "P07-RES-004",
+      "kind": "paper",
+      "text": "Removing retrieved stored-dialogue knowledge leads to lower synthesis scores.",
+      "path": "papers/P07/RES/P07-RES-004.mp3"
+    },
+    {
+      "id": "P07-RES-005",
+      "kind": "paper",
+      "text": "Replacing the multi-granularity graph with simpler structures also reduces performance.",
+      "path": "papers/P07/RES/P07-RES-005.mp3"
+    },
+    {
+      "id": "P07-RES-006",
+      "kind": "paper",
+      "text": "The contrastive objective contributes to the quality of the learned dialogue representations.",
+      "path": "papers/P07/RES/P07-RES-006.mp3"
+    },
+    {
+      "id": "P07-RES-007",
+      "kind": "paper",
+      "text": "Using more accurate retrieved examples produces additional improvements.",
+      "path": "papers/P07/RES/P07-RES-007.mp3"
+    },
+    {
+      "id": "P07-RES-008",
+      "kind": "paper",
+      "text": "These results highlight the importance of retrieval quality and knowledge fusion.",
+      "path": "papers/P07/RES/P07-RES-008.mp3"
+    },
+    {
+      "id": "P07-LIM-001",
+      "kind": "paper",
+      "text": "The system depends on the availability of a useful stored dialogue database.",
+      "path": "papers/P07/LIM/P07-LIM-001.mp3"
+    },
+    {
+      "id": "P07-LIM-002",
+      "kind": "paper",
+      "text": "Incorrect retrieval may introduce an unsuitable speaking style into the synthesis process.",
+      "path": "papers/P07/LIM/P07-LIM-002.mp3"
+    },
+    {
+      "id": "P07-LIM-003",
+      "kind": "paper",
+      "text": "Improving dialogue retrieval and reducing retrieval cost are meaningful directions for future study.",
+      "path": "papers/P07/LIM/P07-LIM-003.mp3"
+    },
+    {
+      "id": "P08-ABS-001",
+      "kind": "paper",
+      "text": "This paper studies how multimodal dialogue context influences the prosody of a new utterance.",
+      "path": "papers/P08/ABS/P08-ABS-001.mp3"
+    },
+    {
+      "id": "P08-ABS-002",
+      "kind": "paper",
+      "text": "Both text and speech contain useful but different contextual information.",
+      "path": "papers/P08/ABS/P08-ABS-002.mp3"
+    },
+    {
+      "id": "P08-ABS-003",
+      "kind": "paper",
+      "text": "Earlier systems did not explicitly model all interactions between the history and target modalities.",
+      "path": "papers/P08/ABS/P08-ABS-003.mp3"
+    },
+    {
+      "id": "P08-ABS-004",
+      "kind": "paper",
+      "text": "The authors propose a framework called I-three-CSS.",
+      "path": "papers/P08/ABS/P08-ABS-004.mp3"
+    },
+    {
+      "id": "P08-ABS-005",
+      "kind": "paper",
+      "text": "It models both intra-modal and inter-modal interactions.",
+      "path": "papers/P08/ABS/P08-ABS-005.mp3"
+    },
+    {
+      "id": "P08-ABS-006",
+      "kind": "paper",
+      "text": "Four interaction paths link historical text or speech with target text or speech.",
+      "path": "papers/P08/ABS/P08-ABS-006.mp3"
+    },
+    {
+      "id": "P08-ABS-007",
+      "kind": "paper",
+      "text": "Contrastive learning strengthens these contextual relationships during training.",
+      "path": "papers/P08/ABS/P08-ABS-007.mp3"
+    },
+    {
+      "id": "P08-ABS-008",
+      "kind": "paper",
+      "text": "The study reports improved conversational prosody on DailyTalk.",
+      "path": "papers/P08/ABS/P08-ABS-008.mp3"
+    },
+    {
+      "id": "P08-INT-001",
+      "kind": "paper",
+      "text": "Conversational speech synthesis should produce speech with contextually appropriate prosody.",
+      "path": "papers/P08/INT/P08-INT-001.mp3"
+    },
+    {
+      "id": "P08-INT-002",
+      "kind": "paper",
+      "text": "This is important for voice assistants and other interactive systems.",
+      "path": "papers/P08/INT/P08-INT-002.mp3"
+    },
+    {
+      "id": "P08-INT-003",
+      "kind": "paper",
+      "text": "Textual dialogue history provides semantic information about the conversation.",
+      "path": "papers/P08/INT/P08-INT-003.mp3"
+    },
+    {
+      "id": "P08-INT-004",
+      "kind": "paper",
+      "text": "Acoustic history provides cues about speaking style and vocal expression.",
+      "path": "papers/P08/INT/P08-INT-004.mp3"
+    },
+    {
+      "id": "P08-INT-005",
+      "kind": "paper",
+      "text": "These two sources can influence the next utterance in different ways.",
+      "path": "papers/P08/INT/P08-INT-005.mp3"
+    },
+    {
+      "id": "P08-INT-006",
+      "kind": "paper",
+      "text": "Existing approaches often encode the history without explicitly relating it to the target modalities.",
+      "path": "papers/P08/INT/P08-INT-006.mp3"
+    },
+    {
+      "id": "P08-INT-007",
+      "kind": "paper",
+      "text": "The authors argue that intra-modal and cross-modal interactions should be studied separately.",
+      "path": "papers/P08/INT/P08-INT-007.mp3"
+    },
+    {
+      "id": "P08-INT-008",
+      "kind": "paper",
+      "text": "Their objective is to learn more reliable semantic and prosodic contextual features.",
+      "path": "papers/P08/INT/P08-INT-008.mp3"
+    },
+    {
+      "id": "P08-REL-001",
+      "kind": "paper",
+      "text": "Recurrent models are often used to summarise text-based dialogue history.",
+      "path": "papers/P08/REL/P08-REL-001.mp3"
+    },
+    {
+      "id": "P08-REL-002",
+      "kind": "paper",
+      "text": "Multimodal context encoders combine text and speech representations.",
+      "path": "papers/P08/REL/P08-REL-002.mp3"
+    },
+    {
+      "id": "P08-REL-003",
+      "kind": "paper",
+      "text": "Graph-based systems capture relationships between speakers and dialogue turns.",
+      "path": "papers/P08/REL/P08-REL-003.mp3"
+    },
+    {
+      "id": "P08-REL-004",
+      "kind": "paper",
+      "text": "Contrastive learning can enhance the distinction between different dialogue contexts.",
+      "path": "papers/P08/REL/P08-REL-004.mp3"
+    },
+    {
+      "id": "P08-REL-005",
+      "kind": "paper",
+      "text": "The key difference in this paper is the explicit interaction between historical and target modalities.",
+      "path": "papers/P08/REL/P08-REL-005.mp3"
+    },
+    {
+      "id": "P08-MTH-001",
+      "kind": "paper",
+      "text": "The proposed model contains intra-modal modules, inter-modal modules, a text encoder, and a synthesiser.",
+      "path": "papers/P08/MTH/P08-MTH-001.mp3"
+    },
+    {
+      "id": "P08-MTH-002",
+      "kind": "paper",
+      "text": "The first intra-modal path links historical text with the next text.",
+      "path": "papers/P08/MTH/P08-MTH-002.mp3"
+    },
+    {
+      "id": "P08-MTH-003",
+      "kind": "paper",
+      "text": "This path is designed to capture semantic continuity across dialogue turns.",
+      "path": "papers/P08/MTH/P08-MTH-003.mp3"
+    },
+    {
+      "id": "P08-MTH-004",
+      "kind": "paper",
+      "text": "The second intra-modal path links historical speech with the next speech.",
+      "path": "papers/P08/MTH/P08-MTH-004.mp3"
+    },
+    {
+      "id": "P08-MTH-005",
+      "kind": "paper",
+      "text": "This path models the continuation of prosodic patterns in the conversation.",
+      "path": "papers/P08/MTH/P08-MTH-005.mp3"
+    },
+    {
+      "id": "P08-MTH-006",
+      "kind": "paper",
+      "text": "The first inter-modal path links historical text with the next speech.",
+      "path": "papers/P08/MTH/P08-MTH-006.mp3"
+    },
+    {
+      "id": "P08-MTH-007",
+      "kind": "paper",
+      "text": "It learns how earlier linguistic content can influence the next utterance's prosody.",
+      "path": "papers/P08/MTH/P08-MTH-007.mp3"
+    },
+    {
+      "id": "P08-MTH-008",
+      "kind": "paper",
+      "text": "The second inter-modal path links historical speech with the next text.",
+      "path": "papers/P08/MTH/P08-MTH-008.mp3"
+    },
+    {
+      "id": "P08-MTH-009",
+      "kind": "paper",
+      "text": "It helps the model capture information that complements the target sentence's semantics.",
+      "path": "papers/P08/MTH/P08-MTH-009.mp3"
+    },
+    {
+      "id": "P08-MTH-010",
+      "kind": "paper",
+      "text": "Historical text is encoded with pretrained semantic representations and a recurrent context model.",
+      "path": "papers/P08/MTH/P08-MTH-010.mp3"
+    },
+    {
+      "id": "P08-MTH-011",
+      "kind": "paper",
+      "text": "Historical speech is encoded with acoustic features and temporal modelling.",
+      "path": "papers/P08/MTH/P08-MTH-011.mp3"
+    },
+    {
+      "id": "P08-MTH-012",
+      "kind": "paper",
+      "text": "Attention mechanisms combine information across neighbouring turns.",
+      "path": "papers/P08/MTH/P08-MTH-012.mp3"
+    },
+    {
+      "id": "P08-MTH-013",
+      "kind": "paper",
+      "text": "Contrastive objectives align relevant historical representations with the target modalities.",
+      "path": "papers/P08/MTH/P08-MTH-013.mp3"
+    },
+    {
+      "id": "P08-MTH-014",
+      "kind": "paper",
+      "text": "The four learned interaction features are combined with the target text encoding.",
+      "path": "papers/P08/MTH/P08-MTH-014.mp3"
+    },
+    {
+      "id": "P08-MTH-015",
+      "kind": "paper",
+      "text": "During inference, target speech is not available, so the system uses learned historical interactions.",
+      "path": "papers/P08/MTH/P08-MTH-015.mp3"
+    },
+    {
+      "id": "P08-MTH-016",
+      "kind": "paper",
+      "text": "The speech synthesiser produces a waveform with dialogue-appropriate prosodic characteristics.",
+      "path": "papers/P08/MTH/P08-MTH-016.mp3"
+    },
+    {
+      "id": "P08-EXP-001",
+      "kind": "paper",
+      "text": "The experiments use DailyTalk, an English spoken dialogue dataset.",
+      "path": "papers/P08/EXP/P08-EXP-001.mp3"
+    },
+    {
+      "id": "P08-EXP-002",
+      "kind": "paper",
+      "text": "It contains 2,541 dialogues and 23,773 audio segments.",
+      "path": "papers/P08/EXP/P08-EXP-002.mp3"
+    },
+    {
+      "id": "P08-EXP-003",
+      "kind": "paper",
+      "text": "The total recording duration is approximately twenty hours.",
+      "path": "papers/P08/EXP/P08-EXP-003.mp3"
+    },
+    {
+      "id": "P08-EXP-004",
+      "kind": "paper",
+      "text": "The study compares the proposed model with recurrent, graph-based, and contrastive baselines.",
+      "path": "papers/P08/EXP/P08-EXP-004.mp3"
+    },
+    {
+      "id": "P08-EXP-005",
+      "kind": "paper",
+      "text": "Ablation experiments examine the four interaction paths individually and together.",
+      "path": "papers/P08/EXP/P08-EXP-005.mp3"
+    },
+    {
+      "id": "P08-EVA-001",
+      "kind": "paper",
+      "text": "Naturalness DMOS measures the perceived naturalness of the synthesised voice.",
+      "path": "papers/P08/EVA/P08-EVA-001.mp3"
+    },
+    {
+      "id": "P08-EVA-002",
+      "kind": "paper",
+      "text": "Prosody DMOS measures how well intonation and rhythm fit the dialogue.",
+      "path": "papers/P08/EVA/P08-EVA-002.mp3"
+    },
+    {
+      "id": "P08-EVA-003",
+      "kind": "paper",
+      "text": "Pitch mean absolute error measures the accuracy of pitch prediction.",
+      "path": "papers/P08/EVA/P08-EVA-003.mp3"
+    },
+    {
+      "id": "P08-EVA-004",
+      "kind": "paper",
+      "text": "Energy and duration errors measure other aspects of acoustic prosody.",
+      "path": "papers/P08/EVA/P08-EVA-004.mp3"
+    },
+    {
+      "id": "P08-RES-001",
+      "kind": "paper",
+      "text": "I-three-CSS reaches a naturalness DMOS of 3.864 in its ablation table.",
+      "path": "papers/P08/RES/P08-RES-001.mp3"
+    },
+    {
+      "id": "P08-RES-002",
+      "kind": "paper",
+      "text": "Its prosody DMOS reaches 3.876 in the same evaluation.",
+      "path": "papers/P08/RES/P08-RES-002.mp3"
+    },
+    {
+      "id": "P08-RES-003",
+      "kind": "paper",
+      "text": "Combining all four interaction modules gives stronger performance than using isolated paths.",
+      "path": "papers/P08/RES/P08-RES-003.mp3"
+    },
+    {
+      "id": "P08-RES-004",
+      "kind": "paper",
+      "text": "Removing the interaction enhancement mechanism reduces both subjective scores.",
+      "path": "papers/P08/RES/P08-RES-004.mp3"
+    },
+    {
+      "id": "P08-RES-005",
+      "kind": "paper",
+      "text": "The acoustic prediction errors are also lowest in the full configuration of this comparison.",
+      "path": "papers/P08/RES/P08-RES-005.mp3"
+    },
+    {
+      "id": "P08-RES-006",
+      "kind": "paper",
+      "text": "This supports the value of modelling historical and target modalities jointly.",
+      "path": "papers/P08/RES/P08-RES-006.mp3"
+    },
+    {
+      "id": "P08-LIM-001",
+      "kind": "paper",
+      "text": "The model uses separate pathways, which can increase architectural complexity.",
+      "path": "papers/P08/LIM/P08-LIM-001.mp3"
+    },
+    {
+      "id": "P08-LIM-002",
+      "kind": "paper",
+      "text": "The evaluation is mainly based on one relatively small English dialogue dataset.",
+      "path": "papers/P08/LIM/P08-LIM-002.mp3"
+    },
+    {
+      "id": "P08-LIM-003",
+      "kind": "paper",
+      "text": "A useful next step is to test whether the same interactions help larger generative models.",
+      "path": "papers/P08/LIM/P08-LIM-003.mp3"
+    },
+    {
+      "id": "P09-ABS-001",
+      "kind": "paper",
+      "text": "This paper investigates fine-grained interactions in conversational speech synthesis.",
+      "path": "papers/P09/ABS/P09-ABS-001.mp3"
+    },
+    {
+      "id": "P09-ABS-002",
+      "kind": "paper",
+      "text": "Earlier methods mainly model interactions at the utterance level.",
+      "path": "papers/P09/ABS/P09-ABS-002.mp3"
+    },
+    {
+      "id": "P09-ABS-003",
+      "kind": "paper",
+      "text": "However, words within a dialogue contain detailed semantic and prosodic information.",
+      "path": "papers/P09/ABS/P09-ABS-003.mp3"
+    },
+    {
+      "id": "P09-ABS-004",
+      "kind": "paper",
+      "text": "The authors argue that these word-level interactions deserve explicit modelling.",
+      "path": "papers/P09/ABS/P09-ABS-004.mp3"
+    },
+    {
+      "id": "P09-ABS-005",
+      "kind": "paper",
+      "text": "They propose a model called MFCIG-CSS.",
+      "path": "papers/P09/ABS/P09-ABS-005.mp3"
+    },
+    {
+      "id": "P09-ABS-006",
+      "kind": "paper",
+      "text": "The model constructs a semantic interaction graph and a prosody interaction graph.",
+      "path": "papers/P09/ABS/P09-ABS-006.mp3"
+    },
+    {
+      "id": "P09-ABS-007",
+      "kind": "paper",
+      "text": "Both graphs represent how word-level information influences later utterances.",
+      "path": "papers/P09/ABS/P09-ABS-007.mp3"
+    },
+    {
+      "id": "P09-ABS-008",
+      "kind": "paper",
+      "text": "The resulting features guide a speech synthesiser to produce more appropriate prosody.",
+      "path": "papers/P09/ABS/P09-ABS-008.mp3"
+    },
+    {
+      "id": "P09-ABS-009",
+      "kind": "paper",
+      "text": "Experiments on DailyTalk show improvements over the compared systems.",
+      "path": "papers/P09/ABS/P09-ABS-009.mp3"
+    },
+    {
+      "id": "P09-INT-001",
+      "kind": "paper",
+      "text": "Conversational speech generation must consider what happened in previous turns.",
+      "path": "papers/P09/INT/P09-INT-001.mp3"
+    },
+    {
+      "id": "P09-INT-002",
+      "kind": "paper",
+      "text": "Dialogue history contains both textual semantics and acoustic expressions.",
+      "path": "papers/P09/INT/P09-INT-002.mp3"
+    },
+    {
+      "id": "P09-INT-003",
+      "kind": "paper",
+      "text": "A sentence-level representation can capture broad conversational dependencies.",
+      "path": "papers/P09/INT/P09-INT-003.mp3"
+    },
+    {
+      "id": "P09-INT-004",
+      "kind": "paper",
+      "text": "However, it may miss important differences between individual words.",
+      "path": "papers/P09/INT/P09-INT-004.mp3"
+    },
+    {
+      "id": "P09-INT-005",
+      "kind": "paper",
+      "text": "A particular word may carry emphasis, surprise, or another prosodic cue.",
+      "path": "papers/P09/INT/P09-INT-005.mp3"
+    },
+    {
+      "id": "P09-INT-006",
+      "kind": "paper",
+      "text": "These details may affect the way the next speaker should respond.",
+      "path": "papers/P09/INT/P09-INT-006.mp3"
+    },
+    {
+      "id": "P09-INT-007",
+      "kind": "paper",
+      "text": "The authors therefore study interactions between word-level content and later utterance-level states.",
+      "path": "papers/P09/INT/P09-INT-007.mp3"
+    },
+    {
+      "id": "P09-INT-008",
+      "kind": "paper",
+      "text": "They separate semantic interaction from prosodic interaction.",
+      "path": "papers/P09/INT/P09-INT-008.mp3"
+    },
+    {
+      "id": "P09-INT-009",
+      "kind": "paper",
+      "text": "This separation allows the model to learn complementary contextual information.",
+      "path": "papers/P09/INT/P09-INT-009.mp3"
+    },
+    {
+      "id": "P09-REL-001",
+      "kind": "paper",
+      "text": "Earlier CSS approaches have used recurrent networks to represent dialogue history.",
+      "path": "papers/P09/REL/P09-REL-001.mp3"
+    },
+    {
+      "id": "P09-REL-002",
+      "kind": "paper",
+      "text": "Other systems employ graph neural networks for speaker and utterance interactions.",
+      "path": "papers/P09/REL/P09-REL-002.mp3"
+    },
+    {
+      "id": "P09-REL-003",
+      "kind": "paper",
+      "text": "Recent models also study interactions between historical and target modalities.",
+      "path": "papers/P09/REL/P09-REL-003.mp3"
+    },
+    {
+      "id": "P09-REL-004",
+      "kind": "paper",
+      "text": "However, many of these relations are represented at the sentence or utterance level.",
+      "path": "papers/P09/REL/P09-REL-004.mp3"
+    },
+    {
+      "id": "P09-REL-005",
+      "kind": "paper",
+      "text": "MFCIG-CSS extends the analysis to word-level semantic and acoustic information.",
+      "path": "papers/P09/REL/P09-REL-005.mp3"
+    },
+    {
+      "id": "P09-MTH-001",
+      "kind": "paper",
+      "text": "MFCIG-CSS has three main components.",
+      "path": "papers/P09/MTH/P09-MTH-001.mp3"
+    },
+    {
+      "id": "P09-MTH-002",
+      "kind": "paper",
+      "text": "They are a semantic interaction graph, a prosody interaction graph, and a speech synthesiser.",
+      "path": "papers/P09/MTH/P09-MTH-002.mp3"
+    },
+    {
+      "id": "P09-MTH-003",
+      "kind": "paper",
+      "text": "The semantic interaction graph is abbreviated as SIG.",
+      "path": "papers/P09/MTH/P09-MTH-003.mp3"
+    },
+    {
+      "id": "P09-MTH-004",
+      "kind": "paper",
+      "text": "SIG combines utterance-level semantic nodes with word-level text and acoustic nodes.",
+      "path": "papers/P09/MTH/P09-MTH-004.mp3"
+    },
+    {
+      "id": "P09-MTH-005",
+      "kind": "paper",
+      "text": "The graph represents how earlier words can influence later sentence meaning.",
+      "path": "papers/P09/MTH/P09-MTH-005.mp3"
+    },
+    {
+      "id": "P09-MTH-006",
+      "kind": "paper",
+      "text": "Text encoders extract semantic features from the dialogue content.",
+      "path": "papers/P09/MTH/P09-MTH-006.mp3"
+    },
+    {
+      "id": "P09-MTH-007",
+      "kind": "paper",
+      "text": "Acoustic encoders extract word-level prosodic information from aligned speech.",
+      "path": "papers/P09/MTH/P09-MTH-007.mp3"
+    },
+    {
+      "id": "P09-MTH-008",
+      "kind": "paper",
+      "text": "Graph convolution operations exchange information across these node types.",
+      "path": "papers/P09/MTH/P09-MTH-008.mp3"
+    },
+    {
+      "id": "P09-MTH-009",
+      "kind": "paper",
+      "text": "A final semantic interaction representation summarises the information from the graph.",
+      "path": "papers/P09/MTH/P09-MTH-009.mp3"
+    },
+    {
+      "id": "P09-MTH-010",
+      "kind": "paper",
+      "text": "The second graph is called the prosody interaction graph, or PIG.",
+      "path": "papers/P09/MTH/P09-MTH-010.mp3"
+    },
+    {
+      "id": "P09-MTH-011",
+      "kind": "paper",
+      "text": "PIG has a related structure, but its main path follows acoustic prosodic changes.",
+      "path": "papers/P09/MTH/P09-MTH-011.mp3"
+    },
+    {
+      "id": "P09-MTH-012",
+      "kind": "paper",
+      "text": "It models how word meaning and word prosody affect subsequent utterance prosody.",
+      "path": "papers/P09/MTH/P09-MTH-012.mp3"
+    },
+    {
+      "id": "P09-MTH-013",
+      "kind": "paper",
+      "text": "A dedicated interaction node collects the final prosodic representation.",
+      "path": "papers/P09/MTH/P09-MTH-013.mp3"
+    },
+    {
+      "id": "P09-MTH-014",
+      "kind": "paper",
+      "text": "The semantic and prosody features are fused with the target text representation.",
+      "path": "papers/P09/MTH/P09-MTH-014.mp3"
+    },
+    {
+      "id": "P09-MTH-015",
+      "kind": "paper",
+      "text": "The synthesiser then generates speech conditioned on these fine-grained interactions.",
+      "path": "papers/P09/MTH/P09-MTH-015.mp3"
+    },
+    {
+      "id": "P09-MTH-016",
+      "kind": "paper",
+      "text": "The acoustic generation architecture follows the earlier I-three-CSS setup.",
+      "path": "papers/P09/MTH/P09-MTH-016.mp3"
+    },
+    {
+      "id": "P09-EXP-001",
+      "kind": "paper",
+      "text": "The main experiments are performed on DailyTalk.",
+      "path": "papers/P09/EXP/P09-EXP-001.mp3"
+    },
+    {
+      "id": "P09-EXP-002",
+      "kind": "paper",
+      "text": "The study compares MFCIG-CSS with several representative conversational synthesis methods.",
+      "path": "papers/P09/EXP/P09-EXP-002.mp3"
+    },
+    {
+      "id": "P09-EXP-003",
+      "kind": "paper",
+      "text": "These include CONCSS, ECSS, and I-three-CSS.",
+      "path": "papers/P09/EXP/P09-EXP-003.mp3"
+    },
+    {
+      "id": "P09-EXP-004",
+      "kind": "paper",
+      "text": "Ablation experiments separately remove the semantic and prosody interaction graphs.",
+      "path": "papers/P09/EXP/P09-EXP-004.mp3"
+    },
+    {
+      "id": "P09-EXP-005",
+      "kind": "paper",
+      "text": "This allows the authors to evaluate the contribution of each pathway.",
+      "path": "papers/P09/EXP/P09-EXP-005.mp3"
+    },
+    {
+      "id": "P09-EVA-001",
+      "kind": "paper",
+      "text": "Naturalness DMOS measures whether the audio sounds natural to listeners.",
+      "path": "papers/P09/EVA/P09-EVA-001.mp3"
+    },
+    {
+      "id": "P09-EVA-002",
+      "kind": "paper",
+      "text": "Prosody DMOS measures whether the speech expresses appropriate conversational intonation.",
+      "path": "papers/P09/EVA/P09-EVA-002.mp3"
+    },
+    {
+      "id": "P09-EVA-003",
+      "kind": "paper",
+      "text": "Pitch mean absolute error evaluates the accuracy of the pitch pattern.",
+      "path": "papers/P09/EVA/P09-EVA-003.mp3"
+    },
+    {
+      "id": "P09-EVA-004",
+      "kind": "paper",
+      "text": "Energy mean absolute error measures the prediction of acoustic energy.",
+      "path": "papers/P09/EVA/P09-EVA-004.mp3"
+    },
+    {
+      "id": "P09-EVA-005",
+      "kind": "paper",
+      "text": "Mel-cepstral distortion measures differences in spectral characteristics.",
+      "path": "papers/P09/EVA/P09-EVA-005.mp3"
+    },
+    {
+      "id": "P09-RES-001",
+      "kind": "paper",
+      "text": "The full model reports stronger subjective prosody scores than the main comparison systems.",
+      "path": "papers/P09/RES/P09-RES-001.mp3"
+    },
+    {
+      "id": "P09-RES-002",
+      "kind": "paper",
+      "text": "The results support the value of word-level interaction modelling.",
+      "path": "papers/P09/RES/P09-RES-002.mp3"
+    },
+    {
+      "id": "P09-RES-003",
+      "kind": "paper",
+      "text": "Removing the semantic graph reduces the quality of context-dependent speech generation.",
+      "path": "papers/P09/RES/P09-RES-003.mp3"
+    },
+    {
+      "id": "P09-RES-004",
+      "kind": "paper",
+      "text": "Removing the prosody graph also reduces performance on prosody-related measures.",
+      "path": "papers/P09/RES/P09-RES-004.mp3"
+    },
+    {
+      "id": "P09-RES-005",
+      "kind": "paper",
+      "text": "Removing both interaction graphs produces a particularly large decline.",
+      "path": "papers/P09/RES/P09-RES-005.mp3"
+    },
+    {
+      "id": "P09-RES-006",
+      "kind": "paper",
+      "text": "The study suggests that semantic and prosodic interactions provide complementary information.",
+      "path": "papers/P09/RES/P09-RES-006.mp3"
+    },
+    {
+      "id": "P09-LIM-001",
+      "kind": "paper",
+      "text": "The authors evaluate the graph modules using a FastSpeech 2 based architecture.",
+      "path": "papers/P09/LIM/P09-LIM-001.mp3"
+    },
+    {
+      "id": "P09-LIM-002",
+      "kind": "paper",
+      "text": "They have not yet extended the framework to all token-based speech generation architectures.",
+      "path": "papers/P09/LIM/P09-LIM-002.mp3"
+    },
+    {
+      "id": "P09-LIM-003",
+      "kind": "paper",
+      "text": "The current graphs do not explicitly include all acoustic phenomena, such as pauses and emphasis.",
+      "path": "papers/P09/LIM/P09-LIM-003.mp3"
+    },
+    {
+      "id": "P09-LIM-004",
+      "kind": "paper",
+      "text": "Future work aims to add these richer prosodic details and study broader synthesis models.",
+      "path": "papers/P09/LIM/P09-LIM-004.mp3"
+    },
+    {
+      "id": "P10-ABS-001",
+      "kind": "paper",
+      "text": "This paper explores contrastive learning for conversational speech synthesis.",
+      "path": "papers/P10/ABS/P10-ABS-001.mp3"
+    },
+    {
+      "id": "P10-ABS-002",
+      "kind": "paper",
+      "text": "The goal is to generate speech with prosody that fits the previous dialogue.",
+      "path": "papers/P10/ABS/P10-ABS-002.mp3"
+    },
+    {
+      "id": "P10-ABS-003",
+      "kind": "paper",
+      "text": "Earlier context encoders sometimes failed to distinguish between different conversational situations.",
+      "path": "papers/P10/ABS/P10-ABS-003.mp3"
+    },
+    {
+      "id": "P10-ABS-004",
+      "kind": "paper",
+      "text": "The authors propose a model called CONCSS.",
+      "path": "papers/P10/ABS/P10-ABS-004.mp3"
+    },
+    {
+      "id": "P10-ABS-005",
+      "kind": "paper",
+      "text": "The model learns more discriminative dialogue representations through a self-supervised pretext task.",
+      "path": "papers/P10/ABS/P10-ABS-005.mp3"
+    },
+    {
+      "id": "P10-ABS-006",
+      "kind": "paper",
+      "text": "A hard negative sampling strategy makes context learning more challenging.",
+      "path": "papers/P10/ABS/P10-ABS-006.mp3"
+    },
+    {
+      "id": "P10-ABS-007",
+      "kind": "paper",
+      "text": "An autoregressive prosody module further improves the generation of natural intonation.",
+      "path": "papers/P10/ABS/P10-ABS-007.mp3"
+    },
+    {
+      "id": "P10-ABS-008",
+      "kind": "paper",
+      "text": "The evaluation shows improvements in context-sensitive prosody.",
+      "path": "papers/P10/ABS/P10-ABS-008.mp3"
+    },
+    {
+      "id": "P10-INT-001",
+      "kind": "paper",
+      "text": "Modern text-to-speech systems can produce high-quality audio.",
+      "path": "papers/P10/INT/P10-INT-001.mp3"
+    },
+    {
+      "id": "P10-INT-002",
+      "kind": "paper",
+      "text": "However, realistic dialogue requires more than clear pronunciation.",
+      "path": "papers/P10/INT/P10-INT-002.mp3"
+    },
+    {
+      "id": "P10-INT-003",
+      "kind": "paper",
+      "text": "The voice must react appropriately to the speaker's previous context.",
+      "path": "papers/P10/INT/P10-INT-003.mp3"
+    },
+    {
+      "id": "P10-INT-004",
+      "kind": "paper",
+      "text": "Multimodal dialogue history can provide linguistic and acoustic clues.",
+      "path": "papers/P10/INT/P10-INT-004.mp3"
+    },
+    {
+      "id": "P10-INT-005",
+      "kind": "paper",
+      "text": "Existing context encoders may not distinguish subtle changes between dialogue situations.",
+      "path": "papers/P10/INT/P10-INT-005.mp3"
+    },
+    {
+      "id": "P10-INT-006",
+      "kind": "paper",
+      "text": "A stronger context representation should respond to meaningful changes in historical speech.",
+      "path": "papers/P10/INT/P10-INT-006.mp3"
+    },
+    {
+      "id": "P10-INT-007",
+      "kind": "paper",
+      "text": "Contrastive learning offers a way to separate different contexts in the representation space.",
+      "path": "papers/P10/INT/P10-INT-007.mp3"
+    },
+    {
+      "id": "P10-INT-008",
+      "kind": "paper",
+      "text": "The authors therefore design a context-specific pretext task for conversational synthesis.",
+      "path": "papers/P10/INT/P10-INT-008.mp3"
+    },
+    {
+      "id": "P10-INT-009",
+      "kind": "paper",
+      "text": "They also consider how to choose negative samples that are difficult to distinguish.",
+      "path": "papers/P10/INT/P10-INT-009.mp3"
+    },
+    {
+      "id": "P10-REL-001",
+      "kind": "paper",
+      "text": "Early conversational speech synthesis used recurrent encoders to model previous utterances.",
+      "path": "papers/P10/REL/P10-REL-001.mp3"
+    },
+    {
+      "id": "P10-REL-002",
+      "kind": "paper",
+      "text": "Multimodal models combine text and acoustic history to predict speaking style.",
+      "path": "papers/P10/REL/P10-REL-002.mp3"
+    },
+    {
+      "id": "P10-REL-003",
+      "kind": "paper",
+      "text": "Contrastive learning is often used to improve representation quality without explicit class labels.",
+      "path": "papers/P10/REL/P10-REL-003.mp3"
+    },
+    {
+      "id": "P10-REL-004",
+      "kind": "paper",
+      "text": "Triplet learning compares an anchor with one positive and one negative example.",
+      "path": "papers/P10/REL/P10-REL-004.mp3"
+    },
+    {
+      "id": "P10-REL-005",
+      "kind": "paper",
+      "text": "CONCSS adapts these principles to context representations for speech synthesis.",
+      "path": "papers/P10/REL/P10-REL-005.mp3"
+    },
+    {
+      "id": "P10-MTH-001",
+      "kind": "paper",
+      "text": "The first step extracts textual and acoustic representations of the dialogue history.",
+      "path": "papers/P10/MTH/P10-MTH-001.mp3"
+    },
+    {
+      "id": "P10-MTH-002",
+      "kind": "paper",
+      "text": "A context encoder summarises each modality into a representation vector.",
+      "path": "papers/P10/MTH/P10-MTH-002.mp3"
+    },
+    {
+      "id": "P10-MTH-003",
+      "kind": "paper",
+      "text": "The pretext task defines positive and negative dialogue examples.",
+      "path": "papers/P10/MTH/P10-MTH-003.mp3"
+    },
+    {
+      "id": "P10-MTH-004",
+      "kind": "paper",
+      "text": "A positive example comes from the same dialogue with a different history length.",
+      "path": "papers/P10/MTH/P10-MTH-004.mp3"
+    },
+    {
+      "id": "P10-MTH-005",
+      "kind": "paper",
+      "text": "A negative example comes from another dialogue with a different context.",
+      "path": "papers/P10/MTH/P10-MTH-005.mp3"
+    },
+    {
+      "id": "P10-MTH-006",
+      "kind": "paper",
+      "text": "The model is trained to make positive representations more similar.",
+      "path": "papers/P10/MTH/P10-MTH-006.mp3"
+    },
+    {
+      "id": "P10-MTH-007",
+      "kind": "paper",
+      "text": "It also separates the anchor representation from negative contexts.",
+      "path": "papers/P10/MTH/P10-MTH-007.mp3"
+    },
+    {
+      "id": "P10-MTH-008",
+      "kind": "paper",
+      "text": "Some negative samples come from different conversations involving the same speakers.",
+      "path": "papers/P10/MTH/P10-MTH-008.mp3"
+    },
+    {
+      "id": "P10-MTH-009",
+      "kind": "paper",
+      "text": "These same-speaker negatives can be difficult because their speaking characteristics are similar.",
+      "path": "papers/P10/MTH/P10-MTH-009.mp3"
+    },
+    {
+      "id": "P10-MTH-010",
+      "kind": "paper",
+      "text": "Other negative examples come from conversations with different speakers.",
+      "path": "papers/P10/MTH/P10-MTH-010.mp3"
+    },
+    {
+      "id": "P10-MTH-011",
+      "kind": "paper",
+      "text": "A triplet loss encourages a useful margin between positive and negative samples.",
+      "path": "papers/P10/MTH/P10-MTH-011.mp3"
+    },
+    {
+      "id": "P10-MTH-012",
+      "kind": "paper",
+      "text": "The constraint is applied to both textual and acoustic context features.",
+      "path": "papers/P10/MTH/P10-MTH-012.mp3"
+    },
+    {
+      "id": "P10-MTH-013",
+      "kind": "paper",
+      "text": "The learned context embeddings are then used to condition speech generation.",
+      "path": "papers/P10/MTH/P10-MTH-013.mp3"
+    },
+    {
+      "id": "P10-MTH-014",
+      "kind": "paper",
+      "text": "An autoregressive prosody module models dependencies between neighbouring prosodic states.",
+      "path": "papers/P10/MTH/P10-MTH-014.mp3"
+    },
+    {
+      "id": "P10-MTH-015",
+      "kind": "paper",
+      "text": "It uses a pretrained prosodic language model to encourage fluent expression.",
+      "path": "papers/P10/MTH/P10-MTH-015.mp3"
+    },
+    {
+      "id": "P10-MTH-016",
+      "kind": "paper",
+      "text": "The overall architecture extends a VITS-based speech synthesis backbone.",
+      "path": "papers/P10/MTH/P10-MTH-016.mp3"
+    },
+    {
+      "id": "P10-EXP-001",
+      "kind": "paper",
+      "text": "The study uses a Chinese conversational speech corpus for model training.",
+      "path": "papers/P10/EXP/P10-EXP-001.mp3"
+    },
+    {
+      "id": "P10-EXP-002",
+      "kind": "paper",
+      "text": "The speech synthesis backbone is first pretrained on the Biaobei Chinese dataset.",
+      "path": "papers/P10/EXP/P10-EXP-002.mp3"
+    },
+    {
+      "id": "P10-EXP-003",
+      "kind": "paper",
+      "text": "The authors compare the framework with GRU-based synthesis and M2CTTS.",
+      "path": "papers/P10/EXP/P10-EXP-003.mp3"
+    },
+    {
+      "id": "P10-EXP-004",
+      "kind": "paper",
+      "text": "They also test alternative contrastive objectives and negative sampling strategies.",
+      "path": "papers/P10/EXP/P10-EXP-004.mp3"
+    },
+    {
+      "id": "P10-EXP-005",
+      "kind": "paper",
+      "text": "The effect of autoregressive prosodic modelling is evaluated separately.",
+      "path": "papers/P10/EXP/P10-EXP-005.mp3"
+    },
+    {
+      "id": "P10-EVA-001",
+      "kind": "paper",
+      "text": "Naturalness MOS rates the overall naturalness of the synthesised speech.",
+      "path": "papers/P10/EVA/P10-EVA-001.mp3"
+    },
+    {
+      "id": "P10-EVA-002",
+      "kind": "paper",
+      "text": "Comparative MOS asks listeners which of two systems has more suitable conversational prosody.",
+      "path": "papers/P10/EVA/P10-EVA-002.mp3"
+    },
+    {
+      "id": "P10-EVA-003",
+      "kind": "paper",
+      "text": "Mel loss measures the difference between predicted and reference acoustic spectra.",
+      "path": "papers/P10/EVA/P10-EVA-003.mp3"
+    },
+    {
+      "id": "P10-EVA-004",
+      "kind": "paper",
+      "text": "Log pitch root mean squared error measures errors in fundamental frequency patterns.",
+      "path": "papers/P10/EVA/P10-EVA-004.mp3"
+    },
+    {
+      "id": "P10-EVA-005",
+      "kind": "paper",
+      "text": "Mel-cepstral distortion measures spectral differences after alignment.",
+      "path": "papers/P10/EVA/P10-EVA-005.mp3"
+    },
+    {
+      "id": "P10-RES-001",
+      "kind": "paper",
+      "text": "The full CONCSS system reports a naturalness MOS of 3.967.",
+      "path": "papers/P10/RES/P10-RES-001.mp3"
+    },
+    {
+      "id": "P10-RES-002",
+      "kind": "paper",
+      "text": "It outperforms the main recurrent and multimodal comparison systems in the reported evaluations.",
+      "path": "papers/P10/RES/P10-RES-002.mp3"
+    },
+    {
+      "id": "P10-RES-003",
+      "kind": "paper",
+      "text": "The triplet loss improves contextual discrimination compared with simpler contrastive learning.",
+      "path": "papers/P10/RES/P10-RES-003.mp3"
+    },
+    {
+      "id": "P10-RES-004",
+      "kind": "paper",
+      "text": "Hard negative sampling provides a further improvement in contextual prosody.",
+      "path": "papers/P10/RES/P10-RES-004.mp3"
+    },
+    {
+      "id": "P10-RES-005",
+      "kind": "paper",
+      "text": "The autoregressive prosody module also improves naturalness scores.",
+      "path": "papers/P10/RES/P10-RES-005.mp3"
+    },
+    {
+      "id": "P10-RES-006",
+      "kind": "paper",
+      "text": "The results show that better context embeddings can lead to more suitable speech prosody.",
+      "path": "papers/P10/RES/P10-RES-006.mp3"
+    },
+    {
+      "id": "P10-LIM-001",
+      "kind": "paper",
+      "text": "The quality of the learned representation depends on how positive and negative examples are selected.",
+      "path": "papers/P10/LIM/P10-LIM-001.mp3"
+    },
+    {
+      "id": "P10-LIM-002",
+      "kind": "paper",
+      "text": "Some same-speaker negatives may be challenging but not equally informative.",
+      "path": "papers/P10/LIM/P10-LIM-002.mp3"
+    },
+    {
+      "id": "P10-LIM-003",
+      "kind": "paper",
+      "text": "Future research could study more adaptive sampling and richer dialogue context representations.",
+      "path": "papers/P10/LIM/P10-LIM-003.mp3"
+    }
+  ]
+}
